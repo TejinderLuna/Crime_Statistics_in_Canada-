@@ -1,0 +1,310 @@
+{
+  "cities" : [
+    {
+      "city_id" : "1",
+      "city_name" : "Barrie",
+      "geo_center": {"lat": 44.3819418, "lng": -79.6810025},
+      "zoom": 12
+    },
+    {
+      "city_id" : "2",
+      "city_name" : "Belleville",
+      "geo_center": {"lat": 44.2026241, "lng": -77.3594326},
+      "zoom": 12
+    },
+    {
+      "city_id" : "3",
+      "city_name" : "Brampton",
+      "geo_center": {"lat": 43.7244763, "lng": -79.7516578},
+      "zoom": 11
+    },
+    {
+      "city_id" : "4",
+      "city_name" : "Brant",
+      "geo_center": {"lat": 43.1518493, "lng": -80.301319},
+      "zoom": 11
+    },
+    {
+      "city_id" : "5",
+      "city_name" : "Brantford",
+      "geo_center": {"lat": 43.14446, "lng": -80.26939},
+      "zoom": 13
+    },
+    {
+      "city_id" : "6",
+      "city_name" : "Brockville",
+      "geo_center": {"lat": 44.6023949, "lng": -75.7004997},
+      "zoom": 14
+    },
+    {
+      "city_id" : "7",
+      "city_name" : "Burlington",
+      "geo_center": {"lat": 43.365502, "lng": -79.8082398},
+      "zoom": 12
+    },
+    {
+      "city_id" : "8",
+      "city_name" : "Cambridge",
+      "geo_center": {"lat": 43.4034629, "lng": -80.319716},
+      "zoom": 12
+    },
+    {
+      "city_id" : "9",
+      "city_name" : "Clarence-Rockland",
+      "geo_center": {"lat": 45.4709042, "lng": -75.1827011},
+      "zoom": 11
+    },
+    {
+      "city_id" : "10",
+      "city_name" : "Cornwall",
+      "geo_center": {"lat": 45.0268805, "lng": -74.7254445},
+      "zoom": 13
+    },
+    {
+      "city_id" : "11",
+      "city_name" : "Dryden",
+      "geo_center": {"lat": 49.7793251, "lng": -92.822892},
+      "zoom": 13
+    },
+    {
+      "city_id" : "12",
+      "city_name" : "Elliot Lake",
+      "geo_center": {"lat": 46.3810032, "lng": -82.6558391},
+      "zoom": 14
+    },
+    {
+      "city_id" : "13",
+      "city_name" : "Greater Sudbury",
+      "geo_center": {"lat": 46.5048648, "lng": -80.9454099},
+      "zoom": 11
+    },
+    {
+      "city_id" : "14",
+      "city_name" : "Guelph",
+      "geo_center": {"lat": 43.5441178, "lng": -80.2470371},
+      "zoom": 13
+    },
+    {
+      "city_id" : "15",
+      "city_name" : "Haldimand County",
+      "geo_center": {"lat": 42.9422267, "lng": -79.8731454},
+      "zoom": 11
+    },
+    {
+      "city_id" : "16",
+      "city_name" : "Hamilton",
+      "geo_center": {"lat": 43.2739683, "lng": -79.9730159},
+      "zoom": 11
+    },
+    {
+      "city_id" : "17",
+      "city_name" : "Kawartha Lakes",
+      "geo_center": {"lat": 44.5588158, "lng": -78.8694531},
+      "zoom": 10
+    },
+    {
+      "city_id" : "18",
+      "city_name" : "Kenora",
+      "geo_center": {"lat": 49.8250189, "lng": -94.4261142},
+      "zoom": 12
+    },
+    {
+      "city_id" : "19",
+      "city_name" : "Kingston",
+      "geo_center": {"lat": 44.2875724, "lng": -76.4821311},
+      "zoom": 12
+    },
+    {
+      "city_id" : "20",
+      "city_name" : "Kitchener",
+      "geo_center": {"lat": 43.4323434, "lng": -80.4809603},
+      "zoom": 12
+    },
+    {
+      "city_id" : "21",
+      "city_name" : "London",
+      "geo_center": {"lat": 42.9881114, "lng": -81.2345542},
+      "zoom": 11
+    },
+    {
+      "city_id" : "22",
+      "city_name" : "Markham",
+      "geo_center": {"lat": 43.8898708, "lng": -79.283756},
+      "zoom": 12
+    },
+    {
+      "city_id" : "23",
+      "city_name" : "Mississauga",
+      "geo_center": {"lat": 43.6082528, "lng": -79.6372112},
+      "zoom": 11
+    },
+    {
+      "city_id" : "24",
+      "city_name" : "Niagara Falls",
+      "geo_center": {"lat": 43.0683958, "lng": -79.097658},
+      "zoom": 12
+    },
+    {
+      "city_id" : "25",
+      "city_name" : "Norfolk County",
+      "geo_center": {"lat": 42.7961087, "lng": -80.3847159},
+      "zoom": 10
+    },
+    {
+      "city_id" : "26",
+      "city_name" : "North Bay",
+      "geo_center": {"lat": 46.337827, "lng": -79.3949649},
+      "zoom": 12
+    },
+    {
+      "city_id" : "27",
+      "city_name" : "Orillia",
+      "geo_center": {"lat": 44.6062387, "lng": -79.4246416},
+      "zoom": 13
+    },
+    {
+      "city_id" : "28",
+      "city_name" : "Oshawa",
+      "geo_center": {"lat": 43.9020305, "lng": -78.8811079},
+      "zoom": 12
+    },
+    {
+      "city_id" : "29",
+      "city_name" : "Ottawa",
+      "geo_center": {"lat": 45.2913112, "lng": -75.697418},
+      "zoom": 10
+    },
+    {
+      "city_id" : "30",
+      "city_name" : "Owen Sound",
+      "geo_center": {"lat": 44.5757822, "lng": -80.9382052},
+      "zoom": 13
+    },
+    {
+      "city_id" : "31",
+      "city_name" : "Pembroke",
+      "geo_center": {"lat": 45.819062, "lng": -77.1150046},
+      "zoom": 14
+    },
+    {
+      "city_id" : "32",
+      "city_name" : "Peterborough",
+      "geo_center": {"lat": 44.3036264, "lng": -78.332958},
+      "zoom": 13
+    },
+    {
+      "city_id" : "33",
+      "city_name" : "Pickering",
+      "geo_center": {"lat": 43.8929158, "lng": -79.1070488},
+      "zoom": 12
+    },
+    {
+      "city_id" : "34",
+      "city_name" : "Port Colborne",
+      "geo_center": {"lat": 42.8917106, "lng": -79.2495174},
+      "zoom": 14
+    },
+    {
+      "city_id" : "35",
+      "city_name" : "Prince Edward County",
+      "geo_center": {"lat": 44.0177752, "lng": -77.2134556},
+      "zoom": 11
+    },
+    {
+      "city_id" : "36",
+      "city_name" : "Quinte West",
+      "geo_center": {"lat": 44.1682578, "lng": -77.5661203},
+      "zoom": 11
+    },
+    {
+      "city_id" : "37",
+      "city_name" : "Sarnia",
+      "geo_center": {"lat": 42.9885287, "lng": -82.375574},
+      "zoom": 13
+    },
+    {
+      "city_id" : "38",
+      "city_name" : "Sault Ste. Marie",
+      "geo_center": {"lat": 46.5411018, "lng": -84.391541},
+      "zoom": 12
+    },
+    {
+      "city_id" : "39",
+      "city_name" : "St. Catharines",
+      "geo_center": {"lat": 43.1658485, "lng": -79.2503272},
+      "zoom": 12
+    },
+    {
+      "city_id" : "40",
+      "city_name" : "St. Thomas",
+      "geo_center": {"lat": 42.7782592, "lng": -81.1856994},
+      "zoom": 13
+    },
+    {
+      "city_id" : "41",
+      "city_name" : "Stratford",
+      "geo_center": {"lat": 43.3693798, "lng": -80.9866519},
+      "zoom": 14
+    },
+    {
+      "city_id" : "42",
+      "city_name" : "Temiskaming Shores",
+      "geo_center": {"lat": 47.509646, "lng": -79.6779402},
+      "zoom": 14
+    },
+    {
+      "city_id" : "43",
+      "city_name" : "Thorold",
+      "geo_center": {"lat": 43.1090791, "lng": -79.2240545},
+      "zoom": 13
+    },
+    {
+      "city_id" : "44",
+      "city_name" : "Thunder Bay",
+      "geo_center": {"lat": 48.4145523, "lng": -89.2408779},
+      "zoom": 12
+    },
+    {
+      "city_id" : "45",
+      "city_name" : "Timmins",
+      "geo_center": {"lat": 48.479031, "lng": -81.3333861},
+      "zoom": 14
+    },
+    {
+      "city_id" : "46",
+      "city_name" : "Toronto",
+      "geo_center": {"lat": 43.7181489, "lng": -79.3684881},
+      "zoom": 11
+    },
+    {
+      "city_id" : "47",
+      "city_name" : "Vaughan",
+      "geo_center": {"lat": 43.840714, "lng": -79.5803709},
+      "zoom": 12
+    },
+    {
+      "city_id" : "48",
+      "city_name" : "Waterloo",
+      "geo_center": {"lat": 43.4814498, "lng": -80.5388256},
+      "zoom": 13
+    },
+    {
+      "city_id" : "49",
+      "city_name" : "Welland",
+      "geo_center": {"lat": 42.9926442, "lng": -79.2546824},
+      "zoom": 13
+    },
+    {
+      "city_id" : "50",
+      "city_name" : "Windsor",
+      "geo_center": {"lat": 42.2917885, "lng": -82.9802253},
+      "zoom": 12
+    },
+    {
+      "city_id" : "51",
+      "city_name" : "Woodstock",
+      "geo_center": {"lat": 43.1311396, "lng": -80.7461187},
+      "zoom": 14
+    }
+  ]
+}

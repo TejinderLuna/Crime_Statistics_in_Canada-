@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Heatmap</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    <link rel="stylesheet" href="../css_styles/main-style.css" type="text/css">
+
+</head>
+<body>
+
+<div class="container-fluid">
+    <!--start banner-->
+    <div id="banner_display" class="padding-left-5">
+        <div class="row">
+            <div class="col-sm-1">
+                <div id="banner_image_container" class="image_container">
+                    <img src="../images/75px-Toronto_Police_Service_Logo.svg.png"/>
+                </div>
+            </div>
+            <div class="col-sm-5">
+                <h2>Crime statistics in Canada</h2>
+                <p>Made by Emre, Tejinder and Zhongjie</p>
+            </div>
+        </div>
+    </div>
+
+    <!--end banner-->
+
+    <!--start menu bar-->
+    <div id="menu-bar">
+        <nav class="navbar navbar-inverse">
+            <div class="container-fluid padding-left-5">
+                <ul class="nav navbar-nav ">
+                    <li class="active"><a href="../index.html">Home</a></li>
+                    <li><a href="../data_in_tables/data_in_table.html">Data in HTML Table</a></li>
+                    <li class="dropdown">
+                        <a class="dropdown-toggle" data-toggle="dropdown" href="#">Data in Google Charts<span class="caret"></span></a>
+                        <ul class="dropdown-menu">
+                            <li><a href="../data_in_charts/data_in_chart.html">Display Charts (Google Charts)</a></li>
+                            <li><a href="../data_in_charts/twitter_and_weather.html">Twitter API & Weather API</a></li>
+                        </ul>
+                    </li>
+                    <li class="dropdown">
+                        <a class="dropdown-toggle" data-toggle="dropdown" href="#">Data in Google Maps<span class="caret"></span></a>
+                        <ul class="dropdown-menu">
+                            <li><a href="data_in_map_circles.html">Display Circle (Google Maps)</a></li>
+                            <li><a href="data_in_map_heatmaps.html">Display Heatmap (Google Maps)</a></li>
+                            <li><a href="data_in_map_police_station_search.html">Police Station Search & Direction (Google Maps)</a></li>
+                            <li><a href="youtube_how_to_prevent.html">Crime Prevention (YouTube)</a></li>
+                            <li><a href="problem_solving.html">Problem Solving</a></li>
+                        </ul>
+                    </li>
+                </ul>
+            </div>
+        </nav>
+    </div>
+    <!--end menu bar-->
+
+
+    <!--start display-area-1-->
+    <div id="display-area-1" class="padding-left-5 padding-right-5">
+        <div class="row">
+            <div class="col-sm-9">
+                <div class="row" id="map_display">
+                    <div id="display-area-img-container" class="embed-responsive embed-responsive-16by9 image_container">
+                        <img src="../images/crime_statistics_in_canada_zhongjie.jpg"/>
+                    </div>
+                </div>
+                <div id="heatmap_legend" class="row">
+                    <div class="col-sm-6" id="crimevolume-max" style="text-align: right">max</div>
+                    <!--<div class="color-key col-sm-6"><span id="data-caret">&nbsp;</span></div>-->
+                    <div class="col-sm-6" id="crimevolume-min" style="text-align: left">min</div>
+                </div>
+            </div>
+
+            <div id="user-selection" class="col-sm-3">
+                <form>
+                    <div class="form-group">
+                        <label for="year">Select Year:</label>
+                        <select class="form-control" id="year">
+                        </select>
+                        <br/>
+                        <label for="crimeList">Select Crime:</label>
+                        <select class="form-control" id="crimeList" size="15">
+                        </select>
+                        <br/>
+                        <input type="button" class="btn btn-primary btn-block" id="zhongjie_plot_map" name="generate_map" value="Plot Map"/><br/>
+                        <input type="button" class="btn btn-primary btn-block" id="zhongjie_toggleHeatmap" name="toggleHeatmap" value="Toggle Heatmap"/><br/>
+                        <input type="button" class="btn btn-primary btn-block" id="zhongjie_changeHeatmapGradient" name="changeHeatmapGradient" value="Change Gradient"/><br/>
+                        <label class="label_level1" for="zhongjie_changeOpacity">Opacity:</label><br/>
+                        <input type="number" class="form-control" id="zhongjie_changeOpacity" min ="0.1" max="1" step ="0.05" value="0.5"/><br/>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+    <!--end display-area-1-->
+
+    <!--start footer-->
+    <div id="footer">
+        <p>XML and Javascript course group project 2017&copy;</p>
+    </div>
+    <!--end footer-->
+</div>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+<script src="../scripts/menubar_sticky.js" language="JavaScript" type="text/javascript"></script>
+<script src="./scripts/data_in_map_heatmaps.js" language="JavaScript" type="text/javascript"></script>
+<script language="JavaScript" type="text/javascript" async defer
+        src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCixf-i7SffdHdh0AhIxZ2HjR-Bi3_kxz4&libraries=visualization"></script>
+</body>
+</html>

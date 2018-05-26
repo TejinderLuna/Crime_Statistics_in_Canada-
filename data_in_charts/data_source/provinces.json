@@ -1,0 +1,146 @@
+{
+  "provincearray" : [
+    {
+      "province": "Canada"
+    },
+    {
+      "province": "Newfoundland and Labrador"
+    },
+    {
+      "province": "St. John's, Newfoundland and Labrador"
+    },
+    {
+      "province": "Prince Edward Island (51)"
+    },
+    {
+      "province": "Halifax, Nova Scotia"
+    },
+    {
+      "province": "New Brunswick"
+    },
+    {
+      "province": "Moncton, New Brunswick"
+    },
+    {
+      "province": "Saint John, New Brunswick"
+    },
+    {
+      "province": "Quebec (50,62,80)"
+    },
+    {
+      "province": "Saguenay, Quebec (5,55)"
+    },
+    {
+      "province": "Quebec, Quebec"
+    },
+    {
+      "province": "Sherbrooke, Quebec (32,37)"
+    },
+    {
+      "province": "Trois-Rivieres, Quebec"
+    },
+    {
+      "province": "Montreal, Quebec"
+    },
+    {
+      "province": "Ottawa-Gatineau, Quebec part"
+    },
+    {
+      "province": "Ontario"
+    },
+    {
+      "province": "Ottawa-Gatineau, Ontario/Quebec"
+    },
+    {
+      "province": "Ottawa-Gatineau, Ontario part"
+    },
+    {
+      "province": "Kingston, Ontario"
+    },
+    {
+      "province": "Peterborough, Ontario"
+    },
+    {
+      "province": "Toronto, Ontario"
+    },
+    {
+      "province": "Hamilton, Ontario"
+    },
+    {
+      "province": "St.Catharines-Niagara, Ontario"
+    },
+    {
+      "province": "Kitchener-Cambridge-Waterloo, Ontario"
+    },
+    {
+      "province": "Brantford, Ontario"
+    },
+    {
+      "province": "Guelph, Ontario"
+    },
+    {
+      "province": "London, Ontario"
+    },
+    {
+      "province": "Windsor, Ontario"
+    },
+    {
+      "province": "Barrie, Ontario"
+    },
+    {
+      "province": "Greater Sudbury, Ontario"
+    },
+    {
+      "province": "Thunder Bay, Ontario"
+    },
+    {
+      "province": "Manitoba"
+    },
+    {
+      "province": "Winnipeg, Manitoba"
+    },
+    {
+      "province": "Saskatchewan"
+    },
+    {
+      "province": "Regina, Saskatchewan"
+    },
+    {
+      "province": "Saskatoon, Saskatchewan"
+    },
+    {
+      "province": "Alberta"
+    },
+    {
+      "province": "Calgary, Alberta"
+    },
+    {
+      "province": "Edmonton, Alberta"
+    },
+    {
+      "province": "British Columbia"
+    },
+    {
+      "province": "Kelowna, British Columbia"
+    },
+    {
+      "province": "Abbotsford-Mission, British Columbia"
+    },
+    {
+      "province": "Vancouver, British Columbia"
+    },
+    {
+      "province": "Victoria, British Columbia"
+    },
+    {
+      "province": "Yukon"
+    },
+    {
+      "province": "Northwest Territories"
+    },
+    {
+      "province": "Nunavut"
+    }
+
+  ]
+}

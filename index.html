@@ -1,0 +1,180 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Home</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    <link rel="stylesheet" href="./css_styles/album.css">
+    <link rel="stylesheet" href="./css_styles/main-style.css" type="text/css">
+
+</head>
+<body>
+
+<div class="container-fluid">
+    <!--start banner-->
+    <div id="banner_display" class="padding-left-5">
+        <div class="row">
+            <div class="col-sm-1">
+                <div id="banner_image_container" class="image_container">
+                    <img src="./images/75px-Toronto_Police_Service_Logo.svg.png"/>
+                </div>
+            </div>
+            <div id="banner_text" class="col-sm-5">
+                <h2>Crime statistics in Canada</h2>
+                <p>Made by Emre, Tejinder and Zhongjie</p>
+            </div>
+        </div>
+    </div>
+
+    <!--end banner-->
+
+    <!--start menu bar-->
+    <div id="menu-bar">
+        <nav class="navbar navbar-inverse">
+            <div class="container-fluid padding-left-5">
+                <ul class="nav navbar-nav ">
+                    <li class="active"><a href="./index.html">Home</a></li>
+                    <li><a href="./data_in_tables/data_in_table.html">Data in HTML Table</a></li>
+                    <li class="dropdown">
+                        <a class="dropdown-toggle" data-toggle="dropdown" href="#">Data in Google Charts<span
+                                class="caret"></span></a>
+                        <ul class="dropdown-menu">
+                            <li><a href="./data_in_charts/data_in_chart.html">Display Charts (Google Charts)</a></li>
+                            <li><a href="./data_in_charts/twitter_and_weather.html">Twitter API & Weather API</a></li>
+                        </ul>
+                    </li>
+                    <li class="dropdown">
+                        <a class="dropdown-toggle" data-toggle="dropdown" href="#">Data in Google Maps<span
+                                class="caret"></span></a>
+                        <ul class="dropdown-menu">
+                            <li><a href="./data_in_maps/data_in_map_circles.html">Display Circle (Google Maps)</a></li>
+                            <li><a href="./data_in_maps/data_in_map_heatmaps.html">Display Heatmap (Google Maps)</a></li>
+                            <li><a href="./data_in_maps/data_in_map_police_station_search.html">Police Station Search & Direction (Google Maps)</a></li>
+                            <li><a href="./data_in_maps/youtube_how_to_prevent.html">Crime Prevention (YouTube)</a></li>
+                            <li><a href="./data_in_maps/problem_solving.html">Problem Solving</a></li>
+                        </ul>
+                    </li>
+                </ul>
+            </div>
+        </nav>
+    </div>
+    <!--end menu bar-->
+
+
+    <div id="project-description_1">
+        <img class="img-responsive" src="./images/crime_homepage_img.jpg" alt="crime_homepage_img" width="100%" height="auto"/>
+    </div>
+
+    <div id="project-description_2" class="padding-left-5 padding-right-5">
+        <div class="album text-muted">
+            <div class="container">
+
+                <div class="row">
+                    <div class="card text-center">
+                        <img class="card-img img-responsive" src="images/emre_feature_1.jpg" alt="Emre's feature 1" width="364" height="280">
+                        <p class="card-text">Retrieve statistics data from a XML file and show user the data organized
+                            in a HTML table. (Emre)</p>
+                    </div>
+                    <div class="card text-center">
+                        <img class="card-img img-responsive" src="images/emre_feature_2.jpg" alt="Emre's feature 2" width="364" height="280">
+                        <p class="card-text">Retrieve statistics data from a XML file and display the data visually by
+                            using Google Charts API. (Emre)</p>
+                    </div>
+                    <div class="card text-center">
+                        <img class="card-img img-responsive" src="images/emre_feature_3.jpg" alt="Emre's feature 3" width="364" height="280">
+                        <p class="card-text">Search and play YouTube video by providing a certain keyword. Bootstrap CSS
+                            applied. (Emre)</p>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="card text-center">
+                        <img class="card-img img-responsive" src="images/emre_feature_4.jpg" alt="Emre's feature 4" width="364" height="280">
+                        <p class="card-text">Search pictures by using Flickr API and display the search result in a
+                            table. (Emre)</p>
+                    </div>
+                    <div class="card text-center">
+                        <img class="card-img img-responsive" src="images/tejinder_feature_1.jpg" alt="Tejinder's feature 1" width="364" height="280">
+                        <p class="card-text">Retrieve statistics data from a JSON file and generate a <u>column
+                            chart</u> by using Google Charts API. (Tejinder)</p>
+                    </div>
+                    <div class="card text-center">
+                        <img class="card-img img-responsive" src="images/tejinder_feature_2.jpg" alt="Tejinder's feature 2" width="364" height="280">
+                        <p class="card-text">Retrieve statistics data from a JSON file and generate a <u>area chart</u>
+                            by using Google Charts API. (Tejinder)</p>
+                    </div>
+                </div>
+
+                <div class="row">
+                    <div class="card text-center">
+                        <img class="card-img img-responsive" src="images/tejinder_feature_3.jpg" alt="Tejinder's feature 3" width="364" height="280">
+                        <p class="card-text">Using YouTube API, search video by a crime related keyword from selection
+                            list. (Tejinder)</p>
+                    </div>
+                    <div class="card text-center">
+                        <img class="card-img img-responsive" src="images/tejinder_feature_4.jpg" alt="Tejinder's feature 4" width="364" height="280">
+                        <p class="card-text">Search crime related Tweets by using Twitter API. (Tejinder)</p>
+                    </div>
+                    <div class="card text-center">
+                        <img class="card-img img-responsive" src="images/tejinder_feature_5.jpg" alt="Tejinder's feature 5" width="364" height="280">
+                        <p class="card-text">Get weather information of a city by using Weather API. (Tejinder)</p>
+                    </div>
+                </div>
+
+                <div class="row">
+                    <div class="card text-center">
+                        <img class="card-img img-responsive" src="images/zhongjie_feature_1.jpg" alt="Zhongjie's feature 1" width="364" height="280">
+                        <p class="card-text">Fetch crime statistics data from multiple JSON files and plot circles on a
+                            Google Map. Different radius of circle represents different crime volume of a city.
+                            (Zhongjie)</p>
+                    </div>
+                    <div class="card text-center">
+                        <img class="card-img img-responsive" src="images/zhongjie_feature_2.jpg" alt="Zhongjie's feature 2" width="364" height="280">
+                        <p class="card-text">Get crime statistics data from multiple JSON files and plot a heatmap which
+                            shows the severity of certain crime type in Ontario. (Zhongjie)</p>
+                    </div>
+                    <div class="card text-center">
+                        <img class="card-img img-responsive" src="images/zhongjie_feature_3.jpg" alt="Zhongjie's feature 3" width="364" height="280">
+                        <p class="card-text">Search police stations in a certain city and display a route to it from
+                            your current location with different travel modes. (Zhongjie)</p>
+                    </div>
+                </div>
+
+                <div class="row">
+                    <div class="card text-center">
+                        <img class="card-img img-responsive" src="images/zhongjie_feature_4.jpg" alt="Zhongjie's feature 4" width="364" height="280">
+                        <p class="card-text">By using YouTube API, this feature can tell people how to prevent a certain
+                            crime. (Zhongjie)</p>
+                    </div>
+                    <div class="card text-center">
+                        <img class="card-img img-responsive" src="images/zhongjie_feature_5.jpg" alt="Zhongjie's feature 5" width="364" height="280">
+                        <p class="card-text">Whole webpage frame design and implementation by using JavaScript and
+                            Bootstrap. Also the integration of team member's individual work. (Zhongjie)</p>
+                    </div>
+                    <div class="card text-center">
+                        <img class="card-img img-responsive" src="" alt="">
+                        <p class="card-text"></p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!--start footer-->
+    <div id="footer">
+        <p>XML and Javascript course group project 2017&copy;</p>
+    </div>
+    <!--end footer-->
+</div>
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+<script src="./scripts/menubar_sticky.js" language="JavaScript" type="text/javascript"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/tether/1.4.0/js/tether.min.js"
+        integrity="sha384-DztdAPBWPRXSA/3eYEEUWrWCy7G5KFbe8fFjk5JAIxUYHKkDx6Qin1DkWx51bBrb"
+        crossorigin="anonymous"></script>
+<script src="scripts/holder.min.js"></script>
+<script src="./scripts/img_thumbnail.js"></script>
+</body>
+</html>

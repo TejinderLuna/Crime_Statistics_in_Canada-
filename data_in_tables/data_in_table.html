@@ -1,0 +1,240 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Data In Table</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    <link rel="stylesheet" href="../css_styles/main-style.css" type="text/css">
+
+
+</head>
+<body>
+
+<div class="container-fluid">
+    <!--start banner-->
+    <div id="banner_display" class="padding-left-5">
+        <div class="row">
+            <div class="col-sm-1">
+                <div id="banner_image_container" class="image_container">
+                    <img src="../images/75px-Toronto_Police_Service_Logo.svg.png"/>
+                </div>
+            </div>
+            <div class="col-sm-5">
+                <h2>Crime statistics in Canada</h2>
+                <p>Made by Emre, Tejinder and Zhongjie</p>
+            </div>
+        </div>
+    </div>
+
+    <!--end banner-->
+
+    <!--start menu bar-->
+    <div id="menu-bar">
+        <nav class="navbar navbar-inverse">
+            <div class="container-fluid padding-left-5">
+                <ul class="nav navbar-nav ">
+                    <li class="active"><a href="../index.html">Home</a></li>
+                    <li><a href="./data_in_table.html">Data in HTML Table</a></li>
+                    <li class="dropdown">
+                        <a class="dropdown-toggle" data-toggle="dropdown" href="#">Data in Google Charts<span class="caret"></span></a>
+                        <ul class="dropdown-menu">
+                            <li><a href="../data_in_charts/data_in_chart.html">Display Charts (Google Charts)</a></li>
+                            <li><a href="../data_in_charts/twitter_and_weather.html">Twitter API & Weather API</a></li>
+                        </ul>
+                    </li>
+                    <li class="dropdown">
+                        <a class="dropdown-toggle" data-toggle="dropdown" href="#">Data in Google Maps<span
+                                class="caret"></span></a>
+                        <ul class="dropdown-menu">
+                            <li><a href="../data_in_maps/data_in_map_circles.html">Display Circle (Google Maps)</a></li>
+                            <li><a href="../data_in_maps/data_in_map_heatmaps.html">Display Heatmap (Google Maps)</a></li>
+                            <li><a href="../data_in_maps/data_in_map_police_station_search.html">Police Station Search & Direction (Google Maps)</a></li>
+                            <li><a href="../data_in_maps/youtube_how_to_prevent.html">Crime Prevention (YouTube)</a></li>
+                            <li><a href="../data_in_maps/problem_solving.html">Problem Solving</a></li>
+                        </ul>
+                    </li>
+                </ul>
+            </div>
+        </nav>
+    </div>
+    <!--end menu bar-->
+
+
+    <!--start display-area-1-->
+    <div id="display-area-1" class="padding-left-5 padding-right-5">
+        <div class="row">
+
+            <div id="emre_img_placeholder" class="col-sm-9">
+                <div id="display-area-img-container" class="embed-responsive embed-responsive-16by9 image_container">
+                    <img src="../images/crime_statistics_in_canada_emre.jpg"/>
+                </div>
+            </div>
+
+            <div id="emre_content_display" class="col-sm-9">
+
+                <div id="emre_table" class="row">
+                    <figure id="one_table">
+                    </figure>
+                </div>
+
+                <div class="row">
+                    <div id="chart_div"></div>
+                </div>
+
+            </div>
+            <span id="growl" style="color: red"></span>
+
+            <div id="user-selection" class="col-sm-3">
+                <form id="myform">
+                    <div class="form-group">
+                        <label for="provinces">Provinces (single selection allowed):</label>
+                        <select class="form-control" id="provinces" name="provinces" title="Please select a province">
+                            <option value="0">Select an option</option>
+                            <option value="1">All(Entire) Canada</option>
+                            <option value="2">Newfoundland and Labrador</option>
+                            <option value="3">Prince Edward Island</option>
+                            <option value="4">Nova Scotia</option>
+                            <option value="5">New Brunswick</option>
+                            <option value="6">Quebec</option>
+                            <option value="7">Ontario</option>
+                            <option value="8">Manitoba</option>
+                            <option value="9">Saskatchewan</option>
+                            <option value="10">Alberta</option>
+                            <option value="11">British Columbia</option>
+                            <option value="12">Yukon and Northwest Territories</option>
+                        </select>
+                        <br/>
+
+                        <label for="year">Years (multiple selections allowed):</label>
+                        <select class="form-control" id="year" name="year" title="Please select years" size="6"
+                                multiple>
+                        </select>
+                        <br/>
+
+                        <label for="crime">Crime Types (multiple selections allowed):</label>
+                        <select class="form-control" id="crime" name="crime" title="Please select crimes" size="7"
+                                multiple>
+                            <option value="1">All Offences</option>
+                            <option value="2">Criminal code, total</option>
+                            <option value="3">Crimes of violence</option>
+                            <option value="4">Murder</option>
+                            <option value="5">Attempted Murder</option>
+                            <option value="6">Manslaughter</option>
+                            <option value="7">Robbery</option>
+                            <option value="8">Other violent crimes</option>
+                            <option value="9">Sexual Assault</option>
+                            <option value="10">Aggravated Sexual Assault</option>
+                            <option value="11">Sexual Assault with a weapon, bodily harm</option>
+                            <option value="12">Sexual Assault, Level 1</option>
+                            <option value="13">Assault</option>
+                            <option value="14">Assault Level 1</option>
+                            <option value="15">Assault with weapon, bodily harm</option>
+                            <option value="16">Aggravated Assault</option>
+                            <option value="17">Other violent crimes, not elsewhere specified</option>
+                            <option value="18">Property Crimes</option>
+                            <option value="19">Breaking and Entering</option>
+                            <option value="20">Theft, motor vehicle</option>
+                            <option value="21">Theft, over and under</option>
+                            <option value="22">Have stolen goods</option>
+                            <option value="23">Frauds</option>
+                            <option value="24">Other crimes</option>
+                            <option value="25">Prostitution</option>
+                            <option value="26">Gaming and Betting</option>
+                            <option value="27">Offensive weapons</option>
+                            <option value="28">Other criminal code</option>
+                            <option value="29">Federal Statutes</option>
+                            <option value="30">Provincial Statutes</option>
+                            <option value="31">Municipal by-laws</option>
+                        </select>
+                        <br/>
+
+                        <input type="button" class="btn btn-primary btn-block" id="emre_generate_table"
+                               name="generate_table" value="Generate Table" onclick="generate();"/>
+                        <input type="button" class="btn btn-info btn-block" id="refresh_table"
+                               name="refresh_table" value="Refresh Options & Table" onclick="refresh();"/>
+                    </div>
+                </form>
+            </div>
+        </div>
+
+
+    </div>
+    <!--end display-area-1-->
+
+    <!--start display-area-2-->
+    <div id="display-area-2" class="padding-left-5 padding-right-5">
+        <div class="row">
+            <h2>To access and search in YouTube, please click on the link below:</h2>
+            <div class="col-sm-1">
+                <img src="images/youtube.png" alt="YT" style="width:100px;height:50px;">
+            </div>
+
+            <div class="col-sm-8">
+                <ul>
+                    <a href="youtubeAPIcrime.html">To browse through some videos related to crime...</a>
+                </ul>
+            </div>
+        </div>
+
+    </div>
+    <!--end display-area-2-->
+
+    <!--start display-area-3-->
+    <div id="display-area-3" class="padding-left-5 padding-right-5">
+
+        <script type="text/javascript">
+
+            function showpics() {
+
+                var pic = $("#box").val();
+                $.getJSON('http://api.flickr.com/services/feeds/photos_public.gne?tags='
+                    + pic + "&tagmode=any&format=json&jsoncallback=?",
+                    function (data) {
+                        $("#images").hide().html(data).fadeIn('fast');
+
+                        $.each(data.items, function (i, item) {
+                            $("<img/>").attr("src", item.media.m).appendTo("#images");
+                        });
+                    })
+            };
+        </script>
+
+        <h2><p>Enter the title you want to search for on FLICKR...</p></h2>
+
+
+        <div class="row">
+            <div class="col-sm-1">
+                <img src="images/flickr.png" alt="Flickr" style="width:50px;height:40px; margin-left: 10px; margin-bottom: 20px;">
+            </div>
+
+            <div class="col-sm-4">
+                <input id="box" class="form-control" type="text">
+            </div>
+
+            <div class="col-sm-2">
+                <input id="Button" class="btn btn-primary"  title="show" onclick="showpics()" type="button" value="show">
+            </div>
+        </div>
+
+        <div id="images"></div>
+    </div>
+    <!--end display-area-3-->
+
+    <!--start footer-->
+    <div id="footer">
+        <p>XML and Javascript course group project 2017&copy;</p>
+    </div>
+    <!--end footer-->
+</div>
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+<script src="../scripts/menubar_sticky.js" language="JavaScript" type="text/javascript"></script>
+
+<script type="text/javascript" src="scripts/table_script.js"></script>
+<script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+<script type="text/javascript" src="scripts/chart.js"></script>
+<script>var xmlFile = "data_source/02520001.xml";</script>
+</body>
+</html>

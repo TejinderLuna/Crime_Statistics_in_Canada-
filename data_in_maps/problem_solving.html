@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Circle</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    <link rel="stylesheet" href="../css_styles/main-style.css" type="text/css">
+
+</head>
+<body>
+
+<div class="container-fluid">
+    <!--start banner-->
+    <div id="banner_display" class="padding-left-5">
+        <div class="row">
+            <div class="col-sm-1">
+                <div id="banner_image_container" class="image_container">
+                    <img src="../images/75px-Toronto_Police_Service_Logo.svg.png"/>
+                </div>
+            </div>
+            <div class="col-sm-5">
+                <h2>Crime statistics in Canada</h2>
+                <p>Made by Emre, Tejinder and Zhongjie</p>
+            </div>
+        </div>
+    </div>
+
+    <!--end banner-->
+
+    <!--start menu bar-->
+    <div id="menu-bar">
+        <nav class="navbar navbar-inverse">
+            <div class="container-fluid padding-left-5">
+                <ul class="nav navbar-nav ">
+                    <li class="active"><a href="../index.html">Home</a></li>
+                    <li><a href="../data_in_tables/data_in_table.html">Data in HTML Table</a></li>
+                    <li class="dropdown">
+                        <a class="dropdown-toggle" data-toggle="dropdown" href="#">Data in Google Charts<span
+                                class="caret"></span></a>
+                        <ul class="dropdown-menu">
+                            <li><a href="../data_in_charts/data_in_chart.html">Display Charts (Google Charts)</a></li>
+                            <li><a href="../data_in_charts/twitter_and_weather.html">Twitter API & Weather API</a></li>
+                        </ul>
+                    </li>
+                    <li class="dropdown">
+                        <a class="dropdown-toggle" data-toggle="dropdown" href="#">Data in Google Maps<span
+                                class="caret"></span></a>
+                        <ul class="dropdown-menu">
+                            <li><a href="data_in_map_circles.html">Display Circle (Google Maps)</a></li>
+                            <li><a href="data_in_map_heatmaps.html">Display Heatmap (Google Maps)</a></li>
+                            <li><a href="data_in_map_police_station_search.html">Police Station Search & Direction
+                                (Google Maps)</a></li>
+                            <li><a href="youtube_how_to_prevent.html">Crime Prevention (YouTube)</a></li>
+                            <li><a href="problem_solving.html">Problem Solving</a></li>
+                        </ul>
+                    </li>
+                </ul>
+            </div>
+        </nav>
+    </div>
+    <!--end menu bar-->
+
+
+    <!--start display-area-1-->
+    <div id="display-area-1" class="padding-left-5 padding-right-5">
+        <div class="row">
+            <h3>Problem 1</h3>
+            <h3>Firefox can pass Google OAUTH, but Chrome.</h3>
+            <div class="col-sm-6">
+                <img src="./images/problem_solving_01.jpg" alt="problem_solving_01" width="474" height="373"/>
+            </div>
+            <div class="col-sm-6">
+                <h4>Symptom:</h4>
+                <p>Firefox can pass Google OAUTH successfully, but Chrome. No error log in the console of either Firefox
+                    or Chrome.</p>
+                <h4>Problem solving:</h4>
+                <p>I added many checkpoints in the script in order to find out the breakpoint.</p>
+                <p>The auth code example downloaded from Google YouTube API website is problematical. It doesn't check
+                    the
+                    authentication result error code. If browser does not have <u>account.google.com</u> cookie, the
+                    authentication will be failed. But browser will not display any error since authentication failure
+                    is
+                    one of the normal result as well. Web programmer should handle it, not browser.</p>
+            </div>
+        </div>
+
+        <div class="row">
+            <h3>Problem 2</h3>
+            <h3>Circle radius cannot be controlled.</h3>
+            <div class="col-sm-6">
+                <img src="./images/problem_solving_02.jpg" alt="problem_solving_03" width="474" height="373"/>
+
+            </div>
+            <div class="col-sm-6">
+                <h4>Symptom:</h4>
+                <p>The radius of circle on the map is based on crime volume. Sometimes, the large is very large, the
+                    small is very small.</p>
+                <h4>Problem solving:</h4>
+                <p>There are many scale formulas on the web. But none of them works fine in my project.</p>
+                <p>Scale the crime volume value to a range from 0 to 100. Then I am able to control the radius of
+                    circles.</p>
+                <img src="./images/problem_solving_03.jpg" alt="problem_solving_03" width="279" height="51"/>
+            </div>
+        </div>
+
+        <div class="row">
+            <h3>Problem 3</h3>
+            <h3>Integer array is not sorted properly.</h3>
+            <div class="col-sm-6">
+                <img src="./images/problem_solving_04.jpg" alt="problem_solving_04" width="474" height="373"/>
+
+            </div>
+            <div class="col-sm-6">
+                <h4>Symptom:</h4>
+                <p>Integer array cannot be sorted properly even if each element has been parsed to integer.</p>
+                <h4>Problem solving:</h4>
+                <p>The numbers are sorted as strings even if they are parsed into integer.</p>
+                <p>I added a customized function in JQuery built-in sort() method.</p>
+                <ul>
+                    <li>Return greater than 0 if a is greater than b</li>
+                    <li>Return 0 if a equals b</li>
+                    <li>Return less than 0 if a is less than b</li>
+                </ul>
+                <p>When I call sort(), the customized function is called on pairs in to-be-sorted list, to determine the
+                    proper ordering.</p>
+            </div>
+        </div>
+    </div>
+    <!--end display-area-1-->
+
+    <!--start footer-->
+    <div id="footer">
+        <p>XML and Javascript course group project 2017&copy;</p>
+    </div>
+    <!--end footer-->
+</div>
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+<script src="../scripts/menubar_sticky.js" language="JavaScript" type="text/javascript"></script>
+
+</body>
+</html>

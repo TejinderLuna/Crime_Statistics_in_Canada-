@@ -1,0 +1,68 @@
+{
+  "offences": [
+    {
+      "_OFF": "4",
+      "_text": "Murder"
+    },
+    {
+      "_OFF": "5",
+      "_text": "Attempted murder"
+    },
+    {
+      "_OFF": "6",
+      "_text": "Manslaughter"
+    },
+    {
+      "_OFF": "7",
+      "_text": "Robbery"
+    },
+    {
+      "_OFF": "23",
+      "_text": "Sexual assault"
+    },
+    {
+      "_OFF": "24",
+      "_text": "Aggravated sexual assault"
+    },
+    {
+      "_OFF": "25",
+      "_text": "Sexual assault with a weapon, bodily harm"
+    },
+    {
+      "_OFF": "29",
+      "_text": "Assault with weapon, bodily harm"
+    },
+    {
+      "_OFF": "30",
+      "_text": "Aggravated assault"
+    },
+    {
+      "_OFF": "10",
+      "_text": "Breaking and entering"
+    },
+    {
+      "_OFF": "11",
+      "_text": "Theft, motor vehicle"
+    },
+    {
+      "_OFF": "12",
+      "_text": "Theft, over and under"
+    },
+    {
+      "_OFF": "13",
+      "_text": "Have stolen goods"
+    },
+    {
+      "_OFF": "14",
+      "_text": "Frauds"
+    },
+    {
+      "_OFF": "16",
+      "_text": "Prostitution"
+    },
+    {
+      "_OFF": "17",
+      "_text": "Gaming and betting"
+    }
+  ]
+}

@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Data In Charts</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    <link rel="stylesheet" href="../css_styles/main-style.css" type="text/css">
+
+
+</head>
+<body>
+
+<div class="container-fluid">
+    <!--start banner-->
+    <div id="banner_display" class="padding-left-5">
+        <div class="row">
+            <div class="col-sm-1">
+                <div id="banner_image_container" class="image_container">
+                    <img src="../images/75px-Toronto_Police_Service_Logo.svg.png"/>
+                </div>
+            </div>
+            <div class="col-sm-5">
+                <h2>Crime statistics in Canada</h2>
+                <p>Made by Emre, Tejinder and Zhongjie</p>
+            </div>
+        </div>
+    </div>
+
+    <!--end banner-->
+
+    <!--start menu bar-->
+    <div id="menu-bar">
+        <nav class="navbar navbar-inverse">
+            <div class="container-fluid padding-left-5">
+                <ul class="nav navbar-nav ">
+                    <li class="active"><a href="../index.html">Home</a></li>
+                    <li><a href="../data_in_tables/data_in_table.html">Data in HTML Table</a></li>
+                    <li class="dropdown">
+                        <a class="dropdown-toggle" data-toggle="dropdown" href="#">Data in Google Charts<span class="caret"></span></a>
+                        <ul class="dropdown-menu">
+                            <li><a href="./data_in_chart.html">Display Charts (Google Charts)</a></li>
+                            <li><a href="./twitter_and_weather.html">Twitter API & Weather API</a></li>
+                        </ul>
+                    </li>
+                    <li class="dropdown">
+                        <a class="dropdown-toggle" data-toggle="dropdown" href="#">Data in Google Maps<span
+                                class="caret"></span></a>
+                        <ul class="dropdown-menu">
+                            <li><a href="../data_in_maps/data_in_map_circles.html">Display Circle (Google Maps)</a></li>
+                            <li><a href="../data_in_maps/data_in_map_heatmaps.html">Display Heatmap (Google Maps)</a></li>
+                            <li><a href="../data_in_maps/data_in_map_police_station_search.html">Police Station Search & Direction (Google Maps)</a></li>
+                            <li><a href="../data_in_maps/youtube_how_to_prevent.html">Crime Prevention (YouTube)</a></li>
+                            <li><a href="../data_in_maps/problem_solving.html">Problem Solving</a></li>
+                        </ul>
+                    </li>
+                </ul>
+            </div>
+        </nav>
+    </div>
+    <!--end menu bar-->
+
+
+    <!--start display-area-1-->
+    <div id="display-area-1" class="padding-left-5 padding-right-5">
+        <div class="row">
+            <div id="chart_display" class="col-sm-9">
+                <div id="display-area-img-container" class="embed-responsive embed-responsive-16by9 image_container">
+                    <img src="../images/crime_statistics_in_canada_tejinder.jpg"/>
+                </div>
+            </div>
+
+            <div id="user-selection" class="col-sm-3">
+                <form>
+                    <div class="form-group">
+                        <label for="provinces">Select A Place:</label>
+                        <select class="form-control" id="provinces">
+                        </select><span id="provincearea" style="color: red"></span>
+                        <br/>
+
+                        <label for="year">Select Year:</label>
+                        <select class="form-control" id="year" size="3">
+                            <option selected>Select an option</option>
+                            <option>ALL</option>
+                        </select><span id="yeararea" style="color: red"></span>
+                        <br/>
+
+                        <label for="stats">Statistic:</label>
+                        <select class="form-control" id="stats" size="5">
+                        </select><span id="statsarea" style="color: red"></span>
+                        <br/>
+
+                        <div class="btn-group" data-toggle="buttons">
+                                <label class="btn btn-primary active">
+                                    <input type="radio" name="chart_type" id="column_chart" value="column_chart"
+                                           autocomplete="off" checked onclick="disableselect()">Column Chart
+                                </label>
+                                <label class="btn btn-primary">
+                                    <input type="radio" name="chart_type" id="area_chart" value="area_chart"
+                                           autocomplete="off">Area Chart
+                                </label>
+                        </div><br/><br/>
+
+                        <input type="button" class="btn btn-primary btn-block" id="person2_generate_chart"
+                               value="Generate chart" onclick="generate_chart()"/><br/>
+
+                    </div>
+                </form>
+            </div>
+        </div>
+
+        <div id="displayvideo">
+        </div>
+        <!--<iframe align="center" id="playvideohere" width="450" height="300" frameborder="10" allowfullscreen>-->
+        <!--</iframe>-->
+        <iframe align="center" id="playvideohere" width="450" height="300" allowfullscreen>
+        </iframe>
+
+    </div>
+    <!--end display-area-1-->
+
+    <!--start footer-->
+    <div id="footer">
+        <p>XML and Javascript course group project 2017&copy;</p>
+    </div>
+    <!--end footer-->
+</div>
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+<script src="../scripts/menubar_sticky.js" language="JavaScript" type="text/javascript"></script>
+<script type="text/javascript" src="scripts/charts_and_video_script.js"></script>
+<script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+<script src="https://apis.google.com/js/client.js?onload=googleApiClientReady"></script>
+</body>
+</html>

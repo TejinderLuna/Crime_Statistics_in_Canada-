@@ -1,0 +1,6724 @@
+{
+"crimesbyprovinces" : [
+  {
+    "Geography": "Canada",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Actual incidents",
+    "year2012": 2244458,
+    "year2013": 2098776,
+    "year2014": 2052925,
+    "year2015": 2118681,
+    "year2016": 2142545
+  },
+  {
+    "Geography": "Canada",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Rate per 100,000 population",
+    "year2012": 6458.77,
+    "year2013": 5969.99,
+    "year2014": 5775.64,
+    "year2015": 5910.08,
+    "year2016": 5904.54
+  },
+  {
+    "Geography": "Canada",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Percentage change in rate (22)",
+    "year2012": -2.54,
+    "year2013": -7.57,
+    "year2014": -3.26,
+    "year2015": 2.33,
+    "year2016": -0.09
+  },
+  {
+    "Geography": "Canada",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Total cleared",
+    "year2012": 1050701,
+    "year2013": 991939,
+    "year2014": 952516,
+    "year2015": 951547,
+    "year2016": 953212
+  },
+  {
+    "Geography": "Canada",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Cleared by charge",
+    "year2012": 660653,
+    "year2013": 626019,
+    "year2014": 607852,
+    "year2015": 616111,
+    "year2016": 624954
+  },
+  {
+    "Geography": "Canada",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Cleared otherwise",
+    "year2012": 390048,
+    "year2013": 365920,
+    "year2014": 344664,
+    "year2015": 335436,
+    "year2016": 328258
+  },
+  {
+    "Geography": "Canada",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Total, persons charged (23)",
+    "year2012": 628614,
+    "year2013": 595717,
+    "year2014": 578044,
+    "year2015": 586305,
+    "year2016": 596323
+  },
+  {
+    "Geography": "Canada",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Rate, total persons charged per 100,000 population aged 12 years and over (31)",
+    "year2012": 2077.04,
+    "year2013": 1945.43,
+    "year2014": 1867.14,
+    "year2015": 1878.47,
+    "year2016": 1888.19
+  },
+  {
+    "Geography": "Canada",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Total, adult charged",
+    "year2012": 560984,
+    "year2013": 537465,
+    "year2014": 526495,
+    "year2015": 537067,
+    "year2016": 549724
+  },
+  {
+    "Geography": "Canada",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Rate, adult charged per 100,000 population aged 18 years and over (31)",
+    "year2012": 2016.38,
+    "year2013": 1903.77,
+    "year2014": 1839.9,
+    "year2015": 1858.67,
+    "year2016": 1878.26
+  },
+  {
+    "Geography": "Canada",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Total, youth charged (39,40)",
+    "year2012": 67630,
+    "year2013": 58252,
+    "year2014": 51549,
+    "year2015": 49238,
+    "year2016": 46599
+  },
+  {
+    "Geography": "Canada",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Rate, youth charged per 100,000 population aged 12 to 17 years (31)",
+    "year2012": 2767.6,
+    "year2013": 2437.53,
+    "year2014": 2199.68,
+    "year2015": 2125.48,
+    "year2016": 2013.76
+  },
+  {
+    "Geography": "Canada",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Total, youth not charged (39,40)",
+    "year2012": 86893,
+    "year2013": 72146,
+    "year2014": 64978,
+    "year2015": 62422,
+    "year2016": 57645
+  },
+  {
+    "Geography": "Canada",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Rate, youth not charged per 100,000 population aged 12 to 17 years (31)",
+    "year2012": 3555.9,
+    "year2013": 3018.92,
+    "year2014": 2772.72,
+    "year2015": 2694.6,
+    "year2016": 2491.11
+  },
+  {
+    "Geography": "Newfoundland and Labrador",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Actual incidents",
+    "year2012": 36024,
+    "year2013": 35217,
+    "year2014": 32842,
+    "year2015": 33645,
+    "year2016": 34342
+  },
+  {
+    "Geography": "Newfoundland and Labrador",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Rate per 100,000 population",
+    "year2012": 6842.82,
+    "year2013": 6677.36,
+    "year2014": 6216.16,
+    "year2015": 6364.01,
+    "year2016": 6478.06
+  },
+  {
+    "Geography": "Newfoundland and Labrador",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Percentage change in rate (22)",
+    "year2012": -4.1,
+    "year2013": -2.42,
+    "year2014": -6.91,
+    "year2015": 2.38,
+    "year2016": 1.79
+  },
+  {
+    "Geography": "Newfoundland and Labrador",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Total cleared",
+    "year2012": 14265,
+    "year2013": 14062,
+    "year2014": 13438,
+    "year2015": 12566,
+    "year2016": 13099
+  },
+  {
+    "Geography": "Newfoundland and Labrador",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Cleared by charge",
+    "year2012": 8722,
+    "year2013": 8771,
+    "year2014": 8391,
+    "year2015": 8196,
+    "year2016": 8512
+  },
+  {
+    "Geography": "Newfoundland and Labrador",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Cleared otherwise",
+    "year2012": 5543,
+    "year2013": 5291,
+    "year2014": 5047,
+    "year2015": 4370,
+    "year2016": 4587
+  },
+  {
+    "Geography": "Newfoundland and Labrador",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Total, persons charged (23)",
+    "year2012": 8678,
+    "year2013": 8706,
+    "year2014": 8310,
+    "year2015": 8194,
+    "year2016": 8593
+  },
+  {
+    "Geography": "Newfoundland and Labrador",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Rate, total persons charged per 100,000 population aged 12 years and over (31)",
+    "year2012": 1861.21,
+    "year2013": 1862.4,
+    "year2014": 1773.47,
+    "year2015": 1746.12,
+    "year2016": 1824.54
+  },
+  {
+    "Geography": "Newfoundland and Labrador",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Total, adult charged",
+    "year2012": 7777,
+    "year2013": 7783,
+    "year2014": 7611,
+    "year2015": 7426,
+    "year2016": 7829
+  },
+  {
+    "Geography": "Newfoundland and Labrador",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Rate, adult charged per 100,000 population aged 18 years and over (31)",
+    "year2012": 1798.23,
+    "year2013": 1791.63,
+    "year2014": 1745,
+    "year2015": 1698.58,
+    "year2016": 1783.2
+  },
+  {
+    "Geography": "Newfoundland and Labrador",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Total, youth charged (39,40)",
+    "year2012": 901,
+    "year2013": 923,
+    "year2014": 699,
+    "year2015": 768,
+    "year2016": 764
+  },
+  {
+    "Geography": "Newfoundland and Labrador",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Rate, youth charged per 100,000 population aged 12 to 17 years (31)",
+    "year2012": 2667.73,
+    "year2013": 2792.65,
+    "year2014": 2156.54,
+    "year2015": 2394.01,
+    "year2016": 2392.96
+  },
+  {
+    "Geography": "Newfoundland and Labrador",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Total, youth not charged (39,40)",
+    "year2012": 1277,
+    "year2013": 1101,
+    "year2014": 978,
+    "year2015": 905,
+    "year2016": 866
+  },
+  {
+    "Geography": "Newfoundland and Labrador",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Rate, youth not charged per 100,000 population aged 12 to 17 years (31)",
+    "year2012": 3781.01,
+    "year2013": 3331.22,
+    "year2014": 3017.31,
+    "year2015": 2821.07,
+    "year2016": 2712.44
+  },
+  {
+    "Geography": "St. John's, Newfoundland and Labrador",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Actual incidents",
+    "year2012": 15335,
+    "year2013": 14837,
+    "year2014": 13218,
+    "year2015": 13451,
+    "year2016": 13147
+  },
+  {
+    "Geography": "St. John's, Newfoundland and Labrador",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Rate per 100,000 population",
+    "year2012": 7611.67,
+    "year2013": 7307.39,
+    "year2014": 6455.93,
+    "year2015": 6534.08,
+    "year2016": 6329.95
+  },
+  {
+    "Geography": "St. John's, Newfoundland and Labrador",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Percentage change in rate (22)",
+    "year2012": -3.25,
+    "year2013": -4,
+    "year2014": -11.65,
+    "year2015": 1.21,
+    "year2016": -3.12
+  },
+  {
+    "Geography": "St. John's, Newfoundland and Labrador",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Total cleared",
+    "year2012": 4932,
+    "year2013": 4804,
+    "year2014": 4610,
+    "year2015": 4385,
+    "year2016": 4558
+  },
+  {
+    "Geography": "St. John's, Newfoundland and Labrador",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Cleared by charge",
+    "year2012": 3427,
+    "year2013": 3305,
+    "year2014": 3257,
+    "year2015": 3368,
+    "year2016": 3629
+  },
+  {
+    "Geography": "St. John's, Newfoundland and Labrador",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Cleared otherwise",
+    "year2012": 1505,
+    "year2013": 1499,
+    "year2014": 1353,
+    "year2015": 1017,
+    "year2016": 929
+  },
+  {
+    "Geography": "St. John's, Newfoundland and Labrador",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Total, persons charged (23)",
+    "year2012": 3591,
+    "year2013": 3469,
+    "year2014": 3439,
+    "year2015": 3690,
+    "year2016": 3917
+  },
+  {
+    "Geography": "St. John's, Newfoundland and Labrador",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Rate, total persons charged per 100,000 population aged 12 years and over (31)",
+    "year2012": 2034.65,
+    "year2013": 1948.87,
+    "year2014": 1914.81,
+    "year2015": 2041.06,
+    "year2016": 2145.31
+  },
+  {
+    "Geography": "St. John's, Newfoundland and Labrador",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Total, adult charged",
+    "year2012": 3324,
+    "year2013": 3188,
+    "year2014": 3207,
+    "year2015": 3350,
+    "year2016": 3641
+  },
+  {
+    "Geography": "St. John's, Newfoundland and Labrador",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Rate, adult charged per 100,000 population aged 18 years and over (31)",
+    "year2012": 2027.74,
+    "year2013": 1925.14,
+    "year2014": 1916.03,
+    "year2015": 1986.8,
+    "year2016": 2137.21
+  },
+  {
+    "Geography": "St. John's, Newfoundland and Labrador",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Total, youth charged (39,40)",
+    "year2012": 267,
+    "year2013": 281,
+    "year2014": 232,
+    "year2015": 340,
+    "year2016": 276
+  },
+  {
+    "Geography": "St. John's, Newfoundland and Labrador",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Rate, youth charged per 100,000 population aged 12 to 17 years (31)",
+    "year2012": 2124.78,
+    "year2013": 2265.58,
+    "year2014": 1898.06,
+    "year2015": 2792.61,
+    "year2016": 2258.22
+  },
+  {
+    "Geography": "St. John's, Newfoundland and Labrador",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Total, youth not charged (39,40)",
+    "year2012": 350,
+    "year2013": 288,
+    "year2014": 248,
+    "year2015": 196,
+    "year2016": 188
+  },
+  {
+    "Geography": "St. John's, Newfoundland and Labrador",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Rate, youth not charged per 100,000 population aged 12 to 17 years (31)",
+    "year2012": 2785.29,
+    "year2013": 2322.02,
+    "year2014": 2028.96,
+    "year2015": 1609.86,
+    "year2016": 1538.21
+  },
+  {
+    "Geography": "Prince Edward Island (51)",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Actual incidents",
+    "year2012": 10678,
+    "year2013": 9498,
+    "year2014": 7739,
+    "year2015": 6866,
+    "year2016": 7357
+  },
+  {
+    "Geography": "Prince Edward Island (51)",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Rate per 100,000 population",
+    "year2012": 7360.08,
+    "year2013": 6542.31,
+    "year2014": 5306.79,
+    "year2015": 4679.15,
+    "year2016": 4949.24
+  },
+  {
+    "Geography": "Prince Edward Island (51)",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Percentage change in rate (22)",
+    "year2012": 0.96,
+    "year2013": -11.11,
+    "year2014": -18.89,
+    "year2015": -11.83,
+    "year2016": 5.77
+  },
+  {
+    "Geography": "Prince Edward Island (51)",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Total cleared",
+    "year2012": 3812,
+    "year2013": 3197,
+    "year2014": 2735,
+    "year2015": 2349,
+    "year2016": 2360
+  },
+  {
+    "Geography": "Prince Edward Island (51)",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Cleared by charge",
+    "year2012": 2329,
+    "year2013": 2187,
+    "year2014": 1892,
+    "year2015": 1731,
+    "year2016": 1700
+  },
+  {
+    "Geography": "Prince Edward Island (51)",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Cleared otherwise",
+    "year2012": 1483,
+    "year2013": 1010,
+    "year2014": 843,
+    "year2015": 618,
+    "year2016": 660
+  },
+  {
+    "Geography": "Prince Edward Island (51)",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Total, persons charged (23)",
+    "year2012": 2247,
+    "year2013": 2180,
+    "year2014": 1861,
+    "year2015": 1678,
+    "year2016": 1652
+  },
+  {
+    "Geography": "Prince Edward Island (51)",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Rate, total persons charged per 100,000 population aged 12 years and over (31)",
+    "year2012": 1768.01,
+    "year2013": 1714.11,
+    "year2014": 1457.62,
+    "year2015": 1306.18,
+    "year2016": 1269.89
+  },
+  {
+    "Geography": "Prince Edward Island (51)",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Total, adult charged",
+    "year2012": 1997,
+    "year2013": 1937,
+    "year2014": 1688,
+    "year2015": 1530,
+    "year2016": 1518
+  },
+  {
+    "Geography": "Prince Edward Island (51)",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Rate, adult charged per 100,000 population aged 18 years and over (31)",
+    "year2012": 1716.74,
+    "year2013": 1658.09,
+    "year2014": 1434.51,
+    "year2015": 1289.42,
+    "year2016": 1261.81
+  },
+  {
+    "Geography": "Prince Edward Island (51)",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Total, youth charged (39,40)",
+    "year2012": 250,
+    "year2013": 243,
+    "year2014": 173,
+    "year2015": 148,
+    "year2016": 134
+  },
+  {
+    "Geography": "Prince Edward Island (51)",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Rate, youth charged per 100,000 population aged 12 to 17 years (31)",
+    "year2012": 2321.91,
+    "year2013": 2345.79,
+    "year2014": 1729.48,
+    "year2015": 1508.97,
+    "year2016": 1369.16
+  },
+  {
+    "Geography": "Prince Edward Island (51)",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Total, youth not charged (39,40)",
+    "year2012": 448,
+    "year2013": 270,
+    "year2014": 216,
+    "year2015": 150,
+    "year2016": 130
+  },
+  {
+    "Geography": "Prince Edward Island (51)",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Rate, youth not charged per 100,000 population aged 12 to 17 years (31)",
+    "year2012": 4160.86,
+    "year2013": 2606.43,
+    "year2014": 2159.35,
+    "year2015": 1529.36,
+    "year2016": 1328.29
+  },
+  {
+    "Geography": "Nova Scotia",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Actual incidents",
+    "year2012": 67485,
+    "year2013": 60490,
+    "year2014": 58688,
+    "year2015": 53637,
+    "year2016": 52604
+  },
+  {
+    "Geography": "Nova Scotia",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Rate per 100,000 population",
+    "year2012": 7141.7,
+    "year2013": 6410.98,
+    "year2014": 6221.6,
+    "year2015": 5685.66,
+    "year2016": 5540.17
+  },
+  {
+    "Geography": "Nova Scotia",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Percentage change in rate (22)",
+    "year2012": -2.75,
+    "year2013": -10.23,
+    "year2014": -2.95,
+    "year2015": -8.61,
+    "year2016": -2.56
+  },
+  {
+    "Geography": "Nova Scotia",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Total cleared",
+    "year2012": 32082,
+    "year2013": 28312,
+    "year2014": 26721,
+    "year2015": 25147,
+    "year2016": 24860
+  },
+  {
+    "Geography": "Nova Scotia",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Cleared by charge",
+    "year2012": 18342,
+    "year2013": 16558,
+    "year2014": 16380,
+    "year2015": 15300,
+    "year2016": 15454
+  },
+  {
+    "Geography": "Nova Scotia",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Cleared otherwise",
+    "year2012": 13740,
+    "year2013": 11754,
+    "year2014": 10341,
+    "year2015": 9847,
+    "year2016": 9406
+  },
+  {
+    "Geography": "Nova Scotia",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Total, persons charged (23)",
+    "year2012": 18160,
+    "year2013": 16312,
+    "year2014": 15878,
+    "year2015": 14710,
+    "year2016": 14945
+  },
+  {
+    "Geography": "Nova Scotia",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Rate, total persons charged per 100,000 population aged 12 years and over (31)",
+    "year2012": 2165.63,
+    "year2013": 1946.53,
+    "year2014": 1894.53,
+    "year2015": 1755.25,
+    "year2016": 1772.61
+  },
+  {
+    "Geography": "Nova Scotia",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Total, adult charged",
+    "year2012": 15665,
+    "year2013": 14429,
+    "year2014": 14320,
+    "year2015": 13419,
+    "year2016": 13601
+  },
+  {
+    "Geography": "Nova Scotia",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Rate, adult charged per 100,000 population aged 18 years and over (31)",
+    "year2012": 2019.17,
+    "year2013": 1856.76,
+    "year2014": 1838.56,
+    "year2015": 1719.88,
+    "year2016": 1730.75
+  },
+  {
+    "Geography": "Nova Scotia",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Total, youth charged (39,40)",
+    "year2012": 2495,
+    "year2013": 1883,
+    "year2014": 1558,
+    "year2015": 1291,
+    "year2016": 1344
+  },
+  {
+    "Geography": "Nova Scotia",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Rate, youth charged per 100,000 population aged 12 to 17 years (31)",
+    "year2012": 3976.54,
+    "year2013": 3092.11,
+    "year2014": 2630.6,
+    "year2015": 2232.48,
+    "year2016": 2346.98
+  },
+  {
+    "Geography": "Nova Scotia",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Total, youth not charged (39,40)",
+    "year2012": 3921,
+    "year2013": 2871,
+    "year2014": 2360,
+    "year2015": 2105,
+    "year2016": 1892
+  },
+  {
+    "Geography": "Nova Scotia",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Rate, youth not charged per 100,000 population aged 12 to 17 years (31)",
+    "year2012": 6249.3,
+    "year2013": 4714.52,
+    "year2014": 3984.74,
+    "year2015": 3640.11,
+    "year2016": 3303.94
+  },
+  {
+    "Geography": "Halifax, Nova Scotia",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Actual incidents",
+    "year2012": 26833,
+    "year2013": 24237,
+    "year2014": 24455,
+    "year2015": 22449,
+    "year2016": 22091
+  },
+  {
+    "Geography": "Halifax, Nova Scotia",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Rate per 100,000 population",
+    "year2012": 6596.21,
+    "year2013": 5906.39,
+    "year2014": 5904.35,
+    "year2015": 5372.05,
+    "year2016": 5184.67
+  },
+  {
+    "Geography": "Halifax, Nova Scotia",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Percentage change in rate (22)",
+    "year2012": -9.63,
+    "year2013": -10.46,
+    "year2014": -0.03,
+    "year2015": -9.02,
+    "year2016": -3.49
+  },
+  {
+    "Geography": "Halifax, Nova Scotia",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Total cleared",
+    "year2012": 11858,
+    "year2013": 10838,
+    "year2014": 9725,
+    "year2015": 9198,
+    "year2016": 8889
+  },
+  {
+    "Geography": "Halifax, Nova Scotia",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Cleared by charge",
+    "year2012": 8261,
+    "year2013": 7675,
+    "year2014": 7369,
+    "year2015": 6999,
+    "year2016": 6990
+  },
+  {
+    "Geography": "Halifax, Nova Scotia",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Cleared otherwise",
+    "year2012": 3597,
+    "year2013": 3163,
+    "year2014": 2356,
+    "year2015": 2199,
+    "year2016": 1899
+  },
+  {
+    "Geography": "Halifax, Nova Scotia",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Total, persons charged (23)",
+    "year2012": 7995,
+    "year2013": 7311,
+    "year2014": 7109,
+    "year2015": 6625,
+    "year2016": 6591
+  },
+  {
+    "Geography": "Halifax, Nova Scotia",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Rate, total persons charged per 100,000 population aged 12 years and over (31)",
+    "year2012": 2222.3,
+    "year2013": 2013.79,
+    "year2014": 1939.57,
+    "year2015": 1791.97,
+    "year2016": 1749.61
+  },
+  {
+    "Geography": "Halifax, Nova Scotia",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Total, adult charged",
+    "year2012": 6874,
+    "year2013": 6461,
+    "year2014": 6429,
+    "year2015": 6066,
+    "year2016": 6037
+  },
+  {
+    "Geography": "Halifax, Nova Scotia",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Rate, adult charged per 100,000 population aged 18 years and over (31)",
+    "year2012": 2058.14,
+    "year2013": 1912.32,
+    "year2014": 1880.44,
+    "year2015": 1755.85,
+    "year2016": 1713.12
+  },
+  {
+    "Geography": "Halifax, Nova Scotia",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Total, youth charged (39,40)",
+    "year2012": 1121,
+    "year2013": 850,
+    "year2014": 680,
+    "year2015": 559,
+    "year2016": 554
+  },
+  {
+    "Geography": "Halifax, Nova Scotia",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Rate, youth charged per 100,000 population aged 12 to 17 years (31)",
+    "year2012": 4349.85,
+    "year2013": 3375.02,
+    "year2014": 2760.19,
+    "year2015": 2307.06,
+    "year2016": 2278.34
+  },
+  {
+    "Geography": "Halifax, Nova Scotia",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Total, youth not charged (39,40)",
+    "year2012": 1105,
+    "year2013": 979,
+    "year2014": 606,
+    "year2015": 575,
+    "year2016": 511
+  },
+  {
+    "Geography": "Halifax, Nova Scotia",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Rate, youth not charged per 100,000 population aged 12 to 17 years (31)",
+    "year2012": 4287.77,
+    "year2013": 3887.23,
+    "year2014": 2459.81,
+    "year2015": 2373.09,
+    "year2016": 2101.5
+  },
+  {
+    "Geography": "New Brunswick",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Actual incidents",
+    "year2012": 47498,
+    "year2013": 41384,
+    "year2014": 38280,
+    "year2015": 41575,
+    "year2016": 40048
+  },
+  {
+    "Geography": "New Brunswick",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Rate per 100,000 population",
+    "year2012": 6276.35,
+    "year2013": 5475.22,
+    "year2014": 5071.11,
+    "year2015": 5511.67,
+    "year2016": 5291.89
+  },
+  {
+    "Geography": "New Brunswick",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Percentage change in rate (22)",
+    "year2012": 3.52,
+    "year2013": -12.76,
+    "year2014": -7.38,
+    "year2015": 8.69,
+    "year2016": -3.99
+  },
+  {
+    "Geography": "New Brunswick",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Total cleared",
+    "year2012": 20535,
+    "year2013": 17575,
+    "year2014": 16455,
+    "year2015": 15999,
+    "year2016": 17186
+  },
+  {
+    "Geography": "New Brunswick",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Cleared by charge",
+    "year2012": 13302,
+    "year2013": 12205,
+    "year2014": 11422,
+    "year2015": 11453,
+    "year2016": 12351
+  },
+  {
+    "Geography": "New Brunswick",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Cleared otherwise",
+    "year2012": 7233,
+    "year2013": 5370,
+    "year2014": 5033,
+    "year2015": 4546,
+    "year2016": 4835
+  },
+  {
+    "Geography": "New Brunswick",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Total, persons charged (23)",
+    "year2012": 12858,
+    "year2013": 11859,
+    "year2014": 11127,
+    "year2015": 11095,
+    "year2016": 11795
+  },
+  {
+    "Geography": "New Brunswick",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Rate, total persons charged per 100,000 population aged 12 years and over (31)",
+    "year2012": 1922.31,
+    "year2013": 1774.43,
+    "year2014": 1666.35,
+    "year2015": 1662.35,
+    "year2016": 1762.24
+  },
+  {
+    "Geography": "New Brunswick",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Total, adult charged",
+    "year2012": 11412,
+    "year2013": 10588,
+    "year2014": 9993,
+    "year2015": 10042,
+    "year2016": 10874
+  },
+  {
+    "Geography": "New Brunswick",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Rate, adult charged per 100,000 population aged 18 years and over (31)",
+    "year2012": 1844.95,
+    "year2013": 1709.53,
+    "year2014": 1612.03,
+    "year2015": 1619.45,
+    "year2016": 1747.19
+  },
+  {
+    "Geography": "New Brunswick",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Total, youth charged (39,40)",
+    "year2012": 1446,
+    "year2013": 1271,
+    "year2014": 1134,
+    "year2015": 1053,
+    "year2016": 921
+  },
+  {
+    "Geography": "New Brunswick",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Rate, youth charged per 100,000 population aged 12 to 17 years (31)",
+    "year2012": 2872.98,
+    "year2013": 2595.1,
+    "year2014": 2370.2,
+    "year2015": 2224.33,
+    "year2016": 1961.79
+  },
+  {
+    "Geography": "New Brunswick",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Total, youth not charged (39,40)",
+    "year2012": 2196,
+    "year2013": 1511,
+    "year2014": 1452,
+    "year2015": 1253,
+    "year2016": 1249
+  },
+  {
+    "Geography": "New Brunswick",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Rate, youth not charged per 100,000 population aged 12 to 17 years (31)",
+    "year2012": 4363.12,
+    "year2013": 3085.12,
+    "year2014": 3034.86,
+    "year2015": 2646.81,
+    "year2016": 2660.45
+  },
+  {
+    "Geography": "Moncton, New Brunswick",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Actual incidents",
+    "year2012": 10985,
+    "year2013": 9521,
+    "year2014": 9683,
+    "year2015": 11468,
+    "year2016": 10698
+  },
+  {
+    "Geography": "Moncton, New Brunswick",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Rate per 100,000 population",
+    "year2012": 7740.44,
+    "year2013": 6658.83,
+    "year2014": 6256.7,
+    "year2015": 7366.35,
+    "year2016": 6800.11
+  },
+  {
+    "Geography": "Moncton, New Brunswick",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Percentage change in rate (22)",
+    "year2012": 14.38,
+    "year2013": -13.97,
+    "year2014": -6.04,
+    "year2015": 17.74,
+    "year2016": -7.69
+  },
+  {
+    "Geography": "Moncton, New Brunswick",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Total cleared",
+    "year2012": 3733,
+    "year2013": 3213,
+    "year2014": 3425,
+    "year2015": 3196,
+    "year2016": 3688
+  },
+  {
+    "Geography": "Moncton, New Brunswick",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Cleared by charge",
+    "year2012": 2629,
+    "year2013": 2336,
+    "year2014": 2480,
+    "year2015": 2488,
+    "year2016": 2931
+  },
+  {
+    "Geography": "Moncton, New Brunswick",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Cleared otherwise",
+    "year2012": 1104,
+    "year2013": 877,
+    "year2014": 945,
+    "year2015": 708,
+    "year2016": 757
+  },
+  {
+    "Geography": "Moncton, New Brunswick",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Total, persons charged (23)",
+    "year2012": 2591,
+    "year2013": 2257,
+    "year2014": 2369,
+    "year2015": 2445,
+    "year2016": 2684
+  },
+  {
+    "Geography": "Moncton, New Brunswick",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Rate, total persons charged per 100,000 population aged 12 years and over (31)",
+    "year2012": 2084.49,
+    "year2013": 1803.29,
+    "year2014": 1745.58,
+    "year2015": 1790.75,
+    "year2016": 1946.48
+  },
+  {
+    "Geography": "Moncton, New Brunswick",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Total, adult charged",
+    "year2012": 2337,
+    "year2013": 2046,
+    "year2014": 2160,
+    "year2015": 2176,
+    "year2016": 2466
+  },
+  {
+    "Geography": "Moncton, New Brunswick",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Rate, adult charged per 100,000 population aged 18 years and over (31)",
+    "year2012": 2025.9,
+    "year2013": 1758.7,
+    "year2014": 1708.77,
+    "year2015": 1710.84,
+    "year2016": 1920.92
+  },
+  {
+    "Geography": "Moncton, New Brunswick",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Total, youth charged (39,40)",
+    "year2012": 254,
+    "year2013": 211,
+    "year2014": 209,
+    "year2015": 269,
+    "year2016": 218
+  },
+  {
+    "Geography": "Moncton, New Brunswick",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Rate, youth charged per 100,000 population aged 12 to 17 years (31)",
+    "year2012": 2840.21,
+    "year2013": 2391.21,
+    "year2014": 2245.62,
+    "year2015": 2878.24,
+    "year2016": 2291.36
+  },
+  {
+    "Geography": "Moncton, New Brunswick",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Total, youth not charged (39,40)",
+    "year2012": 431,
+    "year2013": 283,
+    "year2014": 315,
+    "year2015": 236,
+    "year2016": 224
+  },
+  {
+    "Geography": "Moncton, New Brunswick",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Rate, youth not charged per 100,000 population aged 12 to 17 years (31)",
+    "year2012": 4819.41,
+    "year2013": 3207.16,
+    "year2014": 3384.55,
+    "year2015": 2525.14,
+    "year2016": 2354.43
+  },
+  {
+    "Geography": "Saint John, New Brunswick",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Actual incidents",
+    "year2012": 9118,
+    "year2013": 8212,
+    "year2014": 6665,
+    "year2015": 6552,
+    "year2016": 6034
+  },
+  {
+    "Geography": "Saint John, New Brunswick",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Rate per 100,000 population",
+    "year2012": 6214.52,
+    "year2013": 5623.04,
+    "year2014": 5221.76,
+    "year2015": 5141.36,
+    "year2016": 4716.64
+  },
+  {
+    "Geography": "Saint John, New Brunswick",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Percentage change in rate (22)",
+    "year2012": -0.58,
+    "year2013": -9.52,
+    "year2014": -7.14,
+    "year2015": -1.54,
+    "year2016": -8.26
+  },
+  {
+    "Geography": "Saint John, New Brunswick",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Total cleared",
+    "year2012": 4772,
+    "year2013": 4229,
+    "year2014": 3733,
+    "year2015": 3587,
+    "year2016": 3509
+  },
+  {
+    "Geography": "Saint John, New Brunswick",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Cleared by charge",
+    "year2012": 2895,
+    "year2013": 2733,
+    "year2014": 2255,
+    "year2015": 2124,
+    "year2016": 2010
+  },
+  {
+    "Geography": "Saint John, New Brunswick",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Cleared otherwise",
+    "year2012": 1877,
+    "year2013": 1496,
+    "year2014": 1478,
+    "year2015": 1463,
+    "year2016": 1499
+  },
+  {
+    "Geography": "Saint John, New Brunswick",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Total, persons charged (23)",
+    "year2012": 2689,
+    "year2013": 2610,
+    "year2014": 2190,
+    "year2015": 2052,
+    "year2016": 1908
+  },
+  {
+    "Geography": "Saint John, New Brunswick",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Rate, total persons charged per 100,000 population aged 12 years and over (31)",
+    "year2012": 2095.43,
+    "year2013": 2042.09,
+    "year2014": 1960.85,
+    "year2015": 1840.06,
+    "year2016": 1705.11
+  },
+  {
+    "Geography": "Saint John, New Brunswick",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Total, adult charged",
+    "year2012": 2251,
+    "year2013": 2219,
+    "year2014": 1895,
+    "year2015": 1804,
+    "year2016": 1713
+  },
+  {
+    "Geography": "Saint John, New Brunswick",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Rate, adult charged per 100,000 population aged 18 years and over (31)",
+    "year2012": 1913.68,
+    "year2013": 1890.04,
+    "year2014": 1841.4,
+    "year2015": 1753.16,
+    "year2016": 1657.46
+  },
+  {
+    "Geography": "Saint John, New Brunswick",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Total, youth charged (39,40)",
+    "year2012": 438,
+    "year2013": 391,
+    "year2014": 295,
+    "year2015": 248,
+    "year2016": 195
+  },
+  {
+    "Geography": "Saint John, New Brunswick",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Rate, youth charged per 100,000 population aged 12 to 17 years (31)",
+    "year2012": 4093.46,
+    "year2013": 3757.81,
+    "year2014": 3361.82,
+    "year2015": 2877.7,
+    "year2016": 2281.24
+  },
+  {
+    "Geography": "Saint John, New Brunswick",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Total, youth not charged (39,40)",
+    "year2012": 507,
+    "year2013": 400,
+    "year2014": 357,
+    "year2015": 315,
+    "year2016": 290
+  },
+  {
+    "Geography": "Saint John, New Brunswick",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Rate, youth not charged per 100,000 population aged 12 to 17 years (31)",
+    "year2012": 4738.32,
+    "year2013": 3844.31,
+    "year2014": 4068.38,
+    "year2015": 3655.14,
+    "year2016": 3392.61
+  },
+  {
+    "Geography": "Quebec (50,62,80)",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Actual incidents",
+    "year2012": 420295,
+    "year2013": 383203,
+    "year2014": 354417,
+    "year2015": 347653,
+    "year2016": 338624
+  },
+  {
+    "Geography": "Quebec (50,62,80)",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Rate per 100,000 population",
+    "year2012": 5197.87,
+    "year2013": 4698.7,
+    "year2014": 4314.53,
+    "year2015": 4209.15,
+    "year2016": 4067.02
+  },
+  {
+    "Geography": "Quebec (50,62,80)",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Percentage change in rate (22)",
+    "year2012": -1.84,
+    "year2013": -9.6,
+    "year2014": -8.18,
+    "year2015": -2.44,
+    "year2016": -3.38
+  },
+  {
+    "Geography": "Quebec (50,62,80)",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Total cleared",
+    "year2012": 198174,
+    "year2013": 186080,
+    "year2014": 175551,
+    "year2015": 172147,
+    "year2016": 167393
+  },
+  {
+    "Geography": "Quebec (50,62,80)",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Cleared by charge",
+    "year2012": 139341,
+    "year2013": 130399,
+    "year2014": 121412,
+    "year2015": 119904,
+    "year2016": 116360
+  },
+  {
+    "Geography": "Quebec (50,62,80)",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Cleared otherwise",
+    "year2012": 58833,
+    "year2013": 55681,
+    "year2014": 54139,
+    "year2015": 52243,
+    "year2016": 51033
+  },
+  {
+    "Geography": "Quebec (50,62,80)",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Total, persons charged (23)",
+    "year2012": 119209,
+    "year2013": 111548,
+    "year2014": 107314,
+    "year2015": 108589,
+    "year2016": 108278
+  },
+  {
+    "Geography": "Quebec (50,62,80)",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Rate, total persons charged per 100,000 population aged 12 years and over (31)",
+    "year2012": 1682.1,
+    "year2013": 1562.43,
+    "year2014": 1493.9,
+    "year2015": 1505.04,
+    "year2016": 1489.97
+  },
+  {
+    "Geography": "Quebec (50,62,80)",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Total, adult charged",
+    "year2012": 108677,
+    "year2013": 102128,
+    "year2014": 99367,
+    "year2015": 101233,
+    "year2016": 100542
+  },
+  {
+    "Geography": "Quebec (50,62,80)",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Rate, adult charged per 100,000 population aged 18 years and over (31)",
+    "year2012": 1655.02,
+    "year2013": 1539.27,
+    "year2014": 1484.69,
+    "year2015": 1503.39,
+    "year2016": 1481.19
+  },
+  {
+    "Geography": "Quebec (50,62,80)",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Total, youth charged (39,40)",
+    "year2012": 10532,
+    "year2013": 9420,
+    "year2014": 7947,
+    "year2015": 7356,
+    "year2016": 7736
+  },
+  {
+    "Geography": "Quebec (50,62,80)",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Rate, youth charged per 100,000 population aged 12 to 17 years (31)",
+    "year2012": 2023.74,
+    "year2013": 1867.06,
+    "year2014": 1619.51,
+    "year2015": 1528.11,
+    "year2016": 1614.31
+  },
+  {
+    "Geography": "Quebec (50,62,80)",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Total, youth not charged (39,40)",
+    "year2012": 14782,
+    "year2013": 13237,
+    "year2014": 12020,
+    "year2015": 11976,
+    "year2016": 11013
+  },
+  {
+    "Geography": "Quebec (50,62,80)",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Rate, youth not charged per 100,000 population aged 12 to 17 years (31)",
+    "year2012": 2840.38,
+    "year2013": 2623.59,
+    "year2014": 2449.54,
+    "year2015": 2487.86,
+    "year2016": 2298.14
+  },
+  {
+    "Geography": "Saguenay, Quebec (5,55)",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Actual incidents",
+    "year2012": 9060,
+    "year2013": 8278,
+    "year2014": 7703,
+    "year2015": 7512,
+    "year2016": 7679
+  },
+  {
+    "Geography": "Saguenay, Quebec (5,55)",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Rate per 100,000 population",
+    "year2012": 5403.54,
+    "year2013": 4930.23,
+    "year2014": 4592.75,
+    "year2015": 4487,
+    "year2016": 4596.72
+  },
+  {
+    "Geography": "Saguenay, Quebec (5,55)",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Percentage change in rate (22)",
+    "year2012": -2.32,
+    "year2013": -8.76,
+    "year2014": -6.85,
+    "year2015": -2.3,
+    "year2016": 2.45
+  },
+  {
+    "Geography": "Saguenay, Quebec (5,55)",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Total cleared",
+    "year2012": 4186,
+    "year2013": 3886,
+    "year2014": 3688,
+    "year2015": 3402,
+    "year2016": 3503
+  },
+  {
+    "Geography": "Saguenay, Quebec (5,55)",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Cleared by charge",
+    "year2012": 3113,
+    "year2013": 2867,
+    "year2014": 2644,
+    "year2015": 2377,
+    "year2016": 2461
+  },
+  {
+    "Geography": "Saguenay, Quebec (5,55)",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Cleared otherwise",
+    "year2012": 1073,
+    "year2013": 1019,
+    "year2014": 1044,
+    "year2015": 1025,
+    "year2016": 1042
+  },
+  {
+    "Geography": "Saguenay, Quebec (5,55)",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Total, persons charged (23)",
+    "year2012": 2338,
+    "year2013": 2169,
+    "year2014": 2121,
+    "year2015": 2097,
+    "year2016": 2180
+  },
+  {
+    "Geography": "Saguenay, Quebec (5,55)",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Rate, total persons charged per 100,000 population aged 12 years and over (31)",
+    "year2012": 1568.9,
+    "year2013": 1456.02,
+    "year2014": 1425.88,
+    "year2015": 1414.45,
+    "year2016": 1475.3
+  },
+  {
+    "Geography": "Saguenay, Quebec (5,55)",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Total, adult charged",
+    "year2012": 2171,
+    "year2013": 1963,
+    "year2014": 1937,
+    "year2015": 1903,
+    "year2016": 2006
+  },
+  {
+    "Geography": "Saguenay, Quebec (5,55)",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Rate, adult charged per 100,000 population aged 18 years and over (31)",
+    "year2012": 1561.56,
+    "year2013": 1408.37,
+    "year2014": 1388.54,
+    "year2015": 1365.19,
+    "year2016": 1441.81
+  },
+  {
+    "Geography": "Saguenay, Quebec (5,55)",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Total, youth charged (39,40)",
+    "year2012": 167,
+    "year2013": 206,
+    "year2014": 184,
+    "year2015": 194,
+    "year2016": 174
+  },
+  {
+    "Geography": "Saguenay, Quebec (5,55)",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Rate, youth charged per 100,000 population aged 12 to 17 years (31)",
+    "year2012": 1671,
+    "year2013": 2148.74,
+    "year2014": 1988.97,
+    "year2015": 2189.62,
+    "year2016": 2014.82
+  },
+  {
+    "Geography": "Saguenay, Quebec (5,55)",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Total, youth not charged (39,40)",
+    "year2012": 294,
+    "year2013": 276,
+    "year2014": 266,
+    "year2015": 232,
+    "year2016": 219
+  },
+  {
+    "Geography": "Saguenay, Quebec (5,55)",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Rate, youth not charged per 100,000 population aged 12 to 17 years (31)",
+    "year2012": 2941.77,
+    "year2013": 2878.9,
+    "year2014": 2875.36,
+    "year2015": 2618.51,
+    "year2016": 2535.9
+  },
+  {
+    "Geography": "Quebec, Quebec",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Actual incidents",
+    "year2012": 31879,
+    "year2013": 30766,
+    "year2014": 28664,
+    "year2015": 28200,
+    "year2016": 29215
+  },
+  {
+    "Geography": "Quebec, Quebec",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Rate per 100,000 population",
+    "year2012": 4097.56,
+    "year2013": 3923.01,
+    "year2014": 3627.97,
+    "year2015": 3548.36,
+    "year2016": 3649.27
+  },
+  {
+    "Geography": "Quebec, Quebec",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Percentage change in rate (22)",
+    "year2012": -0.77,
+    "year2013": -4.26,
+    "year2014": -7.52,
+    "year2015": -2.19,
+    "year2016": 2.84
+  },
+  {
+    "Geography": "Quebec, Quebec",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Total cleared",
+    "year2012": 14684,
+    "year2013": 13689,
+    "year2014": 12483,
+    "year2015": 12249,
+    "year2016": 13367
+  },
+  {
+    "Geography": "Quebec, Quebec",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Cleared by charge",
+    "year2012": 10509,
+    "year2013": 9891,
+    "year2014": 8942,
+    "year2015": 8874,
+    "year2016": 9610
+  },
+  {
+    "Geography": "Quebec, Quebec",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Cleared otherwise",
+    "year2012": 4175,
+    "year2013": 3798,
+    "year2014": 3541,
+    "year2015": 3375,
+    "year2016": 3757
+  },
+  {
+    "Geography": "Quebec, Quebec",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Total, persons charged (23)",
+    "year2012": 10009,
+    "year2013": 9281,
+    "year2014": 8372,
+    "year2015": 8440,
+    "year2016": 9078
+  },
+  {
+    "Geography": "Quebec, Quebec",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Rate, total persons charged per 100,000 population aged 12 years and over (31)",
+    "year2012": 1451.93,
+    "year2013": 1338.23,
+    "year2014": 1199.92,
+    "year2015": 1204.97,
+    "year2016": 1288.98
+  },
+  {
+    "Geography": "Quebec, Quebec",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Total, adult charged",
+    "year2012": 8781,
+    "year2013": 8274,
+    "year2014": 7575,
+    "year2015": 7687,
+    "year2016": 8368
+  },
+  {
+    "Geography": "Quebec, Quebec",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Rate, adult charged per 100,000 population aged 18 years and over (31)",
+    "year2012": 1362.93,
+    "year2013": 1273.18,
+    "year2014": 1156.05,
+    "year2015": 1166.91,
+    "year2016": 1262.39
+  },
+  {
+    "Geography": "Quebec, Quebec",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Total, youth charged (39,40)",
+    "year2012": 1228,
+    "year2013": 1007,
+    "year2014": 797,
+    "year2015": 753,
+    "year2016": 710
+  },
+  {
+    "Geography": "Quebec, Quebec",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Rate, youth charged per 100,000 population aged 12 to 17 years (31)",
+    "year2012": 2723.99,
+    "year2013": 2306.67,
+    "year2014": 1876.88,
+    "year2015": 1806.49,
+    "year2016": 1714.56
+  },
+  {
+    "Geography": "Quebec, Quebec",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Total, youth not charged (39,40)",
+    "year2012": 1020,
+    "year2013": 885,
+    "year2014": 693,
+    "year2015": 680,
+    "year2016": 686
+  },
+  {
+    "Geography": "Quebec, Quebec",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Rate, youth not charged per 100,000 population aged 12 to 17 years (31)",
+    "year2012": 2262.59,
+    "year2013": 2027.21,
+    "year2014": 1631.97,
+    "year2015": 1631.36,
+    "year2016": 1656.6
+  },
+  {
+    "Geography": "Sherbrooke, Quebec (32,37)",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Actual incidents",
+    "year2012": 10340,
+    "year2013": 9643,
+    "year2014": 9160,
+    "year2015": 8512,
+    "year2016": 8687
+  },
+  {
+    "Geography": "Sherbrooke, Quebec (32,37)",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Rate per 100,000 population",
+    "year2012": 5383.17,
+    "year2013": 4970.64,
+    "year2014": 4673.59,
+    "year2015": 4314.9,
+    "year2016": 4357.79
+  },
+  {
+    "Geography": "Sherbrooke, Quebec (32,37)",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Percentage change in rate (22)",
+    "year2012": 5.03,
+    "year2013": -7.66,
+    "year2014": -5.98,
+    "year2015": -7.67,
+    "year2016": 0.99
+  },
+  {
+    "Geography": "Sherbrooke, Quebec (32,37)",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Total cleared",
+    "year2012": 5887,
+    "year2013": 5567,
+    "year2014": 4989,
+    "year2015": 4794,
+    "year2016": 4652
+  },
+  {
+    "Geography": "Sherbrooke, Quebec (32,37)",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Cleared by charge",
+    "year2012": 4170,
+    "year2013": 4088,
+    "year2014": 3730,
+    "year2015": 3910,
+    "year2016": 4072
+  },
+  {
+    "Geography": "Sherbrooke, Quebec (32,37)",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Cleared otherwise",
+    "year2012": 1717,
+    "year2013": 1479,
+    "year2014": 1259,
+    "year2015": 884,
+    "year2016": 580
+  },
+  {
+    "Geography": "Sherbrooke, Quebec (32,37)",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Total, persons charged (23)",
+    "year2012": 3887,
+    "year2013": 3707,
+    "year2014": 3564,
+    "year2015": 3777,
+    "year2016": 3889
+  },
+  {
+    "Geography": "Sherbrooke, Quebec (32,37)",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Rate, total persons charged per 100,000 population aged 12 years and over (31)",
+    "year2012": 2295.29,
+    "year2013": 2168.34,
+    "year2014": 2065.17,
+    "year2015": 2176.51,
+    "year2016": 2217.5
+  },
+  {
+    "Geography": "Sherbrooke, Quebec (32,37)",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Total, adult charged",
+    "year2012": 3592,
+    "year2013": 3358,
+    "year2014": 3270,
+    "year2015": 3511,
+    "year2016": 3607
+  },
+  {
+    "Geography": "Sherbrooke, Quebec (32,37)",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Rate, adult charged per 100,000 population aged 18 years and over (31)",
+    "year2012": 2286.63,
+    "year2013": 2112.89,
+    "year2014": 2033.65,
+    "year2015": 2167.58,
+    "year2016": 2201.32
+  },
+  {
+    "Geography": "Sherbrooke, Quebec (32,37)",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Total, youth charged (39,40)",
+    "year2012": 295,
+    "year2013": 349,
+    "year2014": 294,
+    "year2015": 266,
+    "year2016": 282
+  },
+  {
+    "Geography": "Sherbrooke, Quebec (32,37)",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Rate, youth charged per 100,000 population aged 12 to 17 years (31)",
+    "year2012": 2406.2,
+    "year2013": 2900.84,
+    "year2014": 2495.33,
+    "year2015": 2301.64,
+    "year2016": 2447.49
+  },
+  {
+    "Geography": "Sherbrooke, Quebec (32,37)",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Total, youth not charged (39,40)",
+    "year2012": 467,
+    "year2013": 485,
+    "year2014": 334,
+    "year2015": 297,
+    "year2016": 289
+  },
+  {
+    "Geography": "Sherbrooke, Quebec (32,37)",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Rate, youth not charged per 100,000 population aged 12 to 17 years (31)",
+    "year2012": 3809.14,
+    "year2013": 4031.25,
+    "year2014": 2834.83,
+    "year2015": 2569.87,
+    "year2016": 2508.25
+  },
+  {
+    "Geography": "Trois-Rivieres, Quebec",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Actual incidents",
+    "year2012": 8330,
+    "year2013": 7996,
+    "year2014": 7285,
+    "year2015": 7180,
+    "year2016": 6392
+  },
+  {
+    "Geography": "Trois-Rivieres, Quebec",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Rate per 100,000 population",
+    "year2012": 5421.17,
+    "year2013": 5177.52,
+    "year2014": 4689.35,
+    "year2015": 4606.55,
+    "year2016": 4080.46
+  },
+  {
+    "Geography": "Trois-Rivieres, Quebec",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Percentage change in rate (22)",
+    "year2012": -1.05,
+    "year2013": -4.49,
+    "year2014": -9.43,
+    "year2015": -1.77,
+    "year2016": -11.42
+  },
+  {
+    "Geography": "Trois-Rivieres, Quebec",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Total cleared",
+    "year2012": 4522,
+    "year2013": 4350,
+    "year2014": 3890,
+    "year2015": 3867,
+    "year2016": 3517
+  },
+  {
+    "Geography": "Trois-Rivieres, Quebec",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Cleared by charge",
+    "year2012": 3200,
+    "year2013": 3250,
+    "year2014": 2744,
+    "year2015": 2759,
+    "year2016": 2489
+  },
+  {
+    "Geography": "Trois-Rivieres, Quebec",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Cleared otherwise",
+    "year2012": 1322,
+    "year2013": 1100,
+    "year2014": 1146,
+    "year2015": 1108,
+    "year2016": 1028
+  },
+  {
+    "Geography": "Trois-Rivieres, Quebec",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Total, persons charged (23)",
+    "year2012": 2560,
+    "year2013": 2608,
+    "year2014": 2334,
+    "year2015": 2232,
+    "year2016": 2070
+  },
+  {
+    "Geography": "Trois-Rivieres, Quebec",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Rate, total persons charged per 100,000 population aged 12 years and over (31)",
+    "year2012": 1860.34,
+    "year2013": 1887.95,
+    "year2014": 1681.98,
+    "year2015": 1604.97,
+    "year2016": 1483.79
+  },
+  {
+    "Geography": "Trois-Rivieres, Quebec",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Total, adult charged",
+    "year2012": 2357,
+    "year2013": 2403,
+    "year2014": 2143,
+    "year2015": 2097,
+    "year2016": 1994
+  },
+  {
+    "Geography": "Trois-Rivieres, Quebec",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Rate, adult charged per 100,000 population aged 18 years and over (31)",
+    "year2012": 1833.01,
+    "year2013": 1855.27,
+    "year2014": 1642.64,
+    "year2015": 1600.6,
+    "year2016": 1515.12
+  },
+  {
+    "Geography": "Trois-Rivieres, Quebec",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Total, youth charged (39,40)",
+    "year2012": 203,
+    "year2013": 205,
+    "year2014": 191,
+    "year2015": 135,
+    "year2016": 76
+  },
+  {
+    "Geography": "Trois-Rivieres, Quebec",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Rate, youth charged per 100,000 population aged 12 to 17 years (31)",
+    "year2012": 2249.81,
+    "year2013": 2379.29,
+    "year2014": 2300.1,
+    "year2015": 1675.98,
+    "year2016": 961.9
+  },
+  {
+    "Geography": "Trois-Rivieres, Quebec",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Total, youth not charged (39,40)",
+    "year2012": 404,
+    "year2013": 302,
+    "year2014": 266,
+    "year2015": 237,
+    "year2016": 216
+  },
+  {
+    "Geography": "Trois-Rivieres, Quebec",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Rate, youth not charged per 100,000 population aged 12 to 17 years (31)",
+    "year2012": 4477.45,
+    "year2013": 3505.11,
+    "year2014": 3203.28,
+    "year2015": 2942.27,
+    "year2016": 2733.83
+  },
+  {
+    "Geography": "Montreal, Quebec",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Actual incidents",
+    "year2012": 203784,
+    "year2013": 185629,
+    "year2014": 172169,
+    "year2015": 169674,
+    "year2016": 163531
+  },
+  {
+    "Geography": "Montreal, Quebec",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Rate per 100,000 population",
+    "year2012": 5172.26,
+    "year2013": 4656.24,
+    "year2014": 4276.28,
+    "year2015": 4181.88,
+    "year2016": 3986.01
+  },
+  {
+    "Geography": "Montreal, Quebec",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Percentage change in rate (22)",
+    "year2012": -4.2,
+    "year2013": -9.98,
+    "year2014": -8.16,
+    "year2015": -2.21,
+    "year2016": -4.68
+  },
+  {
+    "Geography": "Montreal, Quebec",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Total cleared",
+    "year2012": 83366,
+    "year2013": 78800,
+    "year2014": 75579,
+    "year2015": 74806,
+    "year2016": 73038
+  },
+  {
+    "Geography": "Montreal, Quebec",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Cleared by charge",
+    "year2012": 63364,
+    "year2013": 60106,
+    "year2014": 55977,
+    "year2015": 55736,
+    "year2016": 54170
+  },
+  {
+    "Geography": "Montreal, Quebec",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Cleared otherwise",
+    "year2012": 20002,
+    "year2013": 18694,
+    "year2014": 19602,
+    "year2015": 19070,
+    "year2016": 18868
+  },
+  {
+    "Geography": "Montreal, Quebec",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Total, persons charged (23)",
+    "year2012": 53657,
+    "year2013": 50935,
+    "year2014": 48200,
+    "year2015": 49491,
+    "year2016": 50901
+  },
+  {
+    "Geography": "Montreal, Quebec",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Rate, total persons charged per 100,000 population aged 12 years and over (31)",
+    "year2012": 1562.07,
+    "year2013": 1467.28,
+    "year2014": 1376.41,
+    "year2015": 1403.9,
+    "year2016": 1428.9
+  },
+  {
+    "Geography": "Montreal, Quebec",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Total, adult charged",
+    "year2012": 48927,
+    "year2013": 46803,
+    "year2014": 44746,
+    "year2015": 46380,
+    "year2016": 47144
+  },
+  {
+    "Geography": "Montreal, Quebec",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Rate, adult charged per 100,000 population aged 18 years and over (31)",
+    "year2012": 1540.8,
+    "year2013": 1454.18,
+    "year2014": 1374.72,
+    "year2015": 1413.13,
+    "year2016": 1420.65
+  },
+  {
+    "Geography": "Montreal, Quebec",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Total, youth charged (39,40)",
+    "year2012": 4730,
+    "year2013": 4132,
+    "year2014": 3454,
+    "year2015": 3111,
+    "year2016": 3757
+  },
+  {
+    "Geography": "Montreal, Quebec",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Rate, youth charged per 100,000 population aged 12 to 17 years (31)",
+    "year2012": 1822.22,
+    "year2013": 1633.97,
+    "year2014": 1398.75,
+    "year2015": 1279.28,
+    "year2016": 1541.12
+  },
+  {
+    "Geography": "Montreal, Quebec",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Total, youth not charged (39,40)",
+    "year2012": 5992,
+    "year2013": 5164,
+    "year2014": 4824,
+    "year2015": 4981,
+    "year2016": 4452
+  },
+  {
+    "Geography": "Montreal, Quebec",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Rate, youth not charged per 100,000 population aged 12 to 17 years (31)",
+    "year2012": 2308.41,
+    "year2013": 2042.07,
+    "year2014": 1953.56,
+    "year2015": 2048.24,
+    "year2016": 1826.21
+  },
+  {
+    "Geography": "Ottawa-Gatineau, Quebec part",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Actual incidents",
+    "year2012": 16893,
+    "year2013": 15063,
+    "year2014": 16196,
+    "year2015": 16307,
+    "year2016": 16386
+  },
+  {
+    "Geography": "Ottawa-Gatineau, Quebec part",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Rate per 100,000 population",
+    "year2012": 5284.51,
+    "year2013": 4671.34,
+    "year2014": 4982.2,
+    "year2015": 4983.25,
+    "year2016": 4948.75
+  },
+  {
+    "Geography": "Ottawa-Gatineau, Quebec part",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Percentage change in rate (22)",
+    "year2012": 0.34,
+    "year2013": -11.6,
+    "year2014": 6.65,
+    "year2015": 0.02,
+    "year2016": -0.69
+  },
+  {
+    "Geography": "Ottawa-Gatineau, Quebec part",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Total cleared",
+    "year2012": 9926,
+    "year2013": 9006,
+    "year2014": 9280,
+    "year2015": 9212,
+    "year2016": 8696
+  },
+  {
+    "Geography": "Ottawa-Gatineau, Quebec part",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Cleared by charge",
+    "year2012": 6719,
+    "year2013": 6044,
+    "year2014": 6531,
+    "year2015": 6116,
+    "year2016": 5780
+  },
+  {
+    "Geography": "Ottawa-Gatineau, Quebec part",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Cleared otherwise",
+    "year2012": 3207,
+    "year2013": 2962,
+    "year2014": 2749,
+    "year2015": 3096,
+    "year2016": 2916
+  },
+  {
+    "Geography": "Ottawa-Gatineau, Quebec part",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Total, persons charged (23)",
+    "year2012": 6524,
+    "year2013": 5921,
+    "year2014": 6575,
+    "year2015": 6126,
+    "year2016": 5842
+  },
+  {
+    "Geography": "Ottawa-Gatineau, Quebec part",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Rate, total persons charged per 100,000 population aged 12 years and over (31)",
+    "year2012": 2367.32,
+    "year2013": 2132.28,
+    "year2014": 2349.78,
+    "year2015": 2175.7,
+    "year2016": 2052.58
+  },
+  {
+    "Geography": "Ottawa-Gatineau, Quebec part",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Total, adult charged",
+    "year2012": 5970,
+    "year2013": 5508,
+    "year2014": 6134,
+    "year2015": 5717,
+    "year2016": 5328
+  },
+  {
+    "Geography": "Ottawa-Gatineau, Quebec part",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Rate, adult charged per 100,000 population aged 18 years and over (31)",
+    "year2012": 2357.37,
+    "year2013": 2151.87,
+    "year2014": 2372.15,
+    "year2015": 2193.53,
+    "year2016": 2021.24
+  },
+  {
+    "Geography": "Ottawa-Gatineau, Quebec part",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Total, youth charged (39,40)",
+    "year2012": 554,
+    "year2013": 413,
+    "year2014": 441,
+    "year2015": 409,
+    "year2016": 514
+  },
+  {
+    "Geography": "Ottawa-Gatineau, Quebec part",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Rate, youth charged per 100,000 population aged 12 to 17 years (31)",
+    "year2012": 2480.08,
+    "year2013": 1901.39,
+    "year2014": 2077.25,
+    "year2015": 1953.76,
+    "year2016": 2445.64
+  },
+  {
+    "Geography": "Ottawa-Gatineau, Quebec part",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Total, youth not charged (39,40)",
+    "year2012": 822,
+    "year2013": 707,
+    "year2014": 734,
+    "year2015": 790,
+    "year2016": 752
+  },
+  {
+    "Geography": "Ottawa-Gatineau, Quebec part",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Rate, youth not charged per 100,000 population aged 12 to 17 years (31)",
+    "year2012": 3679.83,
+    "year2013": 3254.91,
+    "year2014": 3457.37,
+    "year2015": 3773.77,
+    "year2016": 3578.06
+  },
+  {
+    "Geography": "Ontario",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Actual incidents",
+    "year2012": 618486,
+    "year2013": 566931,
+    "year2014": 547570,
+    "year2015": 551243,
+    "year2016": 563755
+  },
+  {
+    "Geography": "Ontario",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Rate per 100,000 population",
+    "year2012": 4610.85,
+    "year2013": 4182.07,
+    "year2014": 4001.19,
+    "year2015": 3995.37,
+    "year2016": 4031.72
+  },
+  {
+    "Geography": "Ontario",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Percentage change in rate (22)",
+    "year2012": -3.87,
+    "year2013": -9.3,
+    "year2014": -4.33,
+    "year2015": -0.15,
+    "year2016": 0.91
+  },
+  {
+    "Geography": "Ontario",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Total cleared",
+    "year2012": 294725,
+    "year2013": 275834,
+    "year2014": 264292,
+    "year2015": 265702,
+    "year2016": 265585
+  },
+  {
+    "Geography": "Ontario",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Cleared by charge",
+    "year2012": 208916,
+    "year2013": 195657,
+    "year2014": 189283,
+    "year2015": 190302,
+    "year2016": 192719
+  },
+  {
+    "Geography": "Ontario",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Cleared otherwise",
+    "year2012": 85809,
+    "year2013": 80177,
+    "year2014": 75009,
+    "year2015": 75400,
+    "year2016": 72866
+  },
+  {
+    "Geography": "Ontario",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Total, persons charged (23)",
+    "year2012": 205225,
+    "year2013": 193206,
+    "year2014": 185272,
+    "year2015": 185420,
+    "year2016": 186802
+  },
+  {
+    "Geography": "Ontario",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Rate, total persons charged per 100,000 population aged 12 years and over (31)",
+    "year2012": 1756.96,
+    "year2013": 1634.97,
+    "year2014": 1551.82,
+    "year2015": 1539.81,
+    "year2016": 1529.98
+  },
+  {
+    "Geography": "Ontario",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Total, adult charged",
+    "year2012": 182609,
+    "year2013": 174943,
+    "year2014": 169045,
+    "year2015": 169953,
+    "year2016": 171999
+  },
+  {
+    "Geography": "Ontario",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Rate, adult charged per 100,000 population aged 18 years and over (31)",
+    "year2012": 1706.77,
+    "year2013": 1611.03,
+    "year2014": 1536.56,
+    "year2015": 1528.75,
+    "year2016": 1523.76
+  },
+  {
+    "Geography": "Ontario",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Total, youth charged (39,40)",
+    "year2012": 22616,
+    "year2013": 18263,
+    "year2014": 16227,
+    "year2015": 15467,
+    "year2016": 14803
+  },
+  {
+    "Geography": "Ontario",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Rate, youth charged per 100,000 population aged 12 to 17 years (31)",
+    "year2012": 2303.97,
+    "year2013": 1906.26,
+    "year2014": 1730.87,
+    "year2015": 1672.74,
+    "year2016": 1606.14
+  },
+  {
+    "Geography": "Ontario",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Total, youth not charged (39,40)",
+    "year2012": 27571,
+    "year2013": 22184,
+    "year2014": 20596,
+    "year2015": 19988,
+    "year2016": 18923
+  },
+  {
+    "Geography": "Ontario",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Rate, youth not charged per 100,000 population aged 12 to 17 years (31)",
+    "year2012": 2808.75,
+    "year2013": 2315.53,
+    "year2014": 2196.89,
+    "year2015": 2161.68,
+    "year2016": 2053.16
+  },
+  {
+    "Geography": "Ottawa-Gatineau, Ontario/Quebec",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Actual incidents",
+    "year2012": 61148,
+    "year2013": 54320,
+    "year2014": 52608,
+    "year2015": 52333,
+    "year2016": 54441
+  },
+  {
+    "Geography": "Ottawa-Gatineau, Ontario/Quebec",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Rate per 100,000 population",
+    "year2012": 4762.43,
+    "year2013": 4183.32,
+    "year2014": 4010.14,
+    "year2015": 3952.22,
+    "year2016": 4048.47
+  },
+  {
+    "Geography": "Ottawa-Gatineau, Ontario/Quebec",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Percentage change in rate (22)",
+    "year2012": -0.41,
+    "year2013": -12.16,
+    "year2014": -4.14,
+    "year2015": -1.44,
+    "year2016": 2.44
+  },
+  {
+    "Geography": "Ottawa-Gatineau, Ontario/Quebec",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Total cleared",
+    "year2012": 28402,
+    "year2013": 25650,
+    "year2014": 24572,
+    "year2015": 24364,
+    "year2016": 24373
+  },
+  {
+    "Geography": "Ottawa-Gatineau, Ontario/Quebec",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Cleared by charge",
+    "year2012": 18557,
+    "year2013": 16908,
+    "year2014": 16997,
+    "year2015": 16737,
+    "year2016": 16920
+  },
+  {
+    "Geography": "Ottawa-Gatineau, Ontario/Quebec",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Cleared otherwise",
+    "year2012": 9845,
+    "year2013": 8742,
+    "year2014": 7575,
+    "year2015": 7627,
+    "year2016": 7453
+  },
+  {
+    "Geography": "Ottawa-Gatineau, Ontario/Quebec",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Total, persons charged (23)",
+    "year2012": 17936,
+    "year2013": 16511,
+    "year2014": 16578,
+    "year2015": 16175,
+    "year2016": 16179
+  },
+  {
+    "Geography": "Ottawa-Gatineau, Ontario/Quebec",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Rate, total persons charged per 100,000 population aged 12 years and over (31)",
+    "year2012": 1608.9,
+    "year2013": 1464.45,
+    "year2014": 1455.22,
+    "year2015": 1406.49,
+    "year2016": 1385.19
+  },
+  {
+    "Geography": "Ottawa-Gatineau, Ontario/Quebec",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Total, adult charged",
+    "year2012": 16372,
+    "year2013": 15285,
+    "year2014": 15488,
+    "year2015": 15148,
+    "year2016": 15005
+  },
+  {
+    "Geography": "Ottawa-Gatineau, Ontario/Quebec",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Rate, adult charged per 100,000 population aged 18 years and over (31)",
+    "year2012": 1598.47,
+    "year2013": 1471.27,
+    "year2014": 1472.01,
+    "year2015": 1424.06,
+    "year2016": 1387.71
+  },
+  {
+    "Geography": "Ottawa-Gatineau, Ontario/Quebec",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Total, youth charged (39,40)",
+    "year2012": 1564,
+    "year2013": 1226,
+    "year2014": 1090,
+    "year2015": 1027,
+    "year2016": 1174
+  },
+  {
+    "Geography": "Ottawa-Gatineau, Ontario/Quebec",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Rate, youth charged per 100,000 population aged 12 to 17 years (31)",
+    "year2012": 1726.82,
+    "year2013": 1384.51,
+    "year2014": 1252.34,
+    "year2015": 1189.88,
+    "year2016": 1353.78
+  },
+  {
+    "Geography": "Ottawa-Gatineau, Ontario/Quebec",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Total, youth not charged (39,40)",
+    "year2012": 3214,
+    "year2013": 2525,
+    "year2014": 2322,
+    "year2015": 2180,
+    "year2016": 2157
+  },
+  {
+    "Geography": "Ottawa-Gatineau, Ontario/Quebec",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Rate, youth not charged per 100,000 population aged 12 to 17 years (31)",
+    "year2012": 3548.6,
+    "year2013": 2851.46,
+    "year2014": 2667.83,
+    "year2015": 2525.75,
+    "year2016": 2487.32
+  },
+  {
+    "Geography": "Ottawa-Gatineau, Ontario part",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Actual incidents",
+    "year2012": 44255,
+    "year2013": 39257,
+    "year2014": 36412,
+    "year2015": 36026,
+    "year2016": 38055
+  },
+  {
+    "Geography": "Ottawa-Gatineau, Ontario part",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Rate per 100,000 population",
+    "year2012": 4589.36,
+    "year2013": 4022.09,
+    "year2014": 3689.92,
+    "year2015": 3613.78,
+    "year2016": 3754.38
+  },
+  {
+    "Geography": "Ottawa-Gatineau, Ontario part",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Percentage change in rate (22)",
+    "year2012": -0.7,
+    "year2013": -12.36,
+    "year2014": -8.26,
+    "year2015": -2.06,
+    "year2016": 3.89
+  },
+  {
+    "Geography": "Ottawa-Gatineau, Ontario part",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Total cleared",
+    "year2012": 18476,
+    "year2013": 16644,
+    "year2014": 15292,
+    "year2015": 15152,
+    "year2016": 15677
+  },
+  {
+    "Geography": "Ottawa-Gatineau, Ontario part",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Cleared by charge",
+    "year2012": 11838,
+    "year2013": 10864,
+    "year2014": 10466,
+    "year2015": 10621,
+    "year2016": 11140
+  },
+  {
+    "Geography": "Ottawa-Gatineau, Ontario part",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Cleared otherwise",
+    "year2012": 6638,
+    "year2013": 5780,
+    "year2014": 4826,
+    "year2015": 4531,
+    "year2016": 4537
+  },
+  {
+    "Geography": "Ottawa-Gatineau, Ontario part",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Total, persons charged (23)",
+    "year2012": 11412,
+    "year2013": 10590,
+    "year2014": 10003,
+    "year2015": 10049,
+    "year2016": 10337
+  },
+  {
+    "Geography": "Ottawa-Gatineau, Ontario part",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Rate, total persons charged per 100,000 population aged 12 years and over (31)",
+    "year2012": 1359.84,
+    "year2013": 1246.22,
+    "year2014": 1163.96,
+    "year2015": 1157.1,
+    "year2016": 1170.17
+  },
+  {
+    "Geography": "Ottawa-Gatineau, Ontario part",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Total, adult charged",
+    "year2012": 10402,
+    "year2013": 9777,
+    "year2014": 9354,
+    "year2015": 9431,
+    "year2016": 9677
+  },
+  {
+    "Geography": "Ottawa-Gatineau, Ontario part",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Rate, adult charged per 100,000 population aged 18 years and over (31)",
+    "year2012": 1349.19,
+    "year2013": 1248.76,
+    "year2014": 1178.7,
+    "year2015": 1174.34,
+    "year2016": 1183.48
+  },
+  {
+    "Geography": "Ottawa-Gatineau, Ontario part",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Total, youth charged (39,40)",
+    "year2012": 1010,
+    "year2013": 813,
+    "year2014": 649,
+    "year2015": 618,
+    "year2016": 660
+  },
+  {
+    "Geography": "Ottawa-Gatineau, Ontario part",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Rate, youth charged per 100,000 population aged 12 to 17 years (31)",
+    "year2012": 1480.22,
+    "year2013": 1216.52,
+    "year2014": 986.22,
+    "year2015": 945.29,
+    "year2016": 1004.52
+  },
+  {
+    "Geography": "Ottawa-Gatineau, Ontario part",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Total, youth not charged (39,40)",
+    "year2012": 2392,
+    "year2013": 1818,
+    "year2014": 1588,
+    "year2015": 1390,
+    "year2016": 1405
+  },
+  {
+    "Geography": "Ottawa-Gatineau, Ontario part",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Rate, youth not charged per 100,000 population aged 12 to 17 years (31)",
+    "year2012": 3505.64,
+    "year2013": 2720.34,
+    "year2014": 2413.12,
+    "year2015": 2126.13,
+    "year2016": 2138.41
+  },
+  {
+    "Geography": "Kingston, Ontario",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Actual incidents",
+    "year2012": 8964,
+    "year2013": 8431,
+    "year2014": 8628,
+    "year2015": 8300,
+    "year2016": 8322
+  },
+  {
+    "Geography": "Kingston, Ontario",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Rate per 100,000 population",
+    "year2012": 5484.78,
+    "year2013": 5132,
+    "year2014": 5223.8,
+    "year2015": 4995.85,
+    "year2016": 4960.27
+  },
+  {
+    "Geography": "Kingston, Ontario",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Percentage change in rate (22)",
+    "year2012": 3.06,
+    "year2013": -6.43,
+    "year2014": 1.79,
+    "year2015": -4.36,
+    "year2016": -0.71
+  },
+  {
+    "Geography": "Kingston, Ontario",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Total cleared",
+    "year2012": 4081,
+    "year2013": 4119,
+    "year2014": 3519,
+    "year2015": 3287,
+    "year2016": 3359
+  },
+  {
+    "Geography": "Kingston, Ontario",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Cleared by charge",
+    "year2012": 2922,
+    "year2013": 2727,
+    "year2014": 2530,
+    "year2015": 2479,
+    "year2016": 2567
+  },
+  {
+    "Geography": "Kingston, Ontario",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Cleared otherwise",
+    "year2012": 1159,
+    "year2013": 1392,
+    "year2014": 989,
+    "year2015": 808,
+    "year2016": 792
+  },
+  {
+    "Geography": "Kingston, Ontario",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Total, persons charged (23)",
+    "year2012": 2828,
+    "year2013": 2685,
+    "year2014": 2464,
+    "year2015": 2385,
+    "year2016": 2481
+  },
+  {
+    "Geography": "Kingston, Ontario",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Rate, total persons charged per 100,000 population aged 12 years and over (31)",
+    "year2012": 1952.9,
+    "year2013": 1842.22,
+    "year2014": 1679.27,
+    "year2015": 1614.74,
+    "year2016": 1662.6
+  },
+  {
+    "Geography": "Kingston, Ontario",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Total, adult charged",
+    "year2012": 2554,
+    "year2013": 2478,
+    "year2014": 2293,
+    "year2015": 2215,
+    "year2016": 2289
+  },
+  {
+    "Geography": "Kingston, Ontario",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Rate, adult charged per 100,000 population aged 18 years and over (31)",
+    "year2012": 1903.48,
+    "year2013": 1828.04,
+    "year2014": 1676,
+    "year2015": 1605.31,
+    "year2016": 1638.85
+  },
+  {
+    "Geography": "Kingston, Ontario",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Total, youth charged (39,40)",
+    "year2012": 274,
+    "year2013": 207,
+    "year2014": 171,
+    "year2015": 170,
+    "year2016": 192
+  },
+  {
+    "Geography": "Kingston, Ontario",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Rate, youth charged per 100,000 population aged 12 to 17 years (31)",
+    "year2012": 2576.4,
+    "year2013": 2030.81,
+    "year2014": 1724.49,
+    "year2015": 1748.61,
+    "year2016": 2009.84
+  },
+  {
+    "Geography": "Kingston, Ontario",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Total, youth not charged (39,40)",
+    "year2012": 302,
+    "year2013": 294,
+    "year2014": 206,
+    "year2015": 176,
+    "year2016": 152
+  },
+  {
+    "Geography": "Kingston, Ontario",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Rate, youth not charged per 100,000 population aged 12 to 17 years (31)",
+    "year2012": 2839.68,
+    "year2013": 2884.33,
+    "year2014": 2077.45,
+    "year2015": 1810.33,
+    "year2016": 1591.12
+  },
+  {
+    "Geography": "Peterborough, Ontario",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Actual incidents",
+    "year2012": 6350,
+    "year2013": 6028,
+    "year2014": 5982,
+    "year2015": 5736,
+    "year2016": 5812
+  },
+  {
+    "Geography": "Peterborough, Ontario",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Rate per 100,000 population",
+    "year2012": 5226.29,
+    "year2013": 4939.53,
+    "year2014": 4887.93,
+    "year2015": 4668.27,
+    "year2016": 4703.98
+  },
+  {
+    "Geography": "Peterborough, Ontario",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Percentage change in rate (22)",
+    "year2012": 0.85,
+    "year2013": -5.49,
+    "year2014": -1.04,
+    "year2015": -4.49,
+    "year2016": 0.76
+  },
+  {
+    "Geography": "Peterborough, Ontario",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Total cleared",
+    "year2012": 3458,
+    "year2013": 3414,
+    "year2014": 3271,
+    "year2015": 3305,
+    "year2016": 3530
+  },
+  {
+    "Geography": "Peterborough, Ontario",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Cleared by charge",
+    "year2012": 2604,
+    "year2013": 2464,
+    "year2014": 2480,
+    "year2015": 2577,
+    "year2016": 2744
+  },
+  {
+    "Geography": "Peterborough, Ontario",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Cleared otherwise",
+    "year2012": 854,
+    "year2013": 950,
+    "year2014": 791,
+    "year2015": 728,
+    "year2016": 786
+  },
+  {
+    "Geography": "Peterborough, Ontario",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Total, persons charged (23)",
+    "year2012": 2649,
+    "year2013": 2422,
+    "year2014": 2394,
+    "year2015": 2527,
+    "year2016": 2671
+  },
+  {
+    "Geography": "Peterborough, Ontario",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Rate, total persons charged per 100,000 population aged 12 years and over (31)",
+    "year2012": 2449.08,
+    "year2013": 2230.78,
+    "year2014": 2203.08,
+    "year2015": 2320.65,
+    "year2016": 2443.58
+  },
+  {
+    "Geography": "Peterborough, Ontario",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Total, adult charged",
+    "year2012": 2406,
+    "year2013": 2156,
+    "year2014": 2144,
+    "year2015": 2314,
+    "year2016": 2498
+  },
+  {
+    "Geography": "Peterborough, Ontario",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Rate, adult charged per 100,000 population aged 18 years and over (31)",
+    "year2012": 2402.61,
+    "year2013": 2136.81,
+    "year2014": 2115.46,
+    "year2015": 2272.79,
+    "year2016": 2440.57
+  },
+  {
+    "Geography": "Peterborough, Ontario",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Total, youth charged (39,40)",
+    "year2012": 243,
+    "year2013": 266,
+    "year2014": 250,
+    "year2015": 213,
+    "year2016": 173
+  },
+  {
+    "Geography": "Peterborough, Ontario",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Rate, youth charged per 100,000 population aged 12 to 17 years (31)",
+    "year2012": 3029.17,
+    "year2013": 3466.25,
+    "year2014": 3416.7,
+    "year2015": 3008.9,
+    "year2016": 2487.78
+  },
+  {
+    "Geography": "Peterborough, Ontario",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Total, youth not charged (39,40)",
+    "year2012": 292,
+    "year2013": 232,
+    "year2014": 179,
+    "year2015": 182,
+    "year2016": 229
+  },
+  {
+    "Geography": "Peterborough, Ontario",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Rate, youth not charged per 100,000 population aged 12 to 17 years (31)",
+    "year2012": 3639.99,
+    "year2013": 3023.2,
+    "year2014": 2446.36,
+    "year2015": 2570.98,
+    "year2016": 3293.07
+  },
+  {
+    "Geography": "Toronto, Ontario",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Actual incidents",
+    "year2012": 211185,
+    "year2013": 198029,
+    "year2014": 194698,
+    "year2015": 198683,
+    "year2016": 205570
+  },
+  {
+    "Geography": "Toronto, Ontario",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Rate per 100,000 population",
+    "year2012": 3623.12,
+    "year2013": 3347.59,
+    "year2014": 3245.69,
+    "year2015": 3280.08,
+    "year2016": 3323.77
+  },
+  {
+    "Geography": "Toronto, Ontario",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Percentage change in rate (22)",
+    "year2012": -6.83,
+    "year2013": -7.6,
+    "year2014": -3.04,
+    "year2015": 1.06,
+    "year2016": 1.33
+  },
+  {
+    "Geography": "Toronto, Ontario",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Total cleared",
+    "year2012": 95258,
+    "year2013": 91374,
+    "year2014": 90162,
+    "year2015": 92631,
+    "year2016": 92427
+  },
+  {
+    "Geography": "Toronto, Ontario",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Cleared by charge",
+    "year2012": 74776,
+    "year2013": 70887,
+    "year2014": 67671,
+    "year2015": 67638,
+    "year2016": 68017
+  },
+  {
+    "Geography": "Toronto, Ontario",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Cleared otherwise",
+    "year2012": 20482,
+    "year2013": 20487,
+    "year2014": 22491,
+    "year2015": 24993,
+    "year2016": 24410
+  },
+  {
+    "Geography": "Toronto, Ontario",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Total, persons charged (23)",
+    "year2012": 71490,
+    "year2013": 68673,
+    "year2014": 65442,
+    "year2015": 65499,
+    "year2016": 65744
+  },
+  {
+    "Geography": "Toronto, Ontario",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Rate, total persons charged per 100,000 population aged 12 years and over (31)",
+    "year2012": 1413.25,
+    "year2013": 1335.76,
+    "year2014": 1253.92,
+    "year2015": 1241.86,
+    "year2016": 1219.87
+  },
+  {
+    "Geography": "Toronto, Ontario",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Total, adult charged",
+    "year2012": 63960,
+    "year2013": 62478,
+    "year2014": 59765,
+    "year2015": 60108,
+    "year2016": 60088
+  },
+  {
+    "Geography": "Toronto, Ontario",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Rate, adult charged per 100,000 population aged 18 years and over (31)",
+    "year2012": 1380.34,
+    "year2013": 1322.5,
+    "year2014": 1242.67,
+    "year2015": 1234.37,
+    "year2016": 1205.74
+  },
+  {
+    "Geography": "Toronto, Ontario",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Total, youth charged (39,40)",
+    "year2012": 7530,
+    "year2013": 6195,
+    "year2014": 5677,
+    "year2015": 5391,
+    "year2016": 5656
+  },
+  {
+    "Geography": "Toronto, Ontario",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Rate, youth charged per 100,000 population aged 12 to 17 years (31)",
+    "year2012": 1772.17,
+    "year2013": 1485.96,
+    "year2014": 1386,
+    "year2015": 1331.99,
+    "year2016": 1393.37
+  },
+  {
+    "Geography": "Toronto, Ontario",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Total, youth not charged (39,40)",
+    "year2012": 6264,
+    "year2013": 5390,
+    "year2014": 6340,
+    "year2015": 6611,
+    "year2016": 6569
+  },
+  {
+    "Geography": "Totonto, Ontario",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Rate, youth not charged per 100,000 population aged 12 to 17 years (31)",
+    "year2012": 1474.22,
+    "year2013": 1292.87,
+    "year2014": 1547.87,
+    "year2015": 1633.42,
+    "year2016": 1618.29
+  },
+  {
+    "Geography": "Hamilton, Ontario",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Actual incidents",
+    "year2012": 35310,
+    "year2013": 31815,
+    "year2014": 30414,
+    "year2015": 30104,
+    "year2016": 30199
+  },
+  {
+    "Geography": "Hamilton, Ontario",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Rate per 100,000 population",
+    "year2012": 4864.41,
+    "year2013": 4326.58,
+    "year2014": 4089.87,
+    "year2015": 4011.18,
+    "year2016": 3971.56
+  },
+  {
+    "Geography": "Hamilton, Ontario",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Percentage change in rate (22)",
+    "year2012": -6.7,
+    "year2013": -11.06,
+    "year2014": -5.47,
+    "year2015": -1.92,
+    "year2016": -0.99
+  },
+  {
+    "Geography": "Hamilton, Ontario",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Total cleared",
+    "year2012": 13972,
+    "year2013": 12895,
+    "year2014": 13165,
+    "year2015": 12857,
+    "year2016": 12726
+  },
+  {
+    "Geography": "Hamilton, Ontario",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Cleared by charge",
+    "year2012": 9205,
+    "year2013": 8665,
+    "year2014": 8907,
+    "year2015": 8900,
+    "year2016": 8865
+  },
+  {
+    "Geography": "Hamilton, Ontario",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Cleared otherwise",
+    "year2012": 4767,
+    "year2013": 4230,
+    "year2014": 4258,
+    "year2015": 3957,
+    "year2016": 3861
+  },
+  {
+    "Geography": "Hamilton, Ontario",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Total, persons charged (23)",
+    "year2012": 9076,
+    "year2013": 8559,
+    "year2014": 8636,
+    "year2015": 8396,
+    "year2016": 8331
+  },
+  {
+    "Geography": "Hamilton, Ontario",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Rate, total persons charged per 100,000 population aged 12 years and over (31)",
+    "year2012": 1440.84,
+    "year2013": 1340.68,
+    "year2014": 1336.34,
+    "year2015": 1286.35,
+    "year2016": 1258.66
+  },
+  {
+    "Geography": "Hamilton, Ontario",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Total, adult charged",
+    "year2012": 8281,
+    "year2013": 7972,
+    "year2014": 7892,
+    "year2015": 7649,
+    "year2016": 7654
+  },
+  {
+    "Geography": "Hamilton, Ontario",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Rate, adult charged per 100,000 population aged 18 years and over (31)",
+    "year2012": 1437.7,
+    "year2013": 1361.44,
+    "year2014": 1328.74,
+    "year2015": 1273.25,
+    "year2016": 1255.2
+  },
+  {
+    "Geography": "Hamilton, Ontario",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Total, youth charged (39,40)",
+    "year2012": 795,
+    "year2013": 587,
+    "year2014": 744,
+    "year2015": 747,
+    "year2016": 677
+  },
+  {
+    "Geography": "Hamilton, Ontario",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Rate, youth charged per 100,000 population aged 12 to 17 years (31)",
+    "year2012": 1474.38,
+    "year2013": 1110.65,
+    "year2014": 1422.7,
+    "year2015": 1437.87,
+    "year2016": 1299.22
+  },
+  {
+    "Geography": "Hamilton, Ontario",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Total, youth not charged (39,40)",
+    "year2012": 1756,
+    "year2013": 1563,
+    "year2014": 1321,
+    "year2015": 1166,
+    "year2016": 1267
+  },
+  {
+    "Geography": "Hamilton, Ontario",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Rate, youth not charged per 100,000 population aged 12 to 17 years (31)",
+    "year2012": 3256.62,
+    "year2013": 2957.31,
+    "year2014": 2526.05,
+    "year2015": 2244.38,
+    "year2016": 2431.49
+  },
+  {
+    "Geography": "St.Catharines-Niagara, Ontario",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Actual incidents",
+    "year2012": 22631,
+    "year2013": 20270,
+    "year2014": 17951,
+    "year2015": 17810,
+    "year2016": 17922
+  },
+  {
+    "Geography": "St.Catharines-Niagara, Ontario",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Rate per 100,000 population",
+    "year2012": 5090.08,
+    "year2013": 4546.58,
+    "year2014": 4008.49,
+    "year2015": 3955.46,
+    "year2016": 3949.17
+  },
+  {
+    "Geography": "St.Catharines-Niagara, Ontario",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Percentage change in rate (22)",
+    "year2012": 2.43,
+    "year2013": -10.68,
+    "year2014": -11.84,
+    "year2015": -1.32,
+    "year2016": -0.16
+  },
+  {
+    "Geography": "St.Catharines-Niagara, Ontario",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Total cleared",
+    "year2012": 9431,
+    "year2013": 8524,
+    "year2014": 7625,
+    "year2015": 7212,
+    "year2016": 7410
+  },
+  {
+    "Geography": "St.Catharines-Niagara, Ontario",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Cleared by charge",
+    "year2012": 6419,
+    "year2013": 6017,
+    "year2014": 5508,
+    "year2015": 5271,
+    "year2016": 5418
+  },
+  {
+    "Geography": "St.Catharines-Niagara, Ontario",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Cleared otherwise",
+    "year2012": 3012,
+    "year2013": 2507,
+    "year2014": 2117,
+    "year2015": 1941,
+    "year2016": 1992
+  },
+  {
+    "Geography": "St.Catharines-Niagara, Ontario",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Total, persons charged (23)",
+    "year2012": 6294,
+    "year2013": 5948,
+    "year2014": 5398,
+    "year2015": 5124,
+    "year2016": 5313
+  },
+  {
+    "Geography": "St.Catharines-Niagara, Ontario",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Rate, total persons charged per 100,000 population aged 12 years and over (31)",
+    "year2012": 1602.26,
+    "year2013": 1508.14,
+    "year2014": 1361.65,
+    "year2015": 1285.02,
+    "year2016": 1321.58
+  },
+  {
+    "Geography": "St.Catharines-Niagara, Ontario",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Total, adult charged",
+    "year2012": 5733,
+    "year2013": 5591,
+    "year2014": 5103,
+    "year2015": 4847,
+    "year2016": 5046
+  },
+  {
+    "Geography": "St.Catharines-Niagara, Ontario",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Rate, adult charged per 100,000 population aged 18 years and over (31)",
+    "year2012": 1586.14,
+    "year2013": 1536.01,
+    "year2014": 1390.47,
+    "year2015": 1310.59,
+    "year2016": 1351.25
+  },
+  {
+    "Geography": "St.Catharines-Niagara, Ontario",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Total, youth charged (39,40)",
+    "year2012": 561,
+    "year2013": 357,
+    "year2014": 295,
+    "year2015": 277,
+    "year2016": 267
+  },
+  {
+    "Geography": "St.Catharines-Niagara, Ontario",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Rate, youth charged per 100,000 population aged 12 to 17 years (31)",
+    "year2012": 1787.93,
+    "year2013": 1174.5,
+    "year2014": 1002.24,
+    "year2015": 957.95,
+    "year2016": 934.02
+  },
+  {
+    "Geography": "St.Catharines-Niagara, Ontario",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Total, youth not charged (39,40)",
+    "year2012": 1102,
+    "year2013": 815,
+    "year2014": 693,
+    "year2015": 593,
+    "year2016": 595
+  },
+  {
+    "Geography": "St.Catharines-Niagara, Ontario",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Rate, youth not charged per 100,000 population aged 12 to 17 years (31)",
+    "year2012": 3512.13,
+    "year2013": 2681.27,
+    "year2014": 2354.42,
+    "year2015": 2050.77,
+    "year2016": 2081.44
+  },
+  {
+    "Geography": "Kitchener-Cambridge-Waterloo, Ontario",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Actual incidents",
+    "year2012": 27228,
+    "year2013": 26202,
+    "year2014": 25836,
+    "year2015": 27636,
+    "year2016": 28282
+  },
+  {
+    "Geography": "Kitchener-Cambridge-Waterloo, Ontario",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Rate per 100,000 population",
+    "year2012": 5143.38,
+    "year2013": 4909.12,
+    "year2014": 4803.69,
+    "year2015": 5096.46,
+    "year2016": 5152.15
+  },
+  {
+    "Geography": "Kitchener-Cambridge-Waterloo, Ontario",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Percentage change in rate (22)",
+    "year2012": -3.22,
+    "year2013": -4.55,
+    "year2014": -2.15,
+    "year2015": 6.09,
+    "year2016": 1.09
+  },
+  {
+    "Geography": "Kitchener-Cambridge-Waterloo, Ontario",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Total cleared",
+    "year2012": 12573,
+    "year2013": 11884,
+    "year2014": 11991,
+    "year2015": 12415,
+    "year2016": 13212
+  },
+  {
+    "Geography": "Kitchener-Cambridge-Waterloo, Ontario",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Cleared by charge",
+    "year2012": 9387,
+    "year2013": 9100,
+    "year2014": 9364,
+    "year2015": 9999,
+    "year2016": 10498
+  },
+  {
+    "Geography": "Kitchener-Cambridge-Waterloo, Ontario",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Cleared otherwise",
+    "year2012": 3186,
+    "year2013": 2784,
+    "year2014": 2627,
+    "year2015": 2416,
+    "year2016": 2714
+  },
+  {
+    "Geography": "Kitchener-Cambridge-Waterloo, Ontario",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Total, persons charged (23)",
+    "year2012": 8777,
+    "year2013": 8439,
+    "year2014": 8802,
+    "year2015": 9066,
+    "year2016": 9353
+  },
+  {
+    "Geography": "Kitchener-Cambridge-Waterloo, Ontario",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Rate, total persons charged per 100,000 population aged 12 years and over (31)",
+    "year2012": 1929.8,
+    "year2013": 1838.12,
+    "year2014": 1899.94,
+    "year2015": 1940.12,
+    "year2016": 1975.72
+  },
+  {
+    "Geography": "Kitchener-Cambridge-Waterloo, Ontario",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Total, adult charged",
+    "year2012": 7664,
+    "year2013": 7540,
+    "year2014": 7933,
+    "year2015": 8320,
+    "year2016": 8699
+  },
+  {
+    "Geography": "Kitchener-Cambridge-Waterloo, Ontario",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Rate, adult charged per 100,000 population aged 18 years and over (31)",
+    "year2012": 1847.21,
+    "year2013": 1794.77,
+    "year2014": 1866.81,
+    "year2015": 1938.15,
+    "year2016": 1998.18
+  },
+  {
+    "Geography": "Kitchener-Cambridge-Waterloo, Ontario",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Total, youth charged (39,40)",
+    "year2012": 1113,
+    "year2013": 899,
+    "year2014": 869,
+    "year2015": 746,
+    "year2016": 654
+  },
+  {
+    "Geography": "Kitchener-Cambridge-Waterloo, Ontario",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Rate, youth charged per 100,000 population aged 12 to 17 years (31)",
+    "year2012": 2788.22,
+    "year2013": 2305.13,
+    "year2014": 2267.21,
+    "year2015": 1962.38,
+    "year2016": 1718.79
+  },
+  {
+    "Geography": "Kitchener-Cambridge-Waterloo, Ontario",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Total, youth not charged (39,40)",
+    "year2012": 1489,
+    "year2013": 1120,
+    "year2014": 1117,
+    "year2015": 1052,
+    "year2016": 881
+  },
+  {
+    "Geography": "Kitchener-Cambridge-Waterloo, Ontario",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Rate, youth not charged per 100,000 population aged 12 to 17 years (31)",
+    "year2012": 3730.15,
+    "year2013": 2871.79,
+    "year2014": 2914.24,
+    "year2015": 2767.33,
+    "year2016": 2315.37
+  },
+  {
+    "Geography": "Brantford, Ontario",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Actual incidents",
+    "year2012": 10663,
+    "year2013": 9738,
+    "year2014": 8857,
+    "year2015": 9066,
+    "year2016": 9706
+  },
+  {
+    "Geography": "Brantford, Ontario",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Rate per 100,000 population",
+    "year2012": 7537.98,
+    "year2013": 6819.14,
+    "year2014": 6157.62,
+    "year2015": 6251.08,
+    "year2016": 6622.68
+  },
+  {
+    "Geography": "Brantford, Ontario",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Percentage change in rate (22)",
+    "year2012": 0.57,
+    "year2013": -9.54,
+    "year2014": -9.7,
+    "year2015": 1.52,
+    "year2016": 5.94
+  },
+  {
+    "Geography": "Brantford, Ontario",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Total cleared",
+    "year2012": 4544,
+    "year2013": 4278,
+    "year2014": 4100,
+    "year2015": 3969,
+    "year2016": 4366
+  },
+  {
+    "Geography": "Brantford, Ontario",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Cleared by charge",
+    "year2012": 3169,
+    "year2013": 2987,
+    "year2014": 2944,
+    "year2015": 2841,
+    "year2016": 3194
+  },
+  {
+    "Geography": "Brantford, Ontario",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Cleared otherwise",
+    "year2012": 1375,
+    "year2013": 1291,
+    "year2014": 1156,
+    "year2015": 1128,
+    "year2016": 1172
+  },
+  {
+    "Geography": "Brantford, Ontario",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Total, persons charged (23)",
+    "year2012": 2954,
+    "year2013": 2750,
+    "year2014": 2719,
+    "year2015": 2598,
+    "year2016": 2806
+  },
+  {
+    "Geography": "Brantford, Ontario",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Rate, total persons charged per 100,000 population aged 12 years and over (31)",
+    "year2012": 2424.35,
+    "year2013": 2233.72,
+    "year2014": 2190.27,
+    "year2015": 2074.62,
+    "year2016": 2216.83
+  },
+  {
+    "Geography": "Brantford, Ontario",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Total, adult charged",
+    "year2012": 2445,
+    "year2013": 2367,
+    "year2014": 2416,
+    "year2015": 2320,
+    "year2016": 2557
+  },
+  {
+    "Geography": "Brantford, Ontario",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Rate, adult charged per 100,000 population aged 18 years and over (31)",
+    "year2012": 2205.03,
+    "year2013": 2106.45,
+    "year2014": 2127.58,
+    "year2015": 2022.12,
+    "year2016": 2203.57
+  },
+  {
+    "Geography": "Brantford, Ontario",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Total, youth charged (39,40)",
+    "year2012": 509,
+    "year2013": 383,
+    "year2014": 303,
+    "year2015": 278,
+    "year2016": 249
+  },
+  {
+    "Geography": "Brantford, Ontario",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Rate, youth charged per 100,000 population aged 12 to 17 years (31)",
+    "year2012": 4642.47,
+    "year2013": 3564.78,
+    "year2014": 2862.81,
+    "year2015": 2648.38,
+    "year2016": 2362.88
+  },
+  {
+    "Geography": "Brantford, Ontario",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Total, youth not charged (39,40)",
+    "year2012": 508,
+    "year2013": 369,
+    "year2014": 266,
+    "year2015": 294,
+    "year2016": 307
+  },
+  {
+    "Geography": "Brantford, Ontario",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Rate, youth not charged per 100,000 population aged 12 to 17 years (31)",
+    "year2012": 4633.35,
+    "year2013": 3434.48,
+    "year2014": 2513.23,
+    "year2015": 2800.8,
+    "year2016": 2913.27
+  },
+  {
+    "Geography": "Guelph, Ontario",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Actual incidents",
+    "year2012": 5829,
+    "year2013": 5140,
+    "year2014": 5409,
+    "year2015": 5704,
+    "year2016": 6458
+  },
+  {
+    "Geography": "Guelph, Ontario",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Rate per 100,000 population",
+    "year2012": 4579.95,
+    "year2013": 4007.7,
+    "year2014": 4179.8,
+    "year2015": 4365.26,
+    "year2016": 4879.49
+  },
+  {
+    "Geography": "Guelph, Ontario",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Percentage change in rate (22)",
+    "year2012": 3.7,
+    "year2013": -12.49,
+    "year2014": 4.29,
+    "year2015": 4.44,
+    "year2016": 11.78
+  },
+  {
+    "Geography": "Guelph, Ontario",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Total cleared",
+    "year2012": 2903,
+    "year2013": 2829,
+    "year2014": 2758,
+    "year2015": 2843,
+    "year2016": 2924
+  },
+  {
+    "Geography": "Guelph, Ontario",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Cleared by charge",
+    "year2012": 1913,
+    "year2013": 1826,
+    "year2014": 2011,
+    "year2015": 2244,
+    "year2016": 2109
+  },
+  {
+    "Geography": "Guelph, Ontario",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Cleared otherwise",
+    "year2012": 990,
+    "year2013": 1003,
+    "year2014": 747,
+    "year2015": 599,
+    "year2016": 815
+  },
+  {
+    "Geography": "Guelph, Ontario",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Total, persons charged (23)",
+    "year2012": 1834,
+    "year2013": 1725,
+    "year2014": 1843,
+    "year2015": 2049,
+    "year2016": 2017
+  },
+  {
+    "Geography": "Guelph, Ontario",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Rate, total persons charged per 100,000 population aged 12 years and over (31)",
+    "year2012": 1668.84,
+    "year2013": 1554.78,
+    "year2014": 1644.64,
+    "year2015": 1809.13,
+    "year2016": 1756.26
+  },
+  {
+    "Geography": "Guelph, Ontario",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Total, adult charged",
+    "year2012": 1567,
+    "year2013": 1497,
+    "year2014": 1658,
+    "year2015": 1926,
+    "year2016": 1845
+  },
+  {
+    "Geography": "Guelph, Ontario",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Rate, adult charged per 100,000 population aged 18 years and over (31)",
+    "year2012": 1553.04,
+    "year2013": 1465.98,
+    "year2014": 1603.59,
+    "year2015": 1839.31,
+    "year2016": 1734.66
+  },
+  {
+    "Geography": "Guelph, Ontario",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Total, youth charged (39,40)",
+    "year2012": 267,
+    "year2013": 228,
+    "year2014": 185,
+    "year2015": 123,
+    "year2016": 172
+  },
+  {
+    "Geography": "Guelph, Ontario",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Rate, youth charged per 100,000 population aged 12 to 17 years (31)",
+    "year2012": 2967.33,
+    "year2013": 2581.52,
+    "year2014": 2134.29,
+    "year2015": 1439.27,
+    "year2016": 2027.11
+  },
+  {
+    "Geography": "Guelph, Ontario",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Total, youth not charged (39,40)",
+    "year2012": 411,
+    "year2013": 336,
+    "year2014": 263,
+    "year2015": 249,
+    "year2016": 184
+  },
+  {
+    "Geography": "Guelph, Ontario",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Rate, youth not charged per 100,000 population aged 12 to 17 years (31)",
+    "year2012": 4567.68,
+    "year2013": 3804.35,
+    "year2014": 3034.15,
+    "year2015": 2913.64,
+    "year2016": 2168.53
+  },
+  {
+    "Geography": "London, Ontario",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Actual incidents",
+    "year2012": 31294,
+    "year2013": 29121,
+    "year2014": 30362,
+    "year2015": 29705,
+    "year2016": 30750
+  },
+  {
+    "Geography": "London, Ontario",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Rate per 100,000 population",
+    "year2012": 6302.18,
+    "year2013": 5817.03,
+    "year2014": 6019.02,
+    "year2015": 5838.72,
+    "year2016": 5966.14
+  },
+  {
+    "Geography": "London, Ontario",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Percentage change in rate (22)",
+    "year2012": -2.27,
+    "year2013": -7.7,
+    "year2014": 3.47,
+    "year2015": -3,
+    "year2016": 2.18
+  },
+  {
+    "Geography": "London, Ontario",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Total cleared",
+    "year2012": 15010,
+    "year2013": 13958,
+    "year2014": 13894,
+    "year2015": 13386,
+    "year2016": 13230
+  },
+  {
+    "Geography": "London, Ontario",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Cleared by charge",
+    "year2012": 10815,
+    "year2013": 10059,
+    "year2014": 10311,
+    "year2015": 10517,
+    "year2016": 10433
+  },
+  {
+    "Geography": "London, Ontario",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Cleared otherwise",
+    "year2012": 4195,
+    "year2013": 3899,
+    "year2014": 3583,
+    "year2015": 2869,
+    "year2016": 2797
+  },
+  {
+    "Geography": "London, Ontario",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Total, persons charged (23)",
+    "year2012": 10953,
+    "year2013": 10175,
+    "year2014": 10290,
+    "year2015": 10337,
+    "year2016": 10269
+  },
+  {
+    "Geography": "London, Ontario",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Rate, total persons charged per 100,000 population aged 12 years and over (31)",
+    "year2012": 2526.94,
+    "year2013": 2328.3,
+    "year2014": 2335.98,
+    "year2015": 2327.28,
+    "year2016": 2282.65
+  },
+  {
+    "Geography": "London, Ontario",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Total, adult charged",
+    "year2012": 9967,
+    "year2013": 9385,
+    "year2014": 9566,
+    "year2015": 9530,
+    "year2016": 9537
+  },
+  {
+    "Geography": "London, Ontario",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Rate, adult charged per 100,000 population aged 18 years and over (31)",
+    "year2012": 2505.36,
+    "year2013": 2331.37,
+    "year2014": 2351.95,
+    "year2015": 2318.99,
+    "year2016": 2288.32
+  },
+  {
+    "Geography": "London, Ontario",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Total, youth charged (39,40)",
+    "year2012": 986,
+    "year2013": 790,
+    "year2014": 724,
+    "year2015": 807,
+    "year2016": 732
+  },
+  {
+    "Geography": "London, Ontario",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Rate, youth charged per 100,000 population aged 12 to 17 years (31)",
+    "year2012": 2767.95,
+    "year2013": 2292.45,
+    "year2014": 2143.66,
+    "year2015": 2429.84,
+    "year2016": 2211.28
+  },
+  {
+    "Geography": "London, Ontario",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Total, youth not charged (39,40)",
+    "year2012": 1136,
+    "year2013": 805,
+    "year2014": 777,
+    "year2015": 723,
+    "year2016": 606
+  },
+  {
+    "Geography": "London, Ontario",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Rate, youth not charged per 100,000 population aged 12 to 17 years (31)",
+    "year2012": 3189.04,
+    "year2013": 2335.97,
+    "year2014": 2300.59,
+    "year2015": 2176.92,
+    "year2016": 1830.65
+  },
+  {
+    "Geography": "Windsor, Ontario",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Actual incidents",
+    "year2012": 17182,
+    "year2013": 16088,
+    "year2014": 15162,
+    "year2015": 16072,
+    "year2016": 16140
+  },
+  {
+    "Geography": "Windsor, Ontario",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Rate per 100,000 population",
+    "year2012": 5214.41,
+    "year2013": 4875.65,
+    "year2014": 4583.41,
+    "year2015": 4841.88,
+    "year2016": 4819.94
+  },
+  {
+    "Geography": "Windsor, Ontario",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Percentage change in rate (22)",
+    "year2012": 1.91,
+    "year2013": -6.5,
+    "year2014": -5.99,
+    "year2015": 5.64,
+    "year2016": -0.45
+  },
+  {
+    "Geography": "Windsor, Ontario",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Total cleared",
+    "year2012": 7408,
+    "year2013": 6946,
+    "year2014": 6587,
+    "year2015": 7030,
+    "year2016": 6494
+  },
+  {
+    "Geography": "Windsor, Ontario",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Cleared by charge",
+    "year2012": 4977,
+    "year2013": 4638,
+    "year2014": 4611,
+    "year2015": 4721,
+    "year2016": 4734
+  },
+  {
+    "Geography": "Windsor, Ontario",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Cleared otherwise",
+    "year2012": 2431,
+    "year2013": 2308,
+    "year2014": 1976,
+    "year2015": 2309,
+    "year2016": 1760
+  },
+  {
+    "Geography": "Windsor, Ontario",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Total, persons charged (23)",
+    "year2012": 4899,
+    "year2013": 4629,
+    "year2014": 4478,
+    "year2015": 4604,
+    "year2016": 4539
+  },
+  {
+    "Geography": "Windsor, Ontario",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Rate, total persons charged per 100,000 population aged 12 years and over (31)",
+    "year2012": 1714.9,
+    "year2013": 1615.03,
+    "year2014": 1556.07,
+    "year2015": 1592.93,
+    "year2016": 1555.62
+  },
+  {
+    "Geography": "Windsor, Ontario",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Total, adult charged",
+    "year2012": 4523,
+    "year2013": 4327,
+    "year2014": 4266,
+    "year2015": 4373,
+    "year2016": 4364
+  },
+  {
+    "Geography": "Windsor, Ontario",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Rate, adult charged per 100,000 population aged 18 years and over (31)",
+    "year2012": 1739.45,
+    "year2013": 1653.75,
+    "year2014": 1619.91,
+    "year2015": 1651.57,
+    "year2016": 1631.24
+  },
+  {
+    "Geography": "Windsor, Ontario",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Total, youth charged (39,40)",
+    "year2012": 376,
+    "year2013": 302,
+    "year2014": 212,
+    "year2015": 231,
+    "year2016": 175
+  },
+  {
+    "Geography": "Windsor, Ontario",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Rate, youth charged per 100,000 population aged 12 to 17 years (31)",
+    "year2012": 1466,
+    "year2013": 1209.31,
+    "year2014": 867.82,
+    "year2015": 952.58,
+    "year2016": 721.56
+  },
+  {
+    "Geography": "Windsor, Ontario",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Total, youth not charged (39,40)",
+    "year2012": 646,
+    "year2013": 543,
+    "year2014": 424,
+    "year2015": 445,
+    "year2016": 335
+  },
+  {
+    "Geography": "Windsor, Ontario",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Rate, youth not charged per 100,000 population aged 12 to 17 years (31)",
+    "year2012": 2518.71,
+    "year2013": 2174.35,
+    "year2014": 1735.64,
+    "year2015": 1835.05,
+    "year2016": 1381.27
+  },
+  {
+    "Geography": "Barrie, Ontario",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Actual incidents",
+    "year2012": 10119,
+    "year2013": 8819,
+    "year2014": 8885,
+    "year2015": 8485,
+    "year2016": 8545
+  },
+  {
+    "Geography": "Barrie, Ontario",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Rate per 100,000 population",
+    "year2012": 4918.56,
+    "year2013": 4233.37,
+    "year2014": 4212.28,
+    "year2015": 3972.64,
+    "year2016": 3943.95
+  },
+  {
+    "Geography": "Barrie, Ontario",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Percentage change in rate (22)",
+    "year2012": -5.38,
+    "year2013": -13.93,
+    "year2014": -0.5,
+    "year2015": -5.69,
+    "year2016": -0.72
+  },
+  {
+    "Geography": "Barrie, Ontario",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Total cleared",
+    "year2012": 4872,
+    "year2013": 4421,
+    "year2014": 4352,
+    "year2015": 4201,
+    "year2016": 4293
+  },
+  {
+    "Geography": "Barrie, Ontario",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Cleared by charge",
+    "year2012": 3472,
+    "year2013": 3217,
+    "year2014": 3303,
+    "year2015": 3369,
+    "year2016": 3344
+  },
+  {
+    "Geography": "Barrie, Ontario",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Cleared otherwise",
+    "year2012": 1400,
+    "year2013": 1204,
+    "year2014": 1049,
+    "year2015": 832,
+    "year2016": 949
+  },
+  {
+    "Geography": "Barrie, Ontario",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Total, persons charged (23)",
+    "year2012": 3521,
+    "year2013": 3244,
+    "year2014": 3351,
+    "year2015": 3410,
+    "year2016": 3311
+  },
+  {
+    "Geography": "Barrie, Ontario",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Rate, total persons charged per 100,000 population aged 12 years and over (31)",
+    "year2012": 1996.35,
+    "year2013": 1813.84,
+    "year2014": 1848.4,
+    "year2015": 1855.44,
+    "year2016": 1773.58
+  },
+  {
+    "Geography": "Barrie, Ontario",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Total, adult charged",
+    "year2012": 3051,
+    "year2013": 2918,
+    "year2014": 3061,
+    "year2015": 3075,
+    "year2016": 3107
+  },
+  {
+    "Geography": "Barrie, Ontario",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Rate, adult charged per 100,000 population aged 18 years and over (31)",
+    "year2012": 1915.52,
+    "year2013": 1798.88,
+    "year2014": 1854.44,
+    "year2015": 1831.85,
+    "year2016": 1818.51
+  },
+  {
+    "Geography": "Barrie, Ontario",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Total, youth charged (39,40)",
+    "year2012": 470,
+    "year2013": 326,
+    "year2014": 290,
+    "year2015": 335,
+    "year2016": 204
+  },
+  {
+    "Geography": "Barrie, Ontario",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Rate, youth charged per 100,000 population aged 12 to 17 years (31)",
+    "year2012": 2749.5,
+    "year2013": 1959.72,
+    "year2014": 1786.92,
+    "year2015": 2104.14,
+    "year2016": 1288.61
+  },
+  {
+    "Geography": "Barrie, Ontario",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Total, youth not charged (39,40)",
+    "year2012": 530,
+    "year2013": 418,
+    "year2014": 331,
+    "year2015": 242,
+    "year2016": 239
+  },
+  {
+    "Geography": "Barrie, Ontario",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Rate, youth not charged per 100,000 population aged 12 to 17 years (31)",
+    "year2012": 3100.5,
+    "year2013": 2512.77,
+    "year2014": 2039.56,
+    "year2015": 1520.01,
+    "year2016": 1509.7
+  },
+  {
+    "Geography": "Greater Sudbury, Ontario",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Actual incidents",
+    "year2012": 9136,
+    "year2013": 8598,
+    "year2014": 8154,
+    "year2015": 7751,
+    "year2016": 8052
+  },
+  {
+    "Geography": "Greater Sudbury, Ontario",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Rate per 100,000 population",
+    "year2012": 5529.7,
+    "year2013": 5192.88,
+    "year2014": 4931,
+    "year2015": 4694.3,
+    "year2016": 4875.45
+  },
+  {
+    "Geography": "Greater Sudbury, Ontario",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Percentage change in rate (22)",
+    "year2012": -6.11,
+    "year2013": -6.09,
+    "year2014": -5.04,
+    "year2015": -4.8,
+    "year2016": 3.86
+  },
+  {
+    "Geography": "Greater Sudbury, Ontario",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Total cleared",
+    "year2012": 4742,
+    "year2013": 4392,
+    "year2014": 4030,
+    "year2015": 4120,
+    "year2016": 4032
+  },
+  {
+    "Geography": "Greater Sudbury, Ontario",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Cleared by charge",
+    "year2012": 3926,
+    "year2013": 3730,
+    "year2014": 3245,
+    "year2015": 3362,
+    "year2016": 3279
+  },
+  {
+    "Geography": "Greater Sudbury, Ontario",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Cleared otherwise",
+    "year2012": 816,
+    "year2013": 662,
+    "year2014": 785,
+    "year2015": 758,
+    "year2016": 753
+  },
+  {
+    "Geography": "Greater Sudbury, Ontario",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Total, persons charged (23)",
+    "year2012": 4039,
+    "year2013": 3863,
+    "year2014": 3353,
+    "year2015": 3434,
+    "year2016": 3199
+  },
+  {
+    "Geography": "Greater Sudbury, Ontario",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Rate, total persons charged per 100,000 population aged 12 years and over (31)",
+    "year2012": 2772.65,
+    "year2013": 2645.8,
+    "year2014": 2299.08,
+    "year2015": 2360.19,
+    "year2016": 2200.44
+  },
+  {
+    "Geography": "Greater Sudbury, Ontario",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Total, adult charged",
+    "year2012": 3438,
+    "year2013": 3327,
+    "year2014": 2949,
+    "year2015": 3064,
+    "year2016": 2909
+  },
+  {
+    "Geography": "Greater Sudbury, Ontario",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Rate, adult charged per 100,000 population aged 18 years and over (31)",
+    "year2012": 2562.25,
+    "year2013": 2466.27,
+    "year2014": 2181.36,
+    "year2015": 2266.89,
+    "year2016": 2150.28
+  },
+  {
+    "Geography": "Greater Sudbury, Ontario",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Total, youth charged (39,40)",
+    "year2012": 601,
+    "year2013": 536,
+    "year2014": 404,
+    "year2015": 370,
+    "year2016": 290
+  },
+  {
+    "Geography": "Greater Sudbury, Ontario",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Rate, youth charged per 100,000 population aged 12 to 17 years (31)",
+    "year2012": 5228.82,
+    "year2013": 4826.65,
+    "year2014": 3793.43,
+    "year2015": 3580.41,
+    "year2016": 2872.71
+  },
+  {
+    "Geography": "Greater Sudbury, Ontario",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Total, youth not charged (39,40)",
+    "year2012": 413,
+    "year2013": 369,
+    "year2014": 297,
+    "year2015": 371,
+    "year2016": 299
+  },
+  {
+    "Geography": "Greater Sudbury, Ontario",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Rate, youth not charged per 100,000 population aged 12 to 17 years (31)",
+    "year2012": 3593.18,
+    "year2013": 3322.83,
+    "year2014": 2788.73,
+    "year2015": 3590.09,
+    "year2016": 2961.86
+  },
+  {
+    "Geography": "Thunder Bay, Ontario",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Actual incidents",
+    "year2012": 8998,
+    "year2013": 8306,
+    "year2014": 8262,
+    "year2015": 7776,
+    "year2016": 7934
+  },
+  {
+    "Geography": "Thunder Bay, Ontario",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Rate per 100,000 population",
+    "year2012": 7494.09,
+    "year2013": 6809.03,
+    "year2014": 6788.77,
+    "year2015": 6426.5,
+    "year2016": 6583.14
+  },
+  {
+    "Geography": "Thunder Bay, Ontario",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Percentage change in rate (22)",
+    "year2012": -15.41,
+    "year2013": -9.14,
+    "year2014": -0.3,
+    "year2015": -5.34,
+    "year2016": 2.44
+  },
+  {
+    "Geography": "Thunder Bay, Ontario",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Total cleared",
+    "year2012": 4786,
+    "year2013": 4314,
+    "year2014": 4462,
+    "year2015": 4091,
+    "year2016": 4144
+  },
+  {
+    "Geography": "Thunder Bay, Ontario",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Cleared by charge",
+    "year2012": 3755,
+    "year2013": 3350,
+    "year2014": 3193,
+    "year2015": 2884,
+    "year2016": 3149
+  },
+  {
+    "Geography": "Thunder Bay, Ontario",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Cleared otherwise",
+    "year2012": 1031,
+    "year2013": 964,
+    "year2014": 1269,
+    "year2015": 1207,
+    "year2016": 995
+  },
+  {
+    "Geography": "Thunder Bay, Ontario",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Total, persons charged (23)",
+    "year2012": 3780,
+    "year2013": 3283,
+    "year2014": 3206,
+    "year2015": 2917,
+    "year2016": 3138
+  },
+  {
+    "Geography": "Thunder Bay, Ontario",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Rate, total persons charged per 100,000 population aged 12 years and over (31)",
+    "year2012": 3545.13,
+    "year2013": 3028.71,
+    "year2014": 2963.88,
+    "year2015": 2712.58,
+    "year2016": 2930
+  },
+  {
+    "Geography": "Thunder Bay, Ontario",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Total, adult charged",
+    "year2012": 3339,
+    "year2013": 2916,
+    "year2014": 2901,
+    "year2015": 2713,
+    "year2016": 2931
+  },
+  {
+    "Geography": "Thunder Bay, Ontario",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Rate, adult charged per 100,000 population aged 18 years and over (31)",
+    "year2012": 3387.3,
+    "year2013": 2900.25,
+    "year2014": 2883.98,
+    "year2015": 2706.53,
+    "year2016": 2933.67
+  },
+  {
+    "Geography": "Thunder Bay, Ontario",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Total, youth charged (39,40)",
+    "year2012": 441,
+    "year2013": 367,
+    "year2014": 305,
+    "year2015": 204,
+    "year2016": 207
+  },
+  {
+    "Geography": "Thunder Bay, Ontario",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Rate, youth charged per 100,000 population aged 12 to 17 years (31)",
+    "year2012": 5477.58,
+    "year2013": 4673.37,
+    "year2014": 4024.28,
+    "year2015": 2795.67,
+    "year2016": 2879
+  },
+  {
+    "Geography": "Thunder Bay, Ontario",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Total, youth not charged (39,40)",
+    "year2012": 302,
+    "year2013": 265,
+    "year2014": 314,
+    "year2015": 276,
+    "year2016": 209
+  },
+  {
+    "Geography": "Thunder Bay, Ontario",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Rate, youth not charged per 100,000 population aged 12 to 17 years (31)",
+    "year2012": 3751.09,
+    "year2013": 3374.51,
+    "year2014": 4143.03,
+    "year2015": 3782.38,
+    "year2016": 2906.82
+  },
+  {
+    "Geography": "Manitoba",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Actual incidents",
+    "year2012": 121815,
+    "year2013": 110361,
+    "year2014": 107589,
+    "year2015": 115343,
+    "year2016": 124522
+  },
+  {
+    "Geography": "Manitoba",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Rate per 100,000 population",
+    "year2012": 9743.13,
+    "year2013": 8720.07,
+    "year2014": 8399.14,
+    "year2015": 8900.05,
+    "year2016": 9446.88
+  },
+  {
+    "Geography": "Manitoba",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Percentage change in rate (22)",
+    "year2012": -1.24,
+    "year2013": -10.5,
+    "year2014": -3.68,
+    "year2015": 5.96,
+    "year2016": 6.14
+  },
+  {
+    "Geography": "Manitoba",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Total cleared",
+    "year2012": 61318,
+    "year2013": 58454,
+    "year2014": 56314,
+    "year2015": 57037,
+    "year2016": 60345
+  },
+  {
+    "Geography": "Manitoba",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Cleared by charge",
+    "year2012": 35603,
+    "year2013": 33474,
+    "year2014": 32040,
+    "year2015": 33028,
+    "year2016": 35460
+  },
+  {
+    "Geography": "Manitoba",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Cleared otherwise",
+    "year2012": 25715,
+    "year2013": 24980,
+    "year2014": 24274,
+    "year2015": 24009,
+    "year2016": 24885
+  },
+  {
+    "Geography": "Manitoba",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Total, persons charged (23)",
+    "year2012": 35324,
+    "year2013": 32851,
+    "year2014": 30798,
+    "year2015": 31454,
+    "year2016": 33186
+  },
+  {
+    "Geography": "Manitoba",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Rate, total persons charged per 100,000 population aged 12 years and over (31)",
+    "year2012": 3321.15,
+    "year2013": 3050.88,
+    "year2014": 2827.72,
+    "year2015": 2857.38,
+    "year2016": 2966.4
+  },
+  {
+    "Geography": "Manitoba",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Total, adult charged",
+    "year2012": 29717,
+    "year2013": 27847,
+    "year2014": 26437,
+    "year2015": 26986,
+    "year2016": 28907
+  },
+  {
+    "Geography": "Manitoba",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Rate, adult charged per 100,000 population aged 18 years and over (31)",
+    "year2012": 3085.79,
+    "year2013": 2848.63,
+    "year2014": 2667.9,
+    "year2015": 2690.47,
+    "year2016": 2832.26
+  },
+  {
+    "Geography": "Manitoba",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Total, youth charged (39,40)",
+    "year2012": 5607,
+    "year2013": 5004,
+    "year2014": 4361,
+    "year2015": 4468,
+    "year2016": 4279
+  },
+  {
+    "Geography": "Manitoba",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Rate, youth charged per 100,000 population aged 12 to 17 years (31)",
+    "year2012": 5574.78,
+    "year2013": 5043.74,
+    "year2014": 4440.26,
+    "year2015": 4569.49,
+    "year2016": 4362.01
+  },
+  {
+    "Geography": "Manitoba",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Total, youth not charged (39,40)",
+    "year2012": 4723,
+    "year2013": 4326,
+    "year2014": 4133,
+    "year2015": 4196,
+    "year2016": 3980
+  },
+  {
+    "Geography": "Manitoba",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Rate, youth not charged per 100,000 population aged 12 to 17 years (31)",
+    "year2012": 4695.86,
+    "year2013": 4360.36,
+    "year2014": 4208.11,
+    "year2015": 4291.31,
+    "year2016": 4057.21
+  },
+  {
+    "Geography": "Winnipeg, Manitoba",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Actual incidents",
+    "year2012": 52771,
+    "year2013": 45938,
+    "year2014": 45280,
+    "year2015": 50261,
+    "year2016": 55036
+  },
+  {
+    "Geography": "Winnipeg, Manitoba",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Rate per 100,000 population",
+    "year2012": 6675.68,
+    "year2013": 5730.22,
+    "year2014": 5725.62,
+    "year2015": 6207.98,
+    "year2016": 6917.17
+  },
+  {
+    "Geography": "Winnipeg, Manitoba",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Percentage change in rate (22)",
+    "year2012": -3.17,
+    "year2013": -14.16,
+    "year2014": -0.08,
+    "year2015": 8.42,
+    "year2016": 11.42
+  },
+  {
+    "Geography": "Winnipeg, Manitoba",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Total cleared",
+    "year2012": 19222,
+    "year2013": 17945,
+    "year2014": 17648,
+    "year2015": 18548,
+    "year2016": 18746
+  },
+  {
+    "Geography": "Winnipeg, Manitoba",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Cleared by charge",
+    "year2012": 16988,
+    "year2013": 15956,
+    "year2014": 15661,
+    "year2015": 16124,
+    "year2016": 16450
+  },
+  {
+    "Geography": "Winnipeg, Manitoba",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Cleared otherwise",
+    "year2012": 2234,
+    "year2013": 1989,
+    "year2014": 1987,
+    "year2015": 2424,
+    "year2016": 2296
+  },
+  {
+    "Geography": "Winnipeg, Manitoba",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Total, persons charged (23)",
+    "year2012": 16085,
+    "year2013": 15067,
+    "year2014": 14700,
+    "year2015": 15282,
+    "year2016": 15073
+  },
+  {
+    "Geography": "Winnipeg, Manitoba",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Rate, total persons charged per 100,000 population aged 12 years and over (31)",
+    "year2012": 2348.56,
+    "year2013": 2168.27,
+    "year2014": 2146.51,
+    "year2015": 2181.31,
+    "year2016": 2185.61
+  },
+  {
+    "Geography": "Winnipeg, Manitoba",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Total, adult charged",
+    "year2012": 13602,
+    "year2013": 12906,
+    "year2014": 12757,
+    "year2015": 13222,
+    "year2016": 13273
+  },
+  {
+    "Geography": "Winnipeg, Manitoba",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Rate, adult charged per 100,000 population aged 18 years and over (31)",
+    "year2012": 2175.25,
+    "year2013": 2028.5,
+    "year2014": 2029.52,
+    "year2015": 2052.93,
+    "year2016": 2088.03
+  },
+  {
+    "Geography": "Winnipeg, Manitoba",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Total, youth charged (39,40)",
+    "year2012": 2483,
+    "year2013": 2161,
+    "year2014": 1943,
+    "year2015": 2060,
+    "year2016": 1800
+  },
+  {
+    "Geography": "Winnipeg, Manitoba",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Rate, youth charged per 100,000 population aged 12 to 17 years (31)",
+    "year2012": 4167.58,
+    "year2013": 3684.51,
+    "year2014": 3453.49,
+    "year2015": 3643.89,
+    "year2016": 3334.94
+  },
+  {
+    "Geography": "Winnipeg, Manitoba",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Total, youth not charged (39,40)",
+    "year2012": 985,
+    "year2013": 669,
+    "year2014": 639,
+    "year2015": 769,
+    "year2016": 626
+  },
+  {
+    "Geography": "Winnipeg, Manitoba",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Rate, youth not charged per 100,000 population aged 12 to 17 years (31)",
+    "year2012": 1653.27,
+    "year2013": 1140.65,
+    "year2014": 1135.76,
+    "year2015": 1360.27,
+    "year2016": 1159.82
+  },
+  {
+    "Geography": "Saskatchewan",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Actual incidents",
+    "year2012": 147209,
+    "year2013": 138600,
+    "year2014": 136028,
+    "year2015": 144820,
+    "year2016": 153095
+  },
+  {
+    "Geography": "Saskatchewan",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Rate per 100,000 population",
+    "year2012": 13554.93,
+    "year2013": 12543.1,
+    "year2014": 12131.44,
+    "year2015": 12790.31,
+    "year2016": 13305.3
+  },
+  {
+    "Geography": "Saskatchewan",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Percentage change in rate (22)",
+    "year2012": -4.01,
+    "year2013": -7.46,
+    "year2014": -3.28,
+    "year2015": 5.43,
+    "year2016": 4.03
+  },
+  {
+    "Geography": "Saskatchewan",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Total cleared",
+    "year2012": 88662,
+    "year2013": 80965,
+    "year2014": 77453,
+    "year2015": 77928,
+    "year2016": 78225
+  },
+  {
+    "Geography": "Saskatchewan",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Cleared by charge",
+    "year2012": 54536,
+    "year2013": 52952,
+    "year2014": 52661,
+    "year2015": 53434,
+    "year2016": 55006
+  },
+  {
+    "Geography": "Saskatchewan",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Cleared otherwise",
+    "year2012": 34126,
+    "year2013": 28013,
+    "year2014": 24792,
+    "year2015": 24494,
+    "year2016": 23219
+  },
+  {
+    "Geography": "Saskatchewan",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Total, persons charged (23)",
+    "year2012": 54713,
+    "year2013": 52989,
+    "year2014": 52589,
+    "year2015": 53323,
+    "year2016": 54588
+  },
+  {
+    "Geography": "Saskatchewan",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Rate, total persons charged per 100,000 population aged 12 years and over (31)",
+    "year2012": 5932.87,
+    "year2013": 5654.19,
+    "year2014": 5539.17,
+    "year2015": 5573.64,
+    "year2016": 5625.33
+  },
+  {
+    "Geography": "Saskatchewan",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Total, adult charged",
+    "year2012": 45995,
+    "year2013": 45061,
+    "year2014": 44881,
+    "year2015": 45964,
+    "year2016": 47801
+  },
+  {
+    "Geography": "Saskatchewan",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Rate, adult charged per 100,000 population aged 18 years and over (31)",
+    "year2012": 5484.55,
+    "year2013": 5273.18,
+    "year2014": 5176.03,
+    "year2015": 5254.25,
+    "year2016": 5385.96
+  },
+  {
+    "Geography": "Saskatchewan",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Total, youth charged (39,40)",
+    "year2012": 8718,
+    "year2013": 7928,
+    "year2014": 7708,
+    "year2015": 7359,
+    "year2016": 6787
+  },
+  {
+    "Geography": "Saskatchewan",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Rate, youth charged per 100,000 population aged 12 to 17 years (31)",
+    "year2012": 10431.6,
+    "year2013": 9594.35,
+    "year2014": 9364.71,
+    "year2015": 8985.13,
+    "year2016": 8188.36
+  },
+  {
+    "Geography": "Saskatchewan",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Total, youth not charged (39,40)",
+    "year2012": 6644,
+    "year2013": 4994,
+    "year2014": 4321,
+    "year2015": 4335,
+    "year2016": 3817
+  },
+  {
+    "Geography": "Saskatchewan",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Rate, youth not charged per 100,000 population aged 12 to 17 years (31)",
+    "year2012": 7949.94,
+    "year2013": 6043.66,
+    "year2014": 5249.73,
+    "year2015": 5292.91,
+    "year2016": 4605.12
+  },
+  {
+    "Geography": "Regina, Saskatchewan",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Actual incidents",
+    "year2012": 23146,
+    "year2013": 21621,
+    "year2014": 21133,
+    "year2015": 22274,
+    "year2016": 25170
+  },
+  {
+    "Geography": "Regina, Saskatchewan",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Rate per 100,000 population",
+    "year2012": 10181.63,
+    "year2013": 9272.43,
+    "year2014": 8866.04,
+    "year2015": 9203.79,
+    "year2016": 10164.19
+  },
+  {
+    "Geography": "Regina, Saskatchewan",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Percentage change in rate (22)",
+    "year2012": -7.03,
+    "year2013": -8.93,
+    "year2014": -4.38,
+    "year2015": 3.81,
+    "year2016": 10.43
+  },
+  {
+    "Geography": "Regina, Saskatchewan",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Total cleared",
+    "year2012": 12256,
+    "year2013": 11596,
+    "year2014": 10560,
+    "year2015": 11068,
+    "year2016": 11916
+  },
+  {
+    "Geography": "Regina, Saskatchewan",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Cleared by charge",
+    "year2012": 10557,
+    "year2013": 10158,
+    "year2014": 9416,
+    "year2015": 10060,
+    "year2016": 10771
+  },
+  {
+    "Geography": "Regina, Saskatchewan",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Cleared otherwise",
+    "year2012": 1699,
+    "year2013": 1438,
+    "year2014": 1144,
+    "year2015": 1008,
+    "year2016": 1145
+  },
+  {
+    "Geography": "Regina, Saskatchewan",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Total, persons charged (23)",
+    "year2012": 10346,
+    "year2013": 9959,
+    "year2014": 9198,
+    "year2015": 9964,
+    "year2016": 10614
+  },
+  {
+    "Geography": "Regina, Saskatchewan",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Rate, total persons charged per 100,000 population aged 12 years and over (31)",
+    "year2012": 5294.18,
+    "year2013": 4977.63,
+    "year2014": 4506.88,
+    "year2015": 4822.15,
+    "year2016": 5032.45
+  },
+  {
+    "Geography": "Regina, Saskatchewan",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Total, adult charged",
+    "year2012": 8749,
+    "year2013": 8495,
+    "year2014": 8002,
+    "year2015": 8643,
+    "year2016": 9250
+  },
+  {
+    "Geography": "Regina, Saskatchewan",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Rate, adult charged per 100,000 population aged 18 years and over (31)",
+    "year2012": 4872.52,
+    "year2013": 4608.36,
+    "year2014": 4249.96,
+    "year2015": 4530.25,
+    "year2016": 4751.41
+  },
+  {
+    "Geography": "Regina, Saskatchewan",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Total, youth charged (39,40)",
+    "year2012": 1597,
+    "year2013": 1464,
+    "year2014": 1196,
+    "year2015": 1321,
+    "year2016": 1364
+  },
+  {
+    "Geography": "Regina, Saskatchewan",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Rate, youth charged per 100,000 population aged 12 to 17 years (31)",
+    "year2012": 10066.82,
+    "year2013": 9303.51,
+    "year2014": 7567.7,
+    "year2015": 8336.49,
+    "year2016": 8403.15
+  },
+  {
+    "Geography": "Regina, Saskatchewan",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Total, youth not charged (39,40)",
+    "year2012": 720,
+    "year2013": 489,
+    "year2014": 404,
+    "year2015": 401,
+    "year2016": 339
+  },
+  {
+    "Geography": "Regina, Saskatchewan",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Rate, youth not charged per 100,000 population aged 12 to 17 years (31)",
+    "year2012": 4538.58,
+    "year2013": 3107.52,
+    "year2014": 2556.31,
+    "year2015": 2530.61,
+    "year2016": 2088.47
+  },
+  {
+    "Geography": "Saskatoon, Saskatchewan",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Actual incidents",
+    "year2012": 26758,
+    "year2013": 25968,
+    "year2014": 27345,
+    "year2015": 28411,
+    "year2016": 30891
+  },
+  {
+    "Geography": "Saskatoon, Saskatchewan",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Rate per 100,000 population",
+    "year2012": 9281.34,
+    "year2013": 8731.82,
+    "year2014": 8961.72,
+    "year2015": 9123.84,
+    "year2016": 9637.57
+  },
+  {
+    "Geography": "Saskatoon, Saskatchewan",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Percentage change in rate (22)",
+    "year2012": -9.49,
+    "year2013": -5.92,
+    "year2014": 2.63,
+    "year2015": 1.81,
+    "year2016": 5.63
+  },
+  {
+    "Geography": "Saskatoon, Saskatchewan",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Total cleared",
+    "year2012": 13698,
+    "year2013": 12825,
+    "year2014": 13410,
+    "year2015": 13475,
+    "year2016": 14300
+  },
+  {
+    "Geography": "Saskatoon, Saskatchewan",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Cleared by charge",
+    "year2012": 12457,
+    "year2013": 11781,
+    "year2014": 12302,
+    "year2015": 12355,
+    "year2016": 13137
+  },
+  {
+    "Geography": "Saskatoon, Saskatchewan",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Cleared otherwise",
+    "year2012": 1241,
+    "year2013": 1044,
+    "year2014": 1108,
+    "year2015": 1120,
+    "year2016": 1163
+  },
+  {
+    "Geography": "Saskatoon, Saskatchewan",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Total, persons charged (23)",
+    "year2012": 12402,
+    "year2013": 11810,
+    "year2014": 12476,
+    "year2015": 12316,
+    "year2016": 13304
+  },
+  {
+    "Geography": "Saskatoon, Saskatchewan",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Rate, total persons charged per 100,000 population aged 12 years and over (31)",
+    "year2012": 5013.91,
+    "year2013": 4634.41,
+    "year2014": 4779.27,
+    "year2015": 4631.47,
+    "year2016": 4868.02
+  },
+  {
+    "Geography": "Saskatoon, Saskatchewan",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Total, adult charged",
+    "year2012": 10419,
+    "year2013": 10097,
+    "year2014": 10534,
+    "year2015": 10803,
+    "year2016": 11963
+  },
+  {
+    "Geography": "Saskatoon, Saskatchewan",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Rate, adult charged per 100,000 population aged 18 years and over (31)",
+    "year2012": 4587.77,
+    "year2013": 4303.19,
+    "year2014": 4375.51,
+    "year2015": 4398.33,
+    "year2016": 4736.98
+  },
+  {
+    "Geography": "Saskatoon, Saskatchewan",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Total, youth charged (39,40)",
+    "year2012": 1983,
+    "year2013": 1713,
+    "year2014": 1942,
+    "year2015": 1513,
+    "year2016": 1341
+  },
+  {
+    "Geography": "Saskatoon, Saskatchewan",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Rate, youth charged per 100,000 population aged 12 to 17 years (31)",
+    "year2012": 9793.56,
+    "year2013": 8483.14,
+    "year2014": 9568.86,
+    "year2015": 7451.73,
+    "year2016": 6462.96
+  },
+  {
+    "Geography": "Saskatoon, Saskatchewan",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Total, youth not charged (39,40)",
+    "year2012": 599,
+    "year2013": 449,
+    "year2014": 434,
+    "year2015": 453,
+    "year2016": 511
+  },
+  {
+    "Geography": "Saskatoon, Saskatchewan",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Rate, youth not charged per 100,000 population aged 12 to 17 years (31)",
+    "year2012": 2958.32,
+    "year2013": 2223.54,
+    "year2014": 2138.46,
+    "year2015": 2231.09,
+    "year2016": 2462.77
+  },
+  {
+    "Geography": "Alberta",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Actual incidents",
+    "year2012": 318356,
+    "year2013": 318310,
+    "year2014": 328090,
+    "year2015": 369546,
+    "year2016": 374304
+  },
+  {
+    "Geography": "Alberta",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Rate per 100,000 population",
+    "year2012": 8203.46,
+    "year2013": 7964.48,
+    "year2014": 7986.06,
+    "year2015": 8841.53,
+    "year2016": 8801.19
+  },
+  {
+    "Geography": "Alberta",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Percentage change in rate (22)",
+    "year2012": -2.01,
+    "year2013": -2.91,
+    "year2014": 0.27,
+    "year2015": 10.71,
+    "year2016": -0.46
+  },
+  {
+    "Geography": "Alberta",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Total cleared",
+    "year2012": 158922,
+    "year2013": 154670,
+    "year2014": 157133,
+    "year2015": 160882,
+    "year2016": 161456
+  },
+  {
+    "Geography": "Alberta",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Cleared by charge",
+    "year2012": 98781,
+    "year2013": 97417,
+    "year2014": 101772,
+    "year2015": 106799,
+    "year2016": 111845
+  },
+  {
+    "Geography": "Alberta",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Cleared otherwise",
+    "year2012": 60141,
+    "year2013": 57253,
+    "year2014": 55361,
+    "year2015": 54083,
+    "year2016": 49611
+  },
+  {
+    "Geography": "Alberta",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Total, persons charged (23)",
+    "year2012": 91892,
+    "year2013": 90384,
+    "year2014": 93187,
+    "year2015": 97149,
+    "year2016": 101844
+  },
+  {
+    "Geography": "Alberta",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Rate, total persons charged per 100,000 population aged 12 years and over (31)",
+    "year2012": 2779.32,
+    "year2013": 2655.81,
+    "year2014": 2665.84,
+    "year2015": 2736.44,
+    "year2016": 2823.85
+  },
+  {
+    "Geography": "Alberta",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Total, adult charged",
+    "year2012": 82627,
+    "year2013": 82121,
+    "year2014": 85503,
+    "year2015": 89924,
+    "year2016": 95682
+  },
+  {
+    "Geography": "Alberta",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Rate, adult charged per 100,000 population aged 18 years and over (31)",
+    "year2012": 2730.42,
+    "year2013": 2628.96,
+    "year2014": 2657.99,
+    "year2015": 2749.48,
+    "year2016": 2878.89
+  },
+  {
+    "Geography": "Alberta",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Total, youth charged (39,40)",
+    "year2012": 9265,
+    "year2013": 8263,
+    "year2014": 7684,
+    "year2015": 7225,
+    "year2016": 6162
+  },
+  {
+    "Geography": "Alberta",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Rate, youth charged per 100,000 population aged 12 to 17 years (31)",
+    "year2012": 3307.61,
+    "year2013": 2955.79,
+    "year2014": 2756.5,
+    "year2015": 2583.95,
+    "year2016": 2177.45
+  },
+  {
+    "Geography": "Alberta",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Total, youth not charged (39,40)",
+    "year2012": 11063,
+    "year2013": 9358,
+    "year2014": 8277,
+    "year2015": 7872,
+    "year2016": 6929
+  },
+  {
+    "Geography": "Alberta",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Rate, youth not charged per 100,000 population aged 12 to 17 years (31)",
+    "year2012": 3949.49,
+    "year2013": 3347.49,
+    "year2014": 2969.23,
+    "year2015": 2815.34,
+    "year2016": 2448.49
+  },
+  {
+    "Geography": "Calgary, Alberta",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Actual incidents",
+    "year2012": 62602,
+    "year2013": 63872,
+    "year2014": 64823,
+    "year2015": 81495,
+    "year2016": 82008
+  },
+  {
+    "Geography": "Calgary, Alberta",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Rate per 100,000 population",
+    "year2012": 4790.26,
+    "year2013": 4682.91,
+    "year2014": 4599.4,
+    "year2015": 5659.73,
+    "year2016": 5561.28
+  },
+  {
+    "Geography": "Calgary, Alberta",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Percentage change in rate (22)",
+    "year2012": -5.8,
+    "year2013": -2.24,
+    "year2014": -1.78,
+    "year2015": 23.05,
+    "year2016": -1.74
+  },
+  {
+    "Geography": "Calgary, Alberta",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Total cleared",
+    "year2012": 24333,
+    "year2013": 23147,
+    "year2014": 24222,
+    "year2015": 24618,
+    "year2016": 24570
+  },
+  {
+    "Geography": "Calgary, Alberta",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Cleared by charge",
+    "year2012": 18486,
+    "year2013": 17439,
+    "year2014": 17938,
+    "year2015": 18422,
+    "year2016": 18729
+  },
+  {
+    "Geography": "Calgary, Alberta",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Cleared otherwise",
+    "year2012": 5847,
+    "year2013": 5708,
+    "year2014": 6284,
+    "year2015": 6196,
+    "year2016": 5841
+  },
+  {
+    "Geography": "Calgary, Alberta",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Total, persons charged (23)",
+    "year2012": 16608,
+    "year2013": 16059,
+    "year2014": 16333,
+    "year2015": 17231,
+    "year2016": 17602
+  },
+  {
+    "Geography": "Calgary, Alberta",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Rate, total persons charged per 100,000 population aged 12 years and over (31)",
+    "year2012": 1486.08,
+    "year2013": 1377.04,
+    "year2014": 1355.64,
+    "year2015": 1401.64,
+    "year2016": 1399.76
+  },
+  {
+    "Geography": "Calgary, Alberta",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Total, adult charged",
+    "year2012": 14970,
+    "year2013": 14721,
+    "year2014": 14980,
+    "year2015": 16049,
+    "year2016": 16646
+  },
+  {
+    "Geography": "Calgary, Alberta",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Rate, adult charged per 100,000 population aged 18 years and over (31)",
+    "year2012": 1456.76,
+    "year2013": 1369.48,
+    "year2014": 1345.59,
+    "year2015": 1411.68,
+    "year2016": 1431.22
+  },
+  {
+    "Geography": "Calgary, Alberta",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Total, youth charged (39,40)",
+    "year2012": 1638,
+    "year2013": 1338,
+    "year2014": 1353,
+    "year2015": 1182,
+    "year2016": 956
+  },
+  {
+    "Geography": "Calgary, Alberta",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Rate, youth charged per 100,000 population aged 12 to 17 years (31)",
+    "year2012": 1821.03,
+    "year2013": 1466.16,
+    "year2014": 1477.93,
+    "year2015": 1278.22,
+    "year2016": 1012.3
+  },
+  {
+    "Geography": "Calgary, Alberta",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Total, youth not charged (39,40)",
+    "year2012": 1535,
+    "year2013": 1304,
+    "year2014": 1334,
+    "year2015": 1297,
+    "year2016": 1147
+  },
+  {
+    "Geography": "Calgary, Alberta",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Rate, youth not charged per 100,000 population aged 12 to 17 years (31)",
+    "year2012": 1706.52,
+    "year2013": 1428.9,
+    "year2014": 1457.18,
+    "year2015": 1402.59,
+    "year2016": 1214.55
+  },
+  {
+    "Geography": "Edmonton, Alberta",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Actual incidents",
+    "year2012": 92334,
+    "year2013": 96080,
+    "year2014": 99731,
+    "year2015": 113270,
+    "year2016": 121909
+  },
+  {
+    "Geography": "Edmonton, Alberta",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Rate per 100,000 population",
+    "year2012": 7428.44,
+    "year2013": 7479.07,
+    "year2014": 7514.63,
+    "year2015": 8350.72,
+    "year2016": 8787.62
+  },
+  {
+    "Geography": "Edmonton, Alberta",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Percentage change in rate (22)",
+    "year2012": -2.61,
+    "year2013": 0.68,
+    "year2014": 0.48,
+    "year2015": 11.13,
+    "year2016": 5.23
+  },
+  {
+    "Geography": "Edmonton, Alberta",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Total cleared",
+    "year2012": 46020,
+    "year2013": 46728,
+    "year2014": 48787,
+    "year2015": 52912,
+    "year2016": 57370
+  },
+  {
+    "Geography": "Edmonton, Alberta",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Cleared by charge",
+    "year2012": 36406,
+    "year2013": 37695,
+    "year2014": 40223,
+    "year2015": 44070,
+    "year2016": 48696
+  },
+  {
+    "Geography": "Edmonton, Alberta",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Cleared otherwise",
+    "year2012": 9614,
+    "year2013": 9033,
+    "year2014": 8564,
+    "year2015": 8842,
+    "year2016": 8674
+  },
+  {
+    "Geography": "Edmonton, Alberta",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Total, persons charged (23)",
+    "year2012": 31732,
+    "year2013": 32404,
+    "year2014": 34020,
+    "year2015": 36616,
+    "year2016": 40709
+  },
+  {
+    "Geography": "Edmonton, Alberta",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Rate, total persons charged per 100,000 population aged 12 years and over (31)",
+    "year2012": 2963.85,
+    "year2013": 2930.42,
+    "year2014": 2981.22,
+    "year2015": 3145.82,
+    "year2016": 3425.7
+  },
+  {
+    "Geography": "Edmonton, Alberta",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Total, adult charged",
+    "year2012": 28480,
+    "year2013": 29230,
+    "year2014": 31175,
+    "year2015": 33644,
+    "year2016": 38135
+  },
+  {
+    "Geography": "Edmonton, Alberta",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Rate, adult charged per 100,000 population aged 18 years and over (31)",
+    "year2012": 2889.04,
+    "year2013": 2862.45,
+    "year2014": 2950.48,
+    "year2015": 3118.35,
+    "year2016": 3460.98
+  },
+  {
+    "Geography": "Edmonton, Alberta",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Total, youth charged (39,40)",
+    "year2012": 3252,
+    "year2013": 3174,
+    "year2014": 2845,
+    "year2015": 2972,
+    "year2016": 2574
+  },
+  {
+    "Geography": "Edmonton, Alberta",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Rate, youth charged per 100,000 population aged 12 to 17 years (31)",
+    "year2012": 3833.14,
+    "year2013": 3750.58,
+    "year2014": 3365.43,
+    "year2015": 3494.29,
+    "year2016": 2976.2
+  },
+  {
+    "Geography": "Edmonton, Alberta",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Total, youth not charged (39,40)",
+    "year2012": 2593,
+    "year2013": 2394,
+    "year2014": 1824,
+    "year2015": 1918,
+    "year2016": 1801
+  },
+  {
+    "Geography": "Edmonton, Alberta",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Rate, youth not charged per 100,000 population aged 12 to 17 years (31)",
+    "year2012": 3056.38,
+    "year2013": 2828.88,
+    "year2014": 2157.66,
+    "year2015": 2255.06,
+    "year2016": 2082.42
+  },
+  {
+    "Geography": "British Columbia",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Actual incidents",
+    "year2012": 411975,
+    "year2013": 391767,
+    "year2014": 399707,
+    "year2015": 411156,
+    "year2016": 412179
+  },
+  {
+    "Geography": "British Columbia",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Rate per 100,000 population",
+    "year2012": 9061.78,
+    "year2013": 8537.01,
+    "year2014": 8604.62,
+    "year2015": 8761.14,
+    "year2016": 8674.51
+  },
+  {
+    "Geography": "British Columbia",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Percentage change in rate (22)",
+    "year2012": -2.64,
+    "year2013": -5.79,
+    "year2014": 0.79,
+    "year2015": 1.82,
+    "year2016": -0.99
+  },
+  {
+    "Geography": "British Columbia",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Total cleared",
+    "year2012": 146205,
+    "year2013": 141955,
+    "year2014": 132880,
+    "year2015": 131730,
+    "year2016": 133892
+  },
+  {
+    "Geography": "British Columbia",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Cleared by charge",
+    "year2012": 73240,
+    "year2013": 69148,
+    "year2014": 66038,
+    "year2015": 69297,
+    "year2016": 69051
+  },
+  {
+    "Geography": "British Columbia",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Cleared otherwise",
+    "year2012": 72965,
+    "year2013": 72807,
+    "year2014": 66842,
+    "year2015": 62433,
+    "year2016": 64841
+  },
+  {
+    "Geography": "British Columbia",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Total, persons charged (23)",
+    "year2012": 73158,
+    "year2013": 68850,
+    "year2014": 65555,
+    "year2015": 68397,
+    "year2016": 68522
+  },
+  {
+    "Geography": "British Columbia",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Rate, total persons charged per 100,000 population aged 12 years and over (31)",
+    "year2012": 1823.71,
+    "year2013": 1698.78,
+    "year2014": 1596.8,
+    "year2015": 1648.78,
+    "year2016": 1631.56
+  },
+  {
+    "Geography": "British Columbia",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Total, adult charged",
+    "year2012": 68034,
+    "year2013": 64430,
+    "year2014": 61988,
+    "year2015": 64776,
+    "year2016": 65316
+  },
+  {
+    "Geography": "British Columbia",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Rate, adult charged per 100,000 population aged 18 years and over (31)",
+    "year2012": 1837.89,
+    "year2013": 1718.08,
+    "year2014": 1627.72,
+    "year2015": 1681,
+    "year2016": 1672.3
+  },
+  {
+    "Geography": "British Columbia",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Total, youth charged (39,40)",
+    "year2012": 5124,
+    "year2013": 4420,
+    "year2014": 3567,
+    "year2015": 3621,
+    "year2016": 3206
+  },
+  {
+    "Geography": "British Columbia",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Rate, youth charged per 100,000 population aged 12 to 17 years (31)",
+    "year2012": 1654.25,
+    "year2013": 1459.69,
+    "year2014": 1200.56,
+    "year2015": 1227.82,
+    "year2016": 1090.35
+  },
+  {
+    "Geography": "British Columbia",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Total, youth not charged (39,40)",
+    "year2012": 12116,
+    "year2013": 10318,
+    "year2014": 8632,
+    "year2015": 7623,
+    "year2016": 7184
+  },
+  {
+    "Geography": "British Columbia",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Rate, youth not charged per 100,000 population aged 12 to 17 years (31)",
+    "year2012": 3911.57,
+    "year2013": 3407.47,
+    "year2014": 2905.31,
+    "year2015": 2584.82,
+    "year2016": 2443.25
+  },
+  {
+    "Geography": "Kelowna, British Columbia",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Actual incidents",
+    "year2012": 19020,
+    "year2013": 16972,
+    "year2014": 17254,
+    "year2015": 18625,
+    "year2016": 19311
+  },
+  {
+    "Geography": "Kelowna, British Columbia",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Rate per 100,000 population",
+    "year2012": 10298.39,
+    "year2013": 9089.25,
+    "year2014": 9079.81,
+    "year2015": 9607.8,
+    "year2016": 9805.52
+  },
+  {
+    "Geography": "Kelowna, British Columbia",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Percentage change in rate (22)",
+    "year2012": 4.19,
+    "year2013": -11.74,
+    "year2014": -0.1,
+    "year2015": 5.81,
+    "year2016": 2.06
+  },
+  {
+    "Geography": "Kelowna, British Columbia",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Total cleared",
+    "year2012": 7469,
+    "year2013": 7557,
+    "year2014": 7838,
+    "year2015": 7416,
+    "year2016": 8004
+  },
+  {
+    "Geography": "Kelowna, British Columbia",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Cleared by charge",
+    "year2012": 3096,
+    "year2013": 3483,
+    "year2014": 3420,
+    "year2015": 3330,
+    "year2016": 3668
+  },
+  {
+    "Geography": "Kelowna, British Columbia",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Cleared otherwise",
+    "year2012": 4373,
+    "year2013": 4074,
+    "year2014": 4418,
+    "year2015": 4086,
+    "year2016": 4336
+  },
+  {
+    "Geography": "Kelowna, British Columbia",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Total, persons charged (23)",
+    "year2012": 3177,
+    "year2013": 3534,
+    "year2014": 3460,
+    "year2015": 3194,
+    "year2016": 3505
+  },
+  {
+    "Geography": "Kelowna, British Columbia",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Rate, total persons charged per 100,000 population aged 12 years and over (31)",
+    "year2012": 1934.75,
+    "year2013": 2126.12,
+    "year2014": 2043.77,
+    "year2015": 1846.94,
+    "year2016": 1993.8
+  },
+  {
+    "Geography": "Kelowna, British Columbia",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Total, adult charged",
+    "year2012": 2991,
+    "year2013": 3300,
+    "year2014": 3235,
+    "year2015": 3045,
+    "year2016": 3367
+  },
+  {
+    "Geography": "Kelowna, British Columbia",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Rate, adult charged per 100,000 population aged 18 years and over (31)",
+    "year2012": 1968.24,
+    "year2013": 2138.54,
+    "year2014": 2052.59,
+    "year2015": 1888,
+    "year2016": 2048.99
+  },
+  {
+    "Geography": "Kelowna, British Columbia",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Total, youth charged (39,40)",
+    "year2012": 186,
+    "year2013": 234,
+    "year2014": 225,
+    "year2015": 149,
+    "year2016": 138
+  },
+  {
+    "Geography": "Kelowna, British Columbia",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Rate, youth charged per 100,000 population aged 12 to 17 years (31)",
+    "year2012": 1519.11,
+    "year2013": 1965.23,
+    "year2014": 1924.89,
+    "year2015": 1278.64,
+    "year2016": 1203.14
+  },
+  {
+    "Geography": "Kelowna, British Columbia",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Total, youth not charged (39,40)",
+    "year2012": 589,
+    "year2013": 541,
+    "year2014": 471,
+    "year2015": 433,
+    "year2016": 432
+  },
+  {
+    "Geography": "Kelowna, British Columbia",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Rate, youth not charged per 100,000 population aged 12 to 17 years (31)",
+    "year2012": 4810.52,
+    "year2013": 4543.55,
+    "year2014": 4029.43,
+    "year2015": 3715.78,
+    "year2016": 3766.35
+  },
+  {
+    "Geography": "Abbotsford-Mission, British Columbia",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Actual incidents",
+    "year2012": 12583,
+    "year2013": 12302,
+    "year2014": 12888,
+    "year2015": 14750,
+    "year2016": 14111
+  },
+  {
+    "Geography": "Abbotsford-Mission, British Columbia",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Rate per 100,000 population",
+    "year2012": 7140.75,
+    "year2013": 6913.57,
+    "year2014": 7146.03,
+    "year2015": 8027.12,
+    "year2016": 7575.4
+  },
+  {
+    "Geography": "Abbotsford-Mission, British Columbia",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Percentage change in rate (22)",
+    "year2012": -7.24,
+    "year2013": -3.18,
+    "year2014": 3.36,
+    "year2015": 12.33,
+    "year2016": -5.63
+  },
+  {
+    "Geography": "Abbotsford-Mission, British Columbia",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Total cleared",
+    "year2012": 3930,
+    "year2013": 3815,
+    "year2014": 3735,
+    "year2015": 3867,
+    "year2016": 3725
+  },
+  {
+    "Geography": "Abbotsford-Mission, British Columbia",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Cleared by charge",
+    "year2012": 2298,
+    "year2013": 2200,
+    "year2014": 2207,
+    "year2015": 2479,
+    "year2016": 2475
+  },
+  {
+    "Geography": "Abbotsford-Mission, British Columbia",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Cleared otherwise",
+    "year2012": 1632,
+    "year2013": 1615,
+    "year2014": 1528,
+    "year2015": 1388,
+    "year2016": 1250
+  },
+  {
+    "Geography": "Abbotsford-Mission, British Columbia",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Total, persons charged (23)",
+    "year2012": 2364,
+    "year2013": 2241,
+    "year2014": 2182,
+    "year2015": 2454,
+    "year2016": 2497
+  },
+  {
+    "Geography": "Abbotsford-Mission, British Columbia",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Rate, total persons charged per 100,000 population aged 12 years and over (31)",
+    "year2012": 1572.92,
+    "year2013": 1475.18,
+    "year2014": 1415.84,
+    "year2015": 1562.77,
+    "year2016": 1568.07
+  },
+  {
+    "Geography": "Abbotsford-Mission, British Columbia",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Total, adult charged",
+    "year2012": 2209,
+    "year2013": 2127,
+    "year2014": 2069,
+    "year2015": 2243,
+    "year2016": 2360
+  },
+  {
+    "Geography": "Abbotsford-Mission, British Columbia",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Rate, adult charged per 100,000 population aged 18 years and over (31)",
+    "year2012": 1621.77,
+    "year2013": 1539.84,
+    "year2014": 1473.02,
+    "year2015": 1565.31,
+    "year2016": 1622.79
+  },
+  {
+    "Geography": "Abbotsford-Mission, British Columbia",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Total, youth charged (39,40)",
+    "year2012": 155,
+    "year2013": 114,
+    "year2014": 113,
+    "year2015": 211,
+    "year2016": 137
+  },
+  {
+    "Geography": "Abbotsford-Mission, British Columbia",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Rate, youth charged per 100,000 population aged 12 to 17 years (31)",
+    "year2012": 1100.46,
+    "year2013": 827.11,
+    "year2014": 827.66,
+    "year2015": 1536.22,
+    "year2016": 991.96
+  },
+  {
+    "Geography": "Abbotsford-Mission, British Columbia",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Total, youth not charged (39,40)",
+    "year2012": 343,
+    "year2013": 227,
+    "year2014": 186,
+    "year2015": 213,
+    "year2016": 155
+  },
+  {
+    "Geography": "Abbotsford-Mission, British Columbia",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Rate, youth not charged per 100,000 population aged 12 to 17 years (31)",
+    "year2012": 2435.21,
+    "year2013": 1646.96,
+    "year2014": 1362.34,
+    "year2015": 1550.78,
+    "year2016": 1122.29
+  },
+  {
+    "Geography": "Vancouver, British Columbia",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Actual incidents",
+    "year2012": 192890,
+    "year2013": 188570,
+    "year2014": 202363,
+    "year2015": 204041,
+    "year2016": 204939
+  },
+  {
+    "Geography": "Vancouver, British Columbia",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Rate per 100,000 population",
+    "year2012": 7996.81,
+    "year2013": 7710.61,
+    "year2014": 8147.74,
+    "year2015": 8130.05,
+    "year2016": 8033.37
+  },
+  {
+    "Geography": "Vancouver, British Columbia",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Percentage change in rate (22)",
+    "year2012": -2.79,
+    "year2013": -3.58,
+    "year2014": 5.67,
+    "year2015": -0.22,
+    "year2016": -1.19
+  },
+  {
+    "Geography": "Vancouver, British Columbia",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Total cleared",
+    "year2012": 54451,
+    "year2013": 54698,
+    "year2014": 49976,
+    "year2015": 47278,
+    "year2016": 50049
+  },
+  {
+    "Geography": "Vancouver, British Columbia",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Cleared by charge",
+    "year2012": 28649,
+    "year2013": 27261,
+    "year2014": 26244,
+    "year2015": 27098,
+    "year2016": 27526
+  },
+  {
+    "Geography": "Vancouver, British Columbia",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Cleared otherwise",
+    "year2012": 25802,
+    "year2013": 27437,
+    "year2014": 23732,
+    "year2015": 20180,
+    "year2016": 22523
+  },
+  {
+    "Geography": "Vancouver, British Columbia",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Total, persons charged (23)",
+    "year2012": 28247,
+    "year2013": 26801,
+    "year2014": 25770,
+    "year2015": 26502,
+    "year2016": 27172
+  },
+  {
+    "Geography": "Vancouver, British Columbia",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Rate, total persons charged per 100,000 population aged 12 years and over (31)",
+    "year2012": 1325.51,
+    "year2013": 1238.89,
+    "year2014": 1171.91,
+    "year2015": 1192.37,
+    "year2016": 1202.89
+  },
+  {
+    "Geography": "Vancouver, British Columbia",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Total, adult charged",
+    "year2012": 26471,
+    "year2013": 25290,
+    "year2014": 24566,
+    "year2015": 25322,
+    "year2016": 26125
+  },
+  {
+    "Geography": "Vancouver, British Columbia",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Rate, adult charged per 100,000 population aged 18 years and over (31)",
+    "year2012": 1345.18,
+    "year2013": 1262.72,
+    "year2014": 1203.54,
+    "year2015": 1225.87,
+    "year2016": 1243.06
+  },
+  {
+    "Geography": "Vancouver, British Columbia",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Total, youth charged (39,40)",
+    "year2012": 1776,
+    "year2013": 1511,
+    "year2014": 1204,
+    "year2015": 1180,
+    "year2016": 1047
+  },
+  {
+    "Geography": "Vancouver, British Columbia",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Rate, youth charged per 100,000 population aged 12 to 17 years (31)",
+    "year2012": 1088.27,
+    "year2013": 941.5,
+    "year2014": 762.84,
+    "year2015": 751.64,
+    "year2016": 665.87
+  },
+  {
+    "Geography": "Vancouver, British Columbia",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Total, youth not charged (39,40)",
+    "year2012": 4531,
+    "year2013": 3899,
+    "year2014": 3222,
+    "year2015": 2565,
+    "year2016": 2634
+  },
+  {
+    "Geography": "Vancouver, British Columbia",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Rate, youth not charged per 100,000 population aged 12 to 17 years (31)",
+    "year2012": 2776.43,
+    "year2013": 2429.45,
+    "year2014": 2041.42,
+    "year2015": 1633.85,
+    "year2016": 1675.17
+  },
+  {
+    "Geography": "Victoria, British Columbia",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Actual incidents",
+    "year2012": 25140,
+    "year2013": 22135,
+    "year2014": 22881,
+    "year2015": 24852,
+    "year2016": 23405
+  },
+  {
+    "Geography": "Victoria, British Columbia",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Rate per 100,000 population",
+    "year2012": 7067.77,
+    "year2013": 6175.78,
+    "year2014": 6316.79,
+    "year2015": 6781.51,
+    "year2016": 6307.66
+  },
+  {
+    "Geography": "Victoria, British Columbia",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Percentage change in rate (22)",
+    "year2012": -6.9,
+    "year2013": -12.62,
+    "year2014": 2.28,
+    "year2015": 7.36,
+    "year2016": -6.99
+  },
+  {
+    "Geography": "Victoria, British Columbia",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Total cleared",
+    "year2012": 10040,
+    "year2013": 9211,
+    "year2014": 9090,
+    "year2015": 8768,
+    "year2016": 8058
+  },
+  {
+    "Geography": "Victoria, British Columbia",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Cleared by charge",
+    "year2012": 5157,
+    "year2013": 4692,
+    "year2014": 4692,
+    "year2015": 5139,
+    "year2016": 4909
+  },
+  {
+    "Geography": "Victoria, British Columbia",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Cleared otherwise",
+    "year2012": 4883,
+    "year2013": 4519,
+    "year2014": 4398,
+    "year2015": 3629,
+    "year2016": 3149
+  },
+  {
+    "Geography": "Victoria, British Columbia",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Total, persons charged (23)",
+    "year2012": 5198,
+    "year2013": 4725,
+    "year2014": 4718,
+    "year2015": 5197,
+    "year2016": 4940
+  },
+  {
+    "Geography": "Victoria, British Columbia",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Rate, total persons charged per 100,000 population aged 12 years and over (31)",
+    "year2012": 1625.81,
+    "year2013": 1466.57,
+    "year2014": 1449.21,
+    "year2015": 1578.48,
+    "year2016": 1482.39
+  },
+  {
+    "Geography": "Victoria, British Columbia",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Total, adult charged",
+    "year2012": 4786,
+    "year2013": 4375,
+    "year2014": 4400,
+    "year2015": 4949,
+    "year2016": 4717
+  },
+  {
+    "Geography": "Victoria, British Columbia",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Rate, adult charged per 100,000 population aged 18 years and over (31)",
+    "year2012": 1599.5,
+    "year2013": 1447.6,
+    "year2014": 1437.89,
+    "year2015": 1597.11,
+    "year2016": 1502.31
+  },
+  {
+    "Geography": "Victoria, British Columbia",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Total, youth charged (39,40)",
+    "year2012": 412,
+    "year2013": 350,
+    "year2014": 318,
+    "year2015": 248,
+    "year2016": 223
+  },
+  {
+    "Geography": "Victoria, British Columbia",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Rate, youth charged per 100,000 population aged 12 to 17 years (31)",
+    "year2012": 2009.95,
+    "year2013": 1753.77,
+    "year2014": 1626.52,
+    "year2015": 1280.53,
+    "year2016": 1157.78
+  },
+  {
+    "Geography": "Victoria, British Columbia",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Total, youth not charged (39,40)",
+    "year2012": 753,
+    "year2013": 645,
+    "year2014": 617,
+    "year2015": 475,
+    "year2016": 375
+  },
+  {
+    "Geography": "Victoria, British Columbia",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Rate, youth not charged per 100,000 population aged 12 to 17 years (31)",
+    "year2012": 3673.53,
+    "year2013": 3231.95,
+    "year2014": 3155.85,
+    "year2015": 2452.63,
+    "year2016": 1946.94
+  },
+  {
+    "Geography": "Yukon",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Actual incidents",
+    "year2012": 8191,
+    "year2013": 9492,
+    "year2014": 9731,
+    "year2015": 9722,
+    "year2016": 9118
+  },
+  {
+    "Geography": "Yukon",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Rate per 100,000 population",
+    "year2012": 22716.18,
+    "year2013": 26137.96,
+    "year2014": 26391.3,
+    "year2015": 25999.52,
+    "year2016": 24319.85
+  },
+  {
+    "Geography": "Yukon",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Percentage change in rate (22)",
+    "year2012": 0.76,
+    "year2013": 15.06,
+    "year2014": 0.97,
+    "year2015": -1.48,
+    "year2016": -6.46
+  },
+  {
+    "Geography": "Yukon",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Total cleared",
+    "year2012": 5039,
+    "year2013": 6034,
+    "year2014": 6048,
+    "year2015": 6064,
+    "year2016": 5501
+  },
+  {
+    "Geography": "Yukon",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Cleared by charge",
+    "year2012": 1615,
+    "year2013": 1710,
+    "year2014": 1582,
+    "year2015": 1619,
+    "year2016": 1469
+  },
+  {
+    "Geography": "Yukon",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Cleared otherwise",
+    "year2012": 3424,
+    "year2013": 4324,
+    "year2014": 4466,
+    "year2015": 4445,
+    "year2016": 4032
+  },
+  {
+    "Geography": "Yukon",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Total, persons charged (23)",
+    "year2012": 1600,
+    "year2013": 1710,
+    "year2014": 1525,
+    "year2015": 1545,
+    "year2016": 1425
+  },
+  {
+    "Geography": "Yukon",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Rate, total persons charged per 100,000 population aged 12 years and over (31)",
+    "year2012": 5125.74,
+    "year2013": 5439.8,
+    "year2014": 4783.26,
+    "year2015": 4787.58,
+    "year2016": 4415.59
+  },
+  {
+    "Geography": "Yukon",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Total, adult charged",
+    "year2012": 1454,
+    "year2013": 1563,
+    "year2014": 1390,
+    "year2015": 1392,
+    "year2016": 1324
+  },
+  {
+    "Geography": "Yukon",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Rate, adult charged per 100,000 population aged 18 years and over (31)",
+    "year2012": 5067.08,
+    "year2013": 5395.61,
+    "year2014": 4727.09,
+    "year2015": 4668.16,
+    "year2016": 4433.58
+  },
+  {
+    "Geography": "Yukon",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Total, youth charged (39,40)",
+    "year2012": 146,
+    "year2013": 147,
+    "year2014": 135,
+    "year2015": 153,
+    "year2016": 101
+  },
+  {
+    "Geography": "Yukon",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Rate, youth charged per 100,000 population aged 12 to 17 years (31)",
+    "year2012": 5793.65,
+    "year2013": 5958.65,
+    "year2014": 5450.14,
+    "year2015": 6239.8,
+    "year2016": 4192.61
+  },
+  {
+    "Geography": "Yukon",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Total, youth not charged (39,40)",
+    "year2012": 340,
+    "year2013": 438,
+    "year2014": 492,
+    "year2015": 647,
+    "year2016": 447
+  },
+  {
+    "Geography": "Yukon",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Rate, youth not charged per 100,000 population aged 12 to 17 years (31)",
+    "year2012": 13492.06,
+    "year2013": 17754.36,
+    "year2014": 19862.74,
+    "year2015": 26386.62,
+    "year2016": 18555.42
+  },
+  {
+    "Geography": "Northwest Territories",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Actual incidents",
+    "year2012": 22367,
+    "year2013": 21252,
+    "year2014": 20476,
+    "year2015": 20893,
+    "year2016": 19325
+  },
+  {
+    "Geography": "Northwest Territories",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Rate per 100,000 population",
+    "year2012": 51307.52,
+    "year2013": 48536.06,
+    "year2014": 46654.06,
+    "year2015": 47222.22,
+    "year2016": 43457.24
+  },
+  {
+    "Geography": "Northwest Territories",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Percentage change in rate (22)",
+    "year2012": -1.9,
+    "year2013": -5.4,
+    "year2014": -3.88,
+    "year2015": 1.22,
+    "year2016": -7.97
+  },
+  {
+    "Geography": "Northwest Territories",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Total cleared",
+    "year2012": 15742,
+    "year2013": 14964,
+    "year2014": 14206,
+    "year2015": 14143,
+    "year2016": 13169
+  },
+  {
+    "Geography": "Northwest Territories",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Cleared by charge",
+    "year2012": 2867,
+    "year2013": 2735,
+    "year2014": 2595,
+    "year2015": 2799,
+    "year2016": 2700
+  },
+  {
+    "Geography": "Northwest Territories",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Cleared otherwise",
+    "year2012": 12875,
+    "year2013": 12229,
+    "year2014": 11611,
+    "year2015": 11344,
+    "year2016": 10469
+  },
+  {
+    "Geography": "Northwest Territories",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Total, persons charged (23)",
+    "year2012": 2800,
+    "year2013": 2603,
+    "year2014": 2462,
+    "year2015": 2705,
+    "year2016": 2565
+  },
+  {
+    "Geography": "Northwest Territories",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Rate, total persons charged per 100,000 population aged 12 years and over (31)",
+    "year2012": 7777.78,
+    "year2013": 7211.33,
+    "year2014": 6818.81,
+    "year2015": 7459.6,
+    "year2016": 7062.22
+  },
+  {
+    "Geography": "Northwest Territories",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Total, adult charged",
+    "year2012": 2539,
+    "year2013": 2367,
+    "year2014": 2273,
+    "year2015": 2534,
+    "year2016": 2373
+  },
+  {
+    "Geography": "Northwest Territories",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Rate, adult charged per 100,000 population aged 18 years and over (31)",
+    "year2012": 7839.57,
+    "year2013": 7247.84,
+    "year2014": 6902.73,
+    "year2015": 7629.77,
+    "year2016": 7128.7
+  },
+  {
+    "Geography": "Northwest Territories",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Total, youth charged (39,40)",
+    "year2012": 261,
+    "year2013": 236,
+    "year2014": 189,
+    "year2015": 171,
+    "year2016": 192
+  },
+  {
+    "Geography": "Northwest Territories",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Rate, youth charged per 100,000 population aged 12 to 17 years (31)",
+    "year2012": 7223.91,
+    "year2013": 6864.46,
+    "year2014": 5949.01,
+    "year2015": 5606.56,
+    "year2016": 6332.45
+  },
+  {
+    "Geography": "Northwest Territories",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Total, youth not charged (39,40)",
+    "year2012": 1083,
+    "year2013": 823,
+    "year2014": 784,
+    "year2015": 661,
+    "year2016": 548
+  },
+  {
+    "Geography": "Northwest Territories",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Rate, youth not charged per 100,000 population aged 12 to 17 years (31)",
+    "year2012": 29975.09,
+    "year2013": 23938.34,
+    "year2014": 24677.37,
+    "year2015": 21672.13,
+    "year2016": 18073.88
+  },
+  {
+    "Geography": "Nunavut",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Actual incidents",
+    "year2012": 14079,
+    "year2013": 12271,
+    "year2014": 11768,
+    "year2015": 12582,
+    "year2016": 13272
+  },
+  {
+    "Geography": "Nunavut",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Rate per 100,000 population",
+    "year2012": 40565.3,
+    "year2013": 34662.86,
+    "year2014": 32668.02,
+    "year2015": 34441.04,
+    "year2016": 35790.95
+  },
+  {
+    "Geography": "Nunavut",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Percentage change in rate (22)",
+    "year2012": 2.84,
+    "year2013": -14.55,
+    "year2014": -5.75,
+    "year2015": 5.43,
+    "year2016": 3.92
+  },
+  {
+    "Geography": "Nunavut",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Total cleared",
+    "year2012": 11220,
+    "year2013": 9837,
+    "year2014": 9290,
+    "year2015": 9853,
+    "year2016": 10141
+  },
+  {
+    "Geography": "Nunavut",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Cleared by charge",
+    "year2012": 3059,
+    "year2013": 2806,
+    "year2014": 2384,
+    "year2015": 2249,
+    "year2016": 2327
+  },
+  {
+    "Geography": "Nunavut",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Cleared otherwise",
+    "year2012": 8161,
+    "year2013": 7031,
+    "year2014": 6906,
+    "year2015": 7604,
+    "year2016": 7814
+  },
+  {
+    "Geography": "Nunavut",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Total, persons charged (23)",
+    "year2012": 2750,
+    "year2013": 2519,
+    "year2014": 2166,
+    "year2015": 2046,
+    "year2016": 2128
+  },
+  {
+    "Geography": "Nunavut",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Rate, total persons charged per 100,000 population aged 12 years and over (31)",
+    "year2012": 10685.84,
+    "year2013": 9584.51,
+    "year2014": 8105.07,
+    "year2015": 7535.08,
+    "year2016": 7701.22
+  },
+  {
+    "Geography": "Nunavut",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Total, adult charged",
+    "year2012": 2481,
+    "year2013": 2268,
+    "year2014": 1999,
+    "year2015": 1888,
+    "year2016": 1958
+  },
+  {
+    "Geography": "Nunavut",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Rate, adult charged per 100,000 population aged 18 years and over (31)",
+    "year2012": 11330.32,
+    "year2013": 10093.01,
+    "year2014": 8693.95,
+    "year2015": 8074.59,
+    "year2016": 8212.74
+  },
+  {
+    "Geography": "Nunavut",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Total, youth charged (39,40)",
+    "year2012": 269,
+    "year2013": 251,
+    "year2014": 167,
+    "year2015": 158,
+    "year2016": 170
+  },
+  {
+    "Geography": "Nunavut",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Rate, youth charged per 100,000 population aged 12 to 17 years (31)",
+    "year2012": 7008.86,
+    "year2013": 6586.2,
+    "year2014": 4476.01,
+    "year2015": 4189.87,
+    "year2016": 4484.3
+  },
+  {
+    "Geography": "Nunavut",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Total, youth not charged (39,40)",
+    "year2012": 729,
+    "year2013": 715,
+    "year2014": 717,
+    "year2015": 711,
+    "year2016": 667
+  },
+  {
+    "Geography": "Nunavut",
+    "Violations": "Total, all violations [0]",
+    "Statistics": "Rate, youth not charged per 100,000 population aged 12 to 17 years (31)",
+    "year2012": 18994.27,
+    "year2013": 18761.48,
+    "year2014": 19217.37,
+    "year2015": 18854.42,
+    "year2016": 17594.3
+  }
+]
+}

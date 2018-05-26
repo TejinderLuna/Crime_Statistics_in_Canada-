@@ -1,0 +1,40 @@
+{
+  "offences": [
+    {
+      "_text": "Murder"
+    },
+    {
+      "_text": "Manslaughter"
+    },
+    {
+      "_text": "Robbery"
+    },
+    {
+      "_text": "Sexual assault"
+    },
+    {
+      "_text": "Aggravated sexual assault"
+    },
+    {
+      "_text": "Assault"
+    },
+    {
+      "_text": "Home breaking"
+    },
+    {
+      "_text": "Theft vehicle"
+    },
+    {
+      "_text": "Theft"
+    },
+    {
+      "_text": "Frauds"
+    },
+    {
+      "_text": "Prostitution"
+    },
+    {
+      "_text": "Gambling"
+    }
+  ]
+}

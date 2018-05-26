@@ -1,0 +1,206 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>YouTube Videos Access (Crime)</title>
+    <script src="http://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+    <script src="http://cdnjs.cloudflare.com/ajax/libs/fancybox/2.1.5/jquery.fancybox.pack.js"></script>
+    <link rel="stylesheet" href="http://fancyapps.com/fancybox/source/jquery.fancybox.css?v=2.1.5">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
+
+    <style>
+        #custom-search-input {
+            padding: 3px;
+            border: solid 1px #E4E4E4;
+            border-radius: 1px;
+            background-color: #fff;
+        }
+
+        #custom-search-input input {
+            box-shadow: blueviolet;
+            width: 400px;
+            padding: 10px;
+            border: 1px solid black;
+        }
+
+        #custom-search-input button {
+            box-shadow: lightgreen;
+            background-color: #4CAF50;
+            border: none;
+            color: hwb(0, 100%, 0%);
+            padding: 1px;
+            text-align: center;
+            text-decoration: none;
+            margin-bottom: 10px;
+            position: absolute;
+            left: 15px;
+            right: 15px;
+        }
+
+        #custom-search-input button:hover {
+            border: 0;
+            box-shadow: none;
+            border-left: solid 1px #ccc;
+        }
+
+        #custom-search-input .image-search {
+            font-size: 17px;
+        }
+
+        article {
+            margin: 10px 0;
+            background: rgba(0, 0, 0, 0.7);
+            padding: 4px 20px;
+        }
+
+        .video-wrapper video {
+            position: fixed;
+            top: 0;
+            right: 0;
+            min-width: 100%;
+            min-height: 100%;
+            width: auto;
+            height: auto;
+        }
+
+        .clearfix {
+            border-bottom: 1px dotted #ccc;
+            margin-bottom: 5px;
+        }
+
+        .form-control {
+            background-color: lightgoldenrodyellow;
+
+        }
+
+        #search-form {
+            background-color: #E4E4E4;
+            border: none;
+            padding-bottom: 0px;
+        }
+
+        div {
+            background-color: ghostwhite;
+            border: 1px solid white;
+        }
+
+        h2 {
+            margin-left: 20px;
+            color: blue;
+            text-decoration: underline;
+            font-style: italic;
+        }
+
+        #results {
+            font-size: 13px;
+            font-weight: bold;
+        }
+
+        .glyphicon-search {
+            font-size: 25px;
+        }
+
+
+    </style>
+</head>
+
+
+<body>
+<h2>YouTube Search Engine for Crime Related Videos</h2>
+<div id="custom-search-input">
+    <div class="input-group col-md-12">
+        <form id="search-form" name="search-form" onsubmit="return searchYoutube();">
+            <input type="text" class="form-control" placeholder="Search on YouTube..." id="search"/>
+            <span class="input-group-btn">
+                            <button class="btn btn-info btn-lg" type="submit" id="findNow">
+                                <i class="glyphicon glyphicon-search"></i>
+                            </button>
+                        </span>
+        </form>
+    </div>
+</div>
+<div id="results"></div>
+
+<input type="button" value="<<Go back!" onclick="history.back()"></input>
+
+
+<script>
+    var apikey = 'AIzaSyCYTwTDArCxCjHp3f0gyuArKc6eWMn4P8U';
+
+    $(function () {
+
+        $(".fancyboxIframe").fancybox({
+            maxWidth: 700,
+            maxHeight: 700,
+            fitToView: false,
+            width: '24%',
+            height: '26%',
+            autoSize: true,
+            closeClick: false,
+            openEffect: 'none',
+            closeEffect: 'none',
+            iframe: {
+                scrolling: 'auto',
+                preload: true
+            }
+        });
+
+        $('#search-form').submit(function (sub) {
+            sub.preventDefault();
+        });
+    });
+
+    function searchYoutube() {
+        $('#results').html('<i class="fa fa-spinner fa-pulse fa-3x fa-fw"></i><span class="sr-only">Loading your YouTube Search...</span>');
+
+
+        q = $('#search').val();
+
+        $.get(
+            "https://www.googleapis.com/youtube/v3/search", {
+                part: 'snippet, id',
+                q: q,
+                type: 'video',
+                key: apikey,
+                maxResults: 20
+
+            }, function (data) {
+
+                $('#results').html('');
+                $.each(data.items, function (i, video) {
+
+                    var output = getOutput(video);
+
+                    $('#results').append(output);
+                });
+
+                function getOutput(video) {
+                    var videoID = video.id.videoId;
+                    var title = video.snippet.title;
+                    var description = video.snippet.description;
+                    var thumb = video.snippet.thumbnails.medium.url;
+                    var channelTitle = video.snippet.channelTitle;
+                    var videoDate = video.snippet.publishedAt;
+
+                    var output = '<div class="col-md-6">' +
+                        '<img src="' + thumb + '" class="img-responsive thumbnail" >' + '</div>' + '<div class="input-group col-md-6">' +
+                        '<h3><a data-fancybox-type="iframe" class="fancyboxIframe" href="http://youtube.com/embed/' + videoID + '?rel=0">' + title + '</a></h3>' +
+                        '<small>By <span class="channel">' + channelTitle + '</span> on ' + videoDate + '</small>' +
+                        '<p>' + description + '</p>' + '</div>' + '<div class="clearfix"></div>';
+                    return output;
+                }
+
+                function back() {
+                    window.history.back();
+                }
+            })
+    }
+
+
+</script>
+
+</body>
+</html>
+
+
